@@ -31,35 +31,40 @@
 3번 학생이 2번 학생이나 4번 학생에게 체육복을 빌려주면 학생 4명이 체육수업을 들을 수 있습니다.
 
 ## 문제 풀이 리뷰
-해당 문제는 그냥 풀었던 같은데 리뷰를 보니 `HashSet`을 이용하는 경우가 있어서 참고용 코드 첨부합니다.
-```java
-import java.util.*;
-class Solution {
-    public int solution(int n, int[] lost, int[] reserve) {
-        int answer = n;
-        HashSet<Integer> resList = new HashSet<>();
-        HashSet<Integer> losList = new HashSet<>();
+- [Java](./Solution.java)
+  1. 해당 문제는 그냥 풀었던 같은데 리뷰를 보니 `HashSet`을 이용하는 경우가 있어서 참고용 코드를 첨부한다.
 
-        for (int i : reserve)
-            resList.add(i);
-        for (int i : lost) {
-            if(resList.contains(i))
-                resList.remove(i);
-            else
-                losList.add(i);
-        }
-        for (int i : lost) {
-            if(losList.contains(i)) {
-                if(resList.contains(i-1))
-                    resList.remove(i-1);
-                else if(resList.contains(i+1))
-                    resList.remove(i+1);
-                else
-                    answer--;
-            }
-        } 
-        return answer;
-    }
-}
-```
-세상에 머리 좋은 분들이 너무 많은 것 같네요. 😂
+     ```java
+     import java.util.*;
+     class Solution {
+       public int solution(int n, int[] lost, int[] reserve) {
+         int answer = n;
+         HashSet<Integer> resList = new HashSet<>();
+         HashSet<Integer> losList = new HashSet<>();
+
+         for (int i : reserve)
+           resList.add(i);
+
+         for (int i : lost) {
+           if(resList.contains(i))
+             resList.remove(i);
+           else
+             losList.add(i);
+         }
+
+         for (int i : lost) {
+           if(losList.contains(i)) {
+             if(resList.contains(i-1))
+               resList.remove(i-1);
+             else if(resList.contains(i+1))
+               resList.remove(i+1);
+             else
+               answer--;
+           }
+         } 
+       return answer;
+       }
+     }
+     ```
+
+  2. 위와 같이 HashSet을 이용하면 조금 더 낭비 없이 코드를 구현할 수 있는 것 같다.

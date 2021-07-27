@@ -32,4 +32,5 @@
 |A381217|Cherokee|
 
 ## 문제 풀이 리뷰
-조건문 WHERE절을 이용하여 `Sick`에 해당 하는 row를 `ANIMAL_ID`로 오름차순 정렬하면 된다.
+- [MySQL](./Solution_mysql.sql)
+  1. 조건문 WHERE절을 이용하여 `Sick`에 해당 하는 row를 `ANIMAL_ID`로 오름차순 정렬한다.

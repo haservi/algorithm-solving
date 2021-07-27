@@ -22,5 +22,6 @@
 |A352555|Dog|2014-08-08 04:20:00|Normal|Harley|Spayed Female|
 
 ## 문제 풀이 리뷰
-필요한 컬럼을 추가하고, 동물의 `ANIMAL_ID` 순으로 정렬하면 된다.
+- [MySQL](./Solution_mysql.sql)
+  1. 필요한 컬럼을 추가하고, 동물의 `ANIMAL_ID` 순으로 정렬한다.
 
