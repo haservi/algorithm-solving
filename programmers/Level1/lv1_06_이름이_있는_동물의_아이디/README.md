@@ -35,4 +35,4 @@
 
 ## 문제 풀이 리뷰
 - [MySQL](./Solution_mysql.sql)
-  1. 조건문 IS NOT NULL을 이용하여 NAME이 있는 조건만 검색한다.
+1. 조건문 IS NOT NULL을 이용하여 NAME이 있는 조건만 검색한다.

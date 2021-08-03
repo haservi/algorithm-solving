@@ -32,7 +32,7 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 ※ 컬럼 이름(위 예제에서는 "시간")은 일치하지 않아도 됩니다.
 
 ## 문제 풀이 리뷰
- - [MySQL](./Solution_mysql.sql)
-   1. 정렬 후 LIMIT 함수를 이용하여 출력
- - [Oracle](./Solution_oracle.sql)
-   1. 정렬 후 커버링을 이용하여 하나의 값만 출력
+- [MySQL](./Solution_mysql.sql)
+1. 정렬 후 LIMIT 함수를 이용하여 출력
+- [Oracle](./Solution_oracle.sql)
+1. 정렬 후 커버링을 이용하여 하나의 값만 출력

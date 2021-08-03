@@ -31,7 +31,7 @@
 |A368930|
 
 ## 문제 풀이 리뷰
- - [MySQL](./Solution_mysql.sql)
-   1. 조건절 체크 후 정렬한다.
- - [Oracle](./Solution_oracle.sql)
-   1. 조건절 체크 후 정렬한다.
+- [MySQL](./Solution_mysql.sql)
+1. 조건절 체크 후 정렬한다.
+- [Oracle](./Solution_oracle.sql)
+1. 조건절 체크 후 정렬한다.

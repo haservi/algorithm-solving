@@ -1,4 +1,4 @@
-# 음양 더하기
+# [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
 
 ## 문제 설명
 어떤 정수들이 있습니다. 이 정수들의 절댓값을 차례대로 담은 정수 배열 absolutes와 이 정수들의 부호를 차례대로 담은 불리언 배열 signs가 매개변수로 주어집니다.  
@@ -30,4 +30,4 @@
 
 ## 문제 풀이 리뷰
 - [Java](./Solution.java)
-  1. 제한상으로 길이가 같기 때문에 signs 배열의 true false에 따라 음양값만 정한 후 모든 값을 더해주면 된다.
+1. 제한상으로 길이가 같기 때문에 signs 배열의 true false에 따라 음양값만 정한 후 모든 값을 더해주면 된다.
