@@ -1,4 +1,4 @@
-# 없어진 기록 찾기
+# [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042)
 
 ## 문제 설명
 `ANIMAL_INS` 테이블은 동물 보호소에 들어온 동물의 정보를 담은 테이블입니다.  
@@ -57,3 +57,8 @@ ANIMAL_OUTS 테이블에서
 |---|---|
 |A349733|Allie|
 |A349990|Spice|
+
+## 문제 풀이 리뷰
+- [MySQL](./Solution_mysql.sql)
+1. 보호소에 있다가 입양을 보냈기 때문에 기존의 ID값은 항상 일치해야한다.
+2. 그렇기 때문에 LEFT JOIN을 이용하여 값이 없는 경우가 유실된 데이터이다.
