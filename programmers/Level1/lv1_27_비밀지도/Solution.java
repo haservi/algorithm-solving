@@ -16,12 +16,13 @@ class Solution {
   public String[] solution(int n, int[] arr1, int[] arr2) {
     String[] answer = new String[n];
 
+    // 경로를 십진수를 이진수로 변경 및 이진수 앞 공백 추가
     int count = n;
     for (int i = 0; i < count; i++) {
       String firstKeyMap = makeZero(Integer.toBinaryString(arr1[i]), count);
       String secondKeyMap = makeZero(Integer.toBinaryString(arr2[i]), count);
       String rowKey = "";
-      System.out.println(firstKeyMap);
+      // System.out.println(firstKeyMap);
       for (int j = 0; j < count; j++) {
         if ((firstKeyMap.charAt(j) == '0') && (secondKeyMap.charAt(j) == '0')) {
           rowKey += " ";
@@ -29,7 +30,7 @@ class Solution {
           rowKey += "#";
         }
       }
-      System.out.println(rowKey);
+      // System.out.println(rowKey);
       answer[i] = rowKey;
     }
     return answer;

@@ -30,11 +30,9 @@ class Solution {
       if (failPlayers != 0) {
         failRate = (double) failPlayers / reminePlayers;
       }
-      System.out.println("fail player : " + failPlayers + ", remain player : " + reminePlayers);
       stageFailRateMap.put(i, failRate);
       reminePlayers -= failPlayers;
     }
-    System.out.println(stageFailRateMap.toString());
 
     // 실패율이 가장 큰 순서대로 값 넣기
     for (int i = 0; i < stageCount; i++) {
