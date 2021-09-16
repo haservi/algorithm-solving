@@ -13,31 +13,42 @@ public class Solution {
     System.out.println("결과: " + Arrays.toString(result));
   }
 
+  class Task {
+    int progress;
+    int speed;
+
+    public Task (int progress, int speed) {
+      this.progress = progress;
+      this.speed = speed;
+    }
+  }
+
   public int[] solution(int[] progresses, int[] speeds) {
-    Queue<Integer> queue = new LinkedList<Integer>();
-    Queue<Integer> speedQueue = new LinkedList<Integer>();
+
+    Queue<Task> queue = new LinkedList<Task>();
+    
     for (int i = 0; i < progresses.length; i++) {
-      queue.offer(progresses[i]);
-      speedQueue.offer(speeds[i]);
+      queue.add(new Task(progresses[i], speeds[i]));
     }
     int day = 1;
-    int dayComplete = 0;
+    int progressCompleteCount = 0;
     List<Integer> completeList = new ArrayList<Integer>();
+
     while (!queue.isEmpty()) {
-      int score = queue.peek() + (speedQueue.peek() * day);
+      Task task = queue.peek();
+      int score = task.progress + (task.speed * day);
       if (100 <= score) {
         queue.poll();
-        speedQueue.poll();
-        dayComplete++;
+        progressCompleteCount++;
         // 가장 마지막 값 삽입
         if (queue.isEmpty()) {
-          completeList.add(dayComplete);
+          completeList.add(progressCompleteCount);
         }
 
       } else {
-        if (dayComplete != 0) {
-          completeList.add(dayComplete);
-          dayComplete = 0;
+        if (progressCompleteCount != 0) {
+          completeList.add(progressCompleteCount);
+          progressCompleteCount = 0;
         }
         day++;
       }
