@@ -4,7 +4,7 @@ public class Solution {
   public static void main(String[] args) {
     Solution solution = new Solution();
 
-    String name = "AAA";
+    String name = "AABAAB";
     int result = solution.solution(name);
     System.out.println("결과: " + result);
   }
@@ -23,30 +23,25 @@ public class Solution {
     int minMove = nameLength - 1;
     for (int i = 0; i < nameLength; i++) {
       int next = i + 1;
+      int nextCountA = 0;
       while (next < nameLength && name.charAt(next) == 'A') {
         next++;
-      }
-      int move = i + nameLength - next;
-
-      String moveDirection = "";
-      int leftOrRight = 0;
-      int foward = i;
-      int reverse = nameLength - next;
-      if (foward <= reverse) {
-        leftOrRight = foward;
-        moveDirection = "정방향";
-      } else {
-        leftOrRight = reverse;
-        moveDirection = "역방향";
+        nextCountA++;
       }
 
-      int nowMinMove = move + leftOrRight;
-      minMove = Math.min(minMove, nowMinMove);
-      System.out.println(i + "인덱스 앞 A를 제외한 총 거리는 " + move + "이며, " + moveDirection + "으로 " + leftOrRight + " 이동하였다.(정방향:" + foward + ", 역방향:" + reverse + ")");
-      System.out.println("====> " + i + "번째값의 평균 이동 거리는 " + nowMinMove + "이다.");
+      // 0번쨰 인덱스에서 앞의 A를 제외하고 이동한 거리
+      int moveWithoutA = name.length() - nextCountA - 1;
+      // System.out.println("movewithA:" + moveWithoutA);
+
+      // 처음부터 i번째 까지 왔다가 돌아가는 방식과 뒤에서 출발하여 i번째 까지 오는 방식중 작은 값 선택
+      int min = Math.min(i, name.length() - next);
+
+      // 알파벳을 순회하며 작은 값을 선택
+      minMove = Math.min(minMove, moveWithoutA + min);
+      // System.out.println(i + "번째값의 평균 이동 거리는 " + (moveWithoutA + min) + "이다.");
     }
 
-    System.out.println("****총 알파벳 변경 회수는 " + changeAlpabatCount + "이며, 최소이동 거리는 " + minMove + "이다.****");
+    // System.out.println("총 알파벳 변경 회수는 " + changeAlpabatCount + "이며, 최소이동 거리는 " + minMove + "이다.");
     answer = (changeAlpabatCount + minMove);
 
     return answer;
