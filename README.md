@@ -1,6 +1,19 @@
-# ¾Ë°í¸®Áò ¹®Á¦Ç®ÀÌ
+# Algorithm Study
 
-ÇØ´ç ¹®Á¦ Ç®ÀÌ´Â °³ÀÎ °øºÎ ±â·Ï¿ë ·¹Æ÷ÁöÅä¸®ÀÌ´Ù.  
 
-## [programmers](https://programmers.co.kr/) µî ´Ù¾çÇÑ »çÀÌÆ®ÀÇ ¾Ë°í¸®Áò ¹®Á¦ Ç®ÀÌ
-- Java, JavaScript, C#, Kotiln µî ´Ù¾çÇÑ ¾ğ¾î·Î ¹®Á¦ Ç®ÀÌ
+## Introduction
+- ì•Œê³ ë¦¬ì¦˜ ëŠ¥ë ¥ í–¥ìƒ ë° ë¬¸ì œ í’€ì´ í›„ ë‹¤ë¥¸ ë¶„ì´ í‘¼ ë¬¸ì œ í™•ì¸ ë° ë¦¬ë·°
+
+## Resources
+- [í”„ë¡œê·¸ë˜ë¨¸ìŠ¤](https://programmers.co.kr/learn/challenges)
+- [ë°±ì¤€](https://www.acmicpc.net)
+- [í•´ì»¤ë­í¬](https://www.hackerrank.com/dashboard)
+- [ë¦¿ì½”ë“œ](https://leetcode.com/)
+- [ì½”ë”© ì¸í„°ë·°](http://www.yes24.com/Product/Goods/44305533)
+
+## Problem Solving
+- [í”„ë¡œê·¸ë˜ë¨¸ìŠ¤](programmers/README.md)
+
+## Reference
+ì°¸ê³  ì‚¬í•­
+
