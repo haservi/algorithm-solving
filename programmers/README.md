@@ -58,7 +58,7 @@
 | 번호 | 문제 설명 | 코드 | 문제 리뷰 |
 | :-: | :-- | :-- | :-: |
 | 1 | [소수찾기](Level2/lv2_01_소수찾기/README.md) | [Java](Level2/lv2_01_소수찾기/Solution.java) |
-| 2 | [고양이와 개는 몇 마리 있을까](Level2/lv2_02_고양이와_개는_몇_마리_있을까/README.md) | [MySQL](Level1/lv2_02_고양이와_개는_몇_마리_있을까/Solution_mysql.sql), Oracle |
+| 2 | [고양이와 개는 몇 마리 있을까](Level2/lv2_02_고양이와_개는_몇_마리_있을까/README.md) | [MySQL](Level2/lv2_02_고양이와_개는_몇_마리_있을까/Solution_mysql.sql), Oracle |
 | 3 | [짝 지어 제거하기](Level2/lv2_03_짝_지어_제거하기/README.md) | [Java](Level2/lv2_03_짝_지어_제거하기/Solution.java) |
 | 4 | [문자열 압축](Level2/lv2_04_문자열_압축/README.md) | [Java](Level2/lv2_04_문자열_압축/Solution.java) |
 | 5 | [전화번호 목록](Level2/lv2_05_전화번호_목록/README.md) | [Java](Level2/lv2_05_전화번호_목록/Solution.java) |
@@ -71,10 +71,9 @@
 | 12 | [H INDEX](Level2/lv2_12_H_INDEX/README.md) | [Java](Level2/lv2_12_H_INDEX/Solution.java) |
 | 13 | [카펫](Level2/lv2_13_카펫/README.md) | [Java](Level2/lv2_13_카펫/Solution.java) |
 | 14 | [조이스틱](Level2/lv2_14_조이스틱/README.md) | [Java](Level2/lv2_14_조이스틱/Solution.java) | [리뷰](https://haservi.github.io/posts/algorithms/level2/03-joystick/) |
-| 15 | [](Level2//README.md) | [Java](Level2//Solution.java) |
+| 15 | [큰수 만들기](Level2/lv2_15_큰수_만들기/README.md) | [Java](Level2/lv2_15_큰수_만들기/Solution.java) |
 | 16 | [](Level2//README.md) | [Java](Level2//Solution.java) |
 | 17 | [](Level2//README.md) | [Java](Level2//Solution.java) |
 | 18 | [](Level2//README.md) | [Java](Level2//Solution.java) |
 | 19 | [](Level2//README.md) | [Java](Level2//Solution.java) |
 | 20 | [](Level2//README.md) | [Java](Level2//Solution.java) |
-| 21 |

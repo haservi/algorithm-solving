@@ -15,5 +15,4 @@
 - [프로그래머스](programmers/README.md)
 
 ## Reference
-참고 사항
 
