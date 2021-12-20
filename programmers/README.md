@@ -29,11 +29,11 @@
 | 24 | [어린 동물 찾기](Level1/lv1_24_어린_동물_찾기/README.md) | [MySQL](Level1/lv1_24_어린_동물_찾기/Solution_mysql.sql), Oracle |
 | 25 | [두 개 뽑아서 더하기](Level1/lv1_25_두_개_뽑아서_더하기/README.md) | [Java](Level1/lv1_25_두_개_뽑아서_더하기/Solution.java) |
 | 26 | [동물의 아이디와 이름](Level1/lv1_26_동물의_아이디와_이름/README.md) | [Java](Level1/lv1_26_동물의_아이디와_이름/Solution.java) |
-| 27 | [비밀지도](Level1/lv1_27_비밀지도/README.md) | [Java](Level1/lv1_27_비밀지도/Solution.java) |
+| 27 | [비밀지도](Level1/lv1_27_비밀지도/README.md) | [Java](Level1/lv1_27_비밀지도/Solution.java) | [리뷰](https://haservi.github.io/posts/algorithms/programmers/level1/01-algo-secret-map/) |
 | 28 | [예산](Level1/lv1_28_예산/README.md) | [Java](Level1/lv1_28_예산/Solution.java) |
 | 29 | [다트 게임](Level1/lv1_29_다트_게임/README.md) | [Java](Level1/lv1_29_다트_게임/Solution.java) |
 | 30 | [문자열 내 마음대로 정렬하기](Level1/lv1_30_문자열_내_마음대로_정렬하기/README.md) | [Java](Level1/lv1_30_문자열_내_마음대로_정렬하기/Solution.java) |
-| 31 | [직업군 추천하기](Level1/lv1_31_직업군_추천하기/README.md) | [Java](Level1/lv1_31_직업군_추천하기/Solution.java) |
+| 31 | [직업군 추천하기](Level1/lv1_31_직업군_추천하기/README.md) | [Java](Level1/lv1_31_직업군_추천하기/Solution.java) | [리뷰](https://haservi.github.io/posts/algorithms/programmers/level1/02-algo-recommend-job/) |
 | 32 | [상위 n개 레코드](Level1/lv1_32_상위_n개_레코드/README.md) | [MySQL](Level1/lv1_32_상위_n개_레코드/Solution_mysql.sql), Oracle |
 | 33 | [문자열 내 p와 y의_개수](Level1/lv1_33_문자열_내_p와_y의_개수/README.md) | [Java](Level1/lv1_33_문자열_내_p와_y의_개수/Solution.java) |
 | 34 | [문자열 다루기 기본](Level1/lv1_34_문자열_다루기_기본/README.md) | [Java](Level1/lv1_34_문자열_다루기_기본/Solution.java) |
@@ -48,8 +48,8 @@
 | 43 | [정수 내림차순으로 배치하기](Level1/lv1_43_정수_내림차순으로_배치하기/README.md) | [Java](Level1/lv1_43_정수_내림차순으로_배치하기/Solution.java) |
 | 44 | [정수 제곱근 판별](Level1/lv1_44_정수_제곱근_판별/README.md) | [Java](Level1/lv1_44_정수_제곱근_판별/Solution.java) |
 | 45 | [제일 작은 수 제거하기](Level1/lv1_45_제일_작은_수_제거하기/README.md) | [Java](Level1/lv1_45_제일_작은_수_제거하기/Solution.java) |
-| 46 | [콜라츠 추측](Level1/lv1_46_콜라츠_추측/README.md) | [Java](Level1/lv1_46_콜라츠_추측/Solution.java) |
-| 47 | [하샤드 수](Level1/lv1_48_핸드폰_번호_가리기/README.md) | [Java](Level1/lv1_47_하샤드_수/Solution.java) |
+| 46 | [콜라츠 추측](Level1/lv1_46_콜라츠_추측/README.md) | [Java](Level1/lv1_46_콜라츠_추측/Solution.java) | [리뷰](https://haservi.github.io/posts/algorithms/programmers/level1/03-algo-colatz-guess/) |
+| 47 | [하샤드 수](Level1/lv1_48_핸드폰_번호_가리기/README.md) | [Java](Level1/lv1_47_하샤드_수/Solution.java) | [리뷰](https://haservi.github.io/posts/algorithms/programmers/level2/01-camouflage/) |
 | 48 | [핸드폰 번호 가리기](Level1//README.md) | [Java](Level1/lv1_48_핸드폰_번호_가리기/Solution.java) |
 | 49 | [x만큼 간격이 있는 n개의 숫자](Level1/lv1_49_x만큼_간격이_있는_n개의_숫자/README.md) | [Java](Level1/lv1_49_x만큼_간격이_있는_n개의_숫자/Solution.java) |
 | 50 | [직사각형 별찍기](Level1/lv1_50_직사각형_별찍기/README.md) | [Java](Level1/lv1_50_직사각형_별찍기/Solution.java) |
@@ -65,15 +65,24 @@
 | 6 | [위장](Level2/lv2_06_위장/README.md) | [Java](Level2/lv2_06_위장/Solution.java) |
 | 7 | [기능개발](Level2/lv2_07_기능개발/README.md) | [Java](Level2/lv2_07_기능개발/Solution.java) |
 | 8 | [프린터](Level2/lv2_08_프린터/README.md) | [Java](Level2/lv2_08_프린터/Solution.java) |
-| 9 | [다리를 지나는 트럭](Level2/lv2_09_다리를_지나는_트럭/README.md) | [Java](Level2/lv2_09_다리를_지나는_트럭/Solution.java) |
+| 9 | [다리를 지나는 트럭](Level2/lv2_09_다리를_지나는_트럭/README.md) | [Java](Level2/lv2_09_다리를_지나는_트럭/Solution.java) | [리뷰](https://haservi.github.io/posts/algorithms/programmers/level2/02-truck-crossing-the-bridge/) |
 | 10 | [더 맵게](Level2/lv2_10_더_맵게/README.md) | [Java](Level2/lv2_10_더_맵게/Solution.java) |
 | 11 | [가장 큰 수](Level2/lv2_11_가장_큰_수/README.md) | [Java](Level2/lv2_11_가장_큰_수/Solution.java) |
 | 12 | [H INDEX](Level2/lv2_12_H_INDEX/README.md) | [Java](Level2/lv2_12_H_INDEX/Solution.java) |
 | 13 | [카펫](Level2/lv2_13_카펫/README.md) | [Java](Level2/lv2_13_카펫/Solution.java) |
-| 14 | [조이스틱](Level2/lv2_14_조이스틱/README.md) | [Java](Level2/lv2_14_조이스틱/Solution.java) | [리뷰](https://haservi.github.io/posts/algorithms/level2/03-joystick/) |
+| 14 | [조이스틱](Level2/lv2_14_조이스틱/README.md) | [Java](Level2/lv2_14_조이스틱/Solution.java) | [리뷰](https://haservi.github.io/posts/algorithms/programmers/level2/03-joystick/) |
 | 15 | [큰수 만들기](Level2/lv2_15_큰수_만들기/README.md) | [Java](Level2/lv2_15_큰수_만들기/Solution.java) |
-| 16 | [](Level2//README.md) | [Java](Level2//Solution.java) |
-| 17 | [](Level2//README.md) | [Java](Level2//Solution.java) |
-| 18 | [](Level2//README.md) | [Java](Level2//Solution.java) |
-| 19 | [](Level2//README.md) | [Java](Level2//Solution.java) |
-| 20 | [](Level2//README.md) | [Java](Level2//Solution.java) |
+| 16 | [구명보트](Level2/lv2_16_구명보트/README.md) | [Java](Level2/lv2_16_구명보트/Solution.java) |
+| 17 | [타겟 넘버](Level2/lv2_17_타겟_넘버/README.md) | [Java](Level2/lv2_17_타겟_넘버/Solution.java) |
+<!-- | 18 | [](Level2//README.md) | [Java](Level2//Solution.java) | -->
+<!-- | 19 | [](Level2//README.md) | [Java](Level2//Solution.java) | -->
+<!-- | 20 | [](Level2//README.md) | [Java](Level2//Solution.java) | -->
+
+## Level3
+| 번호 | 문제 설명 | 코드 | 문제 리뷰 |
+| :-: | :-- | :-- | :-: |
+| 1 | [없어진 기록 찾기](Level3/lv3_01_없어진_기록_찾기/README.md) | [Java](Level3/lv3_01_없어진_기록_찾기/Solution_mysql.sql) | - |
+| 2 | [있었는데요 없었습니다](Level3/lv3_02_있었는데요_없었습니다/README.md) | [Java](Level3/lv3_02_있었는데요_없었습니다/Solution_mysql.sql) | - |
+| 3 | [오랜 기간 보호한 동물1](Level3/lv3_03_오랜_기간_보호한_동물_1/README.md) | [Java](Level3/lv3_03_오랜_기간_보호한_동물_1/Solution_mysql.sql) | - |
+| 4 | [네트워크](Level3/lv3_04_네트워크/README.md) | [Java](Level3/lv3_04_네트워크/Solution.java) | - |
+<!-- |  | [](Level3//README.md) | [Java](Level3//Solution.java) | -->
