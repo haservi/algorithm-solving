@@ -85,4 +85,4 @@
 | 2 | [있었는데요 없었습니다](Level3/lv3_02_있었는데요_없었습니다/README.md) | [Java](Level3/lv3_02_있었는데요_없었습니다/Solution_mysql.sql) | - |
 | 3 | [오랜 기간 보호한 동물1](Level3/lv3_03_오랜_기간_보호한_동물_1/README.md) | [Java](Level3/lv3_03_오랜_기간_보호한_동물_1/Solution_mysql.sql) | - |
 | 4 | [네트워크](Level3/lv3_04_네트워크/README.md) | [Java](Level3/lv3_04_네트워크/Solution.java) | - |
-<!-- |  | [](Level3//README.md) | [Java](Level3//Solution.java) | -->
+| 5 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [Java](Level3/lv3_05_베스트앨범/Solution.java) |
