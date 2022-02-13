@@ -17,6 +17,7 @@ def solution(n, times):
         else:
             left = mid + 1
 
+    print('answer', answer)
     return answer
 
 solution(6, {7, 10})
