@@ -88,4 +88,6 @@
 | 5 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [Java](Level3/lv3_05_베스트앨범/Solution.java) | - |
 | 6 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [Java](Level3/lv3_06_입국심사/Solution.java), [Python](Level3/lv3_06_입국심사/Solution.py) | - |
 | 7 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [Java](Level3/lv3_07_가장_먼_노드/Solution.java) | - |
-| 8 | [이중순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [Java](Level3/lv3_09_이중우선순위큐/Solution.java) | - |
+| 8 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [Java](Level3/lv3_08_디스크_컨트롤러/Solution.java) | - |
+| 8 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [Java](Level3/lv3_09_이중우선순위큐/Solution.java) | - |
+| 8 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [Java](Level3/lv3_10_N으로_표현/Solution.java) | - |

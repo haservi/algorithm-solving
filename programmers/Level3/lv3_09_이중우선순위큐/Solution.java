@@ -14,10 +14,6 @@ class Solution {
     System.out.println("결과 : " + Arrays.toString(result));
   }
 
-  class CustomQueue {
-
-  }
-
   public int[] solution(String[] operations) {
 
     int[] answer = new int[2];
