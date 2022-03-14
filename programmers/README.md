@@ -89,5 +89,7 @@
 | 6 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [Java](Level3/lv3_06_입국심사/Solution.java), [Python](Level3/lv3_06_입국심사/Solution.py) | - |
 | 7 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [Java](Level3/lv3_07_가장_먼_노드/Solution.java) | - |
 | 8 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [Java](Level3/lv3_08_디스크_컨트롤러/Solution.java) | - |
-| 8 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [Java](Level3/lv3_09_이중우선순위큐/Solution.java) | - |
-| 8 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [Java](Level3/lv3_10_N으로_표현/Solution.java) | - |
+| 9 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [Java](Level3/lv3_09_이중우선순위큐/Solution.java) | - |
+| 10 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [Java](Level3/lv3_10_N으로_표현/Solution.java) | - |
+| 11 | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [Java](Level3/lv3_11_단어_변환/Solution.java) | - |
+| 12 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [Java](Level3/lv3_12_정수_삼각형/Solution.java) | - |
