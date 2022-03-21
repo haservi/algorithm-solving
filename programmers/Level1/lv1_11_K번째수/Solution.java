@@ -1,6 +1,7 @@
 package programmers.Level1.lv1_11_K번째수;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 class Solution {
 
@@ -29,7 +30,9 @@ class Solution {
         tempArray[j] = array[startSplit];
         startSplit++;
       }
-      int[] sortArray = bubbleSort(tempArray);
+      Arrays.sort(tempArray);
+      int[] sortArray = tempArray;
+      // int[] sortArray = bubbleSort(tempArray);
       answer[i] = sortArray[returnSplit - 1];
     }
     return answer;
