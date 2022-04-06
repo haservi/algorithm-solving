@@ -10,12 +10,12 @@
 | 03 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)             | [리뷰](./Solution/신규_아이디_추천/README.md)             | [Java](./Solution/신규_아이디_추천/Solution.java) |
 | 04 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                       | [리뷰](./Solution/체육복/README.md)                       | [Java](./Solution/체육복/Solution.java) |
 | 05 | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)                         | [리뷰](./Solution/내적/README.md)                         | [Java](./Solution/내적/Solution.java) |
-| 06 | [폰켓몬]()                                                                               | [리뷰](./Solution/폰켓몬/README.md)                       | [Java](./Solution/폰켓몬/Solution.java) |
+| 06 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                        | [리뷰](./Solution/폰켓몬/README.md)                       | [Java](./Solution/폰켓몬/Solution.java) |
 | 07 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                  | [리뷰](./Solution/음양_더하기/README.md)                  | [Java](./Solution/음양_더하기/Solution.java) |
-| 08 | [K번째수]()                                                                              | [리뷰](./Solution/K번째수/README.md)                      | [Java](./Solution/K번째수/Solution.java) |
-| 09 | [키패드 누르기]()                                                                        | [리뷰](./Solution/키패드_누르기/README.md)                | [Java](./Solution/키패드_누르기/Solution.java) |
-| 10 | [부족한 금액 계산하기]()                                                                 | [리뷰](./Solution/부족한_금액_계산하기/README.md)         | [Java](./Solution/부족한_금액_계산하기/Solution.java) |
-| 11 | [소수 만들기]()                                                                          | [리뷰](./Solution/소수_만들기/README.md)                  | [Java](./Solution/소수_만들기/Solution.java) |
+| 08 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)                      | [리뷰](./Solution/K번째수/README.md)                      | [Java](./Solution/K번째수/Solution.java) |
+| 09 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)                | [리뷰](./Solution/키패드_누르기/README.md)                | [Java](./Solution/키패드_누르기/Solution.java) |
+| 10 | [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)         | [리뷰](./Solution/부족한_금액_계산하기/README.md)         | [Java](./Solution/부족한_금액_계산하기/Solution.java) |
+| 11 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)                  | [리뷰](./Solution/소수_만들기/README.md)                  | [Java](./Solution/소수_만들기/Solution.java) |
 | 12 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [리뷰](./Solution/로또의_최고_순위와_최저_순위/README.md) | [Java](./Solution/로또의_최고_순위와_최저_순위/Solution.java) |
 | 13 | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)           | [리뷰](./Solution/약수의_개수와_덧셈/README.md)           | [Java](./Solution/약수의_개수와_덧셈/Solution.java) |
 | 14 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)           | [리뷰](./Solution/완주하지_못한_선수/README.md)           | [Java](./Solution/완주하지_못한_선수/Solution.java) |
@@ -49,6 +49,12 @@
 | 42 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)           | [리뷰](./Solution/핸드폰_번호_가리기/README.md)           | [Java](./Solution/핸드폰_번호_가리기/Solution.java) |
 | 43 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [리뷰](./Solution/x만큼_간격이_있는_n개의_숫자/README.md) | [Java](./Solution/x만큼_간격이_있는_n개의_숫자/Solution.java) |
 | 44 | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)              | [리뷰](./Solution/직사각형_별찍기/README.md)              | [Java](./Solution/직사각형_별찍기/Solution.java) |
+| | | |
+| 00 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [리뷰](./Solution/신고_결과_받기/README.md)               | [Java](./Solution/신고_결과_받기/Solution.java) |
+| 00 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)             | [리뷰](./Solution/없는_숫자_더하기/README.md)             | [Java](./Solution/없는_숫자_더하기/Solution.java) |
+| 00 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)             | [리뷰](./Solution/최소직사각형/README.md)             | [Java](./Solution/최소직사각형/Solution.java) |
+| 00 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)             | [리뷰](./Solution/나머지가_1이_되는_수_찾기/README.md)             | [Java](./Solution/나머지가_1이_되는_수_찾기/Solution.java) |
+| 00 | []()             | [리뷰](./Solution//README.md)             | [Java](./Solution//Solution.java) |
 
 
 ### SQL
@@ -63,4 +69,3 @@
 | 00 | [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)         | [리뷰](./Solution/모든_레코드_조회하기/README.md)         | [MySQL](./Solution/모든_레코드_조회하기/Solution_mysql.sql), Oracle |
 | 00 | [아픈 동물 찾기]()                                                                       | [리뷰](./Solution/아픈_동물_찾기/README.md)               | [MySQL](./Solution/아픈_동물_찾기/Solution_mysql.sql), Oracle |
 | 00 | [이름이 있는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59407)    | [리뷰](./Solution/이름이_있는_동물의_아이디/README.md)    | [MySQL](./Solution/이름이_있는_동물의_아이디/Solution_mysql.sql), Oracle |
-| 00 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)               | [리뷰](./Solution/신고_결과_받기/README.md)               | [MySQL](./Solution/신고_결과_받기/Solution.java) |
