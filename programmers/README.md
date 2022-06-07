@@ -92,7 +92,7 @@
 
 | 번호 | 체크 | 레벨 | 문제 | 풀이 |
 | :-: | :-: | :-- | :-: | :-- |
-| 03 | :white_check_mark: | Level3 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [Java](./Level3/Solution/입국심사/Solution.java), [Python](./Level3/Solution/lv3_06_입국심사/Solution.py) |
+| 03 | :white_check_mark: | Level3 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [Java](./Level3/Solution/입국심사/Solution.java), [Python](./Level3/Solution/입국심사/Solution.py) |
 | 04 | :roll_eyes:        | Level4 | 징검다리 | | |
 
 #### 그래프
