@@ -8,7 +8,7 @@
 | 01 |                    | 해시     | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/77484)           | [리뷰](./Solution/완주하지_못한_선수/README.md)           | [Java](./Solution/완주하지_못한_선수/Solution.java) |
 | 02 |                    |          | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [리뷰](./Solution/로또의_최고_순위와_최저_순위/README.md) | [Java](./Solution/로또의_최고_순위와_최저_순위/Solution.java) |
 | 03 |                    |          | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)             | [리뷰](./Solution/신규_아이디_추천/README.md)             | [Java](./Solution/신규_아이디_추천/Solution.java) |
-| 04 | :heavy_check_mark: | 탐욕법   | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                       | [리뷰](./Solution/체육복/README.md)                       | [Java](./Solution/체육복/Solution.java) |
+| 04 | :white_check_mark: | 탐욕법   | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                       | [리뷰](./Solution/체육복/README.md)                       | [Java](./Solution/체육복/Solution.java) |
 | 05 |                    |          | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)                         | [리뷰](./Solution/내적/README.md)                         | [Java](./Solution/내적/Solution.java) |
 | 06 |                    |          | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)                        | [리뷰](./Solution/폰켓몬/README.md)                       | [Java](./Solution/폰켓몬/Solution.java) |
 | 07 |                    |          | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                  | [리뷰](./Solution/음양_더하기/README.md)                  | [Java](./Solution/음양_더하기/Solution.java) |

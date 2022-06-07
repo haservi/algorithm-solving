@@ -15,7 +15,7 @@
 | 09 |                    | 힙(Heap) | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)            | [리뷰](./Solution/더_맵게/README.md)              | [Java](./Solution/더_맵게/Solution.java) |
 | 10 |                    | 정렬     | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)         | [리뷰](./Solution/가장_큰_수/README.md)           | [Java](./Solution/가장_큰_수/Solution.java) |
 | 11 |                    | 정렬     | [H INDEX](https://programmers.co.kr/learn/courses/30/lessons/42747)            | [리뷰](./Solution/H_INDEX/README.md)              | [Java](./Solution/H_INDEX/Solution.java) |
-| 12 | :heavy_check_mark: | 완전탐색 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)               | [리뷰](./Solution/카펫/README.md)                 | [Java](./Solution/카펫/Solution.java) |
+| 12 | :white_check_mark: | 완전탐색 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)               | [리뷰](./Solution/카펫/README.md)                 | [Java](./Solution/카펫/Solution.java) |
 | 13 |                    | 탐욕법   | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)           | [리뷰](./Solution/조이스틱/README.md)             | [Java](./Solution/조이스틱/Solution.java) |
 | 14 |                    | 탐욕법   | [큰수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)        | [리뷰](./Solution/큰수_만들기/README.md)          | [Java](./Solution/큰수_만들기/Solution.java) |
 | 15 |                    | 탐욕법   | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)           | [리뷰](./Solution/구명보트/README.md)             | [Java](./Solution/구명보트/Solution.java) |

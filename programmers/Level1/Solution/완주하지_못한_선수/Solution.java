@@ -13,6 +13,9 @@ class Solution {
         System.out.println("완주하지 못한 선수: " + result);
     }
 
+    /**
+     * 1. 정렬 후 일치하지 않은 선수를 출력
+     */
     public String solution(String[] participant, String[] completion) {
         Arrays.sort(participant);
         Arrays.sort(completion);
