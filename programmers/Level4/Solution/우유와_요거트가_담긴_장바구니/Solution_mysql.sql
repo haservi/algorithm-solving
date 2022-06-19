@@ -1,8 +1,0 @@
-SELECT
-  cp_a.CART_ID
-FROM CART_PRODUCTS AS cp_a
-INNER JOIN CART_PRODUCTS AS cp_b ON cp_a.CART_ID = cp_b.CART_ID
-WHERE 1 = 1
-  AND cp_a.NAME = 'Milk'
-  AND cp_b.NAME = 'Yogurt'
-ORDER BY cp_a.CART_ID ASC
