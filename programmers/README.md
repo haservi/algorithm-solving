@@ -55,7 +55,7 @@
 
 | 번호 | 체크 | 레벨 | 문제 | 풀이 |
 | :-: | :-: | :-- | :-: | :-- |
-| 01 | :roll_eyes:        | Level1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)  | [-](./Level1/Solution/모의고사/Solution.java) |
+| 01 |                    | Level1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)  | [Java](./Level1/Solution/모의고사/Solution.java) |
 | 02 |                    | Level2 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [Java](./Level2/Solution/소수찾기/Solution.java) |
 | 03 | :white_check_mark: | Level2 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)      | [Java](./Level2/Solution/카펫/Solution.java) |
 

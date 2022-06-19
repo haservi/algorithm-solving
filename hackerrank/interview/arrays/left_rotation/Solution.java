@@ -16,7 +16,7 @@ class Result {
         System.out.println("result: " + resultList.toString());
     }
 
-    public static List<Integer> rotLeft(List<Integer> a, int d) {
+    public List<Integer> rotLeft(List<Integer> a, int d) {
         List<Integer> result = new ArrayList<>();
         int resetIndex = 0;
         int startIndex = d;
