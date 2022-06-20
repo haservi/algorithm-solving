@@ -1,22 +1,41 @@
-package baekjoon.template;
+package baekjoon.solution.step._02._04_14681_사분면_고르기;
 
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
-import java.io.BufferedReader;
-import java.io.IOException;
+import java.util.*;
+import java.io.*;
 
+/**
+ * https://www.acmicpc.net/problem/14681
+ */
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         FastReader rd = new FastReader();
-        int number = rd.nextInt();
-        String string = rd.nextLine();
 
-        System.out.println("number = " + number);
-        System.out.println("string = " + string);
+        int x = rd.nextInt();
+        int y = rd.nextInt();
+
+        Solution solution = new Solution();
+        int result = solution.solution(x, y);
+        System.out.println(result);
+    }
+
+    public static class Solution {
+
+        private int solution(int x, int y) {
+            // 1: + +, 2: - +, 3: - -, 4: + -
+            if (0 < x && 0 < y)
+                return 1;
+            if (0 > x && 0 < y)
+                return 2;
+            if (0 > x && 0 > y)
+                return 3;
+            if (0 < x && 0 > y)
+                return 4;
+            return 0;
+        }
 
     }
 
-    public static class FastReader {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
@@ -57,5 +76,4 @@ public class Main {
             return str;
         }
     }
-
 }
