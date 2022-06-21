@@ -2,7 +2,7 @@
 
 > 알고리즘 사이트에서 풀어본 문제를 기록하고 정리한 저장소입니다.
 
-## 소개
+## 알고리즘 풀이
 
 1. 개인적으로 문제를 풀어보고 다시 풀어봐야 할 문제는 :white_check_mark: 표시를 하였습니다.
 2. 알고리즘 풀이는 `Visual Studio Code`를 이용했으며, **레포지토리를 기준**으로 알고리즘의 결과를 확인 할 수 있습니다.
@@ -13,37 +13,25 @@
 
 ```bash
 |   README.md
-|   
-+---algorithm(알고리즘)
-|   \---bubble_sort
-|           README.md
-|           Solution.java
-|           Solution.py
-|
 +---baekjoon(알고리즘 사이트)
 |   |   README.md
-|   |
-|   +---greedy(유형)
+|   +---solution(문제풀이)
 |   |   |   READEME.md
-|   |   |
-|   |   \---solution
-|   |       +---거스름돈_14916(문제이름)
+|   |   +---step(유형)
+|   |       +---문제명(문제이름)
 |   |       |       Main.java
 |   |       |
 |
 +---programmers(알고리즘 사이트)
     |   README.md
-    |
     +---Level1(레벨별)
     |   |   README.md
-    |   |
-    |   \---Solution
-    |       +---내적(문제이름)
+    |   +---solution(문제풀이)
+    |       +---문제이름(문제이름)
     |       |       Solution.java
     +---Level2
     |   |   README.md
-    |   |
-    |   \---Solution
+    |   +---solution
 ```
 
 ### 프로그래머스([문제풀이](./programmers/README.md))
