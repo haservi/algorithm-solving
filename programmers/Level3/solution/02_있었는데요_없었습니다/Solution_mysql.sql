@@ -1,0 +1,10 @@
+-- https://programmers.co.kr/learn/courses/30/lessons/59043
+
+SELECT
+  ao.ANIMAL_ID,
+  ao.NAME
+FROM ANIMAL_OUTS AS ao
+INNER JOIN ANIMAL_INS AS ai ON ao.ANIMAL_ID = ai.ANIMAL_ID
+WHERE 1 = 1
+  AND ao.DATETIME < ai.DATETIME
+ORDER BY ai.DATETIME ASC;

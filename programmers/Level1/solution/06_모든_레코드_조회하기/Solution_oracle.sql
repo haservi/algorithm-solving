@@ -1,0 +1,12 @@
+-- https://programmers.co.kr/learn/courses/30/lessons/59034
+
+SELECT
+  ANIMAL_ID,
+  ANIMAL_TYPE,
+  DATETIME,
+  INTAKE_CONDITION,
+  NAME,
+  SEX_UPON_INTAKE
+FROM ANIMAL_INS 
+WHERE 1 = 1
+ORDER BY ANIMAL_ID ASC;
