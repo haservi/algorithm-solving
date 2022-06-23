@@ -17,7 +17,7 @@ public class Main {
         System.out.println(result);
     }
 
-    static class Solution {
+    private static class Solution {
 
         private int solution(int year) {
 

@@ -1,40 +1,22 @@
-package baekjoon.solution.step._02_조건문._05_2884_알람_시계;
+package baekjoon.solution.step._03_반복문._02_10950_a_plus_b_minus_3;
 
 import java.util.*;
 import java.io.*;
 
 /**
- * https://www.acmicpc.net/problem/2884
+ * https://www.acmicpc.net/problem/10950
  */
 public class Main {
     public static void main(String[] args) {
         FastReader rd = new FastReader();
 
-        int hour = rd.nextInt();
-        int minute = rd.nextInt();
-
-        Solution solution = new Solution();
-        String result = solution.solution(hour, minute);
-        System.out.println(result);
-    }
-
-    private static class Solution {
-
-        private String solution(int hour, int minute) {
-
-            int minuteDiff = minute - 45;
-            // 분이 음수인 경우
-            if (minuteDiff < 0) {
-                hour--;
-                minuteDiff += 60;
-                // 시간이 음수인 경우
-                if (hour < 0) {
-                    hour += 24;
-                }
-            }
-            return hour + " " + minuteDiff;
+        int count = rd.nextInt();
+        
+        for (int i = 0; i < count; i++) {
+            int a = rd.nextInt();
+            int b = rd.nextInt();
+            System.out.println(a + b);
         }
-
     }
 
     static class FastReader {

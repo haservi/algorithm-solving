@@ -19,7 +19,7 @@ public class Main {
         System.out.println(result);
     }
 
-    public static class Solution {
+    private static class Solution {
 
         private static int HOUR_MINUTE = 60;
         private static int DAY_HOUR = 24;

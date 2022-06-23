@@ -1,38 +1,28 @@
-package baekjoon.solution.step._02_조건문._05_2884_알람_시계;
+package baekjoon.solution.step._10_브루트_포스._01_2798_블랙잭;
 
 import java.util.*;
 import java.io.*;
 
 /**
- * https://www.acmicpc.net/problem/2884
+ * https://www.acmicpc.net/problem/2798
  */
 public class Main {
     public static void main(String[] args) {
         FastReader rd = new FastReader();
 
-        int hour = rd.nextInt();
-        int minute = rd.nextInt();
+        int a = rd.nextInt();
 
         Solution solution = new Solution();
-        String result = solution.solution(hour, minute);
+        int result = solution.solution();
         System.out.println(result);
     }
 
-    private static class Solution {
+    public static class Solution {
 
-        private String solution(int hour, int minute) {
+        private int solution() {
 
-            int minuteDiff = minute - 45;
-            // 분이 음수인 경우
-            if (minuteDiff < 0) {
-                hour--;
-                minuteDiff += 60;
-                // 시간이 음수인 경우
-                if (hour < 0) {
-                    hour += 24;
-                }
-            }
-            return hour + " " + minuteDiff;
+            return 0;
+
         }
 
     }

@@ -25,7 +25,7 @@ public class Main {
 
     }
 
-    public static class Solution {
+    private static class Solution {
 
         // 2번째 숫자를 한자리씩 리스트에 저장
         private Queue<Integer> setSplitNumber(int num) {
@@ -39,7 +39,7 @@ public class Main {
         }
     }
 
-    public static class FastReader {
+    static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 

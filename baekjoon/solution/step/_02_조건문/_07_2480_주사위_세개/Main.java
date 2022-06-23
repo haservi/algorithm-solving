@@ -19,7 +19,7 @@ public class Main {
         System.out.println(result);
     }
 
-    public static class Solution {
+    private static class Solution {
 
         private int solution(int one, int two, int three) {
 

@@ -17,7 +17,7 @@ public class Main {
         System.out.println(score);
     }
 
-    static class Solution {
+    private static class Solution {
 
         public String solution(int score) {
             if (90 <= score && score <= 100)

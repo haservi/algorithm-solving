@@ -15,7 +15,7 @@ public class Main {
         System.out.println(result);
     }
 
-    public static class Solution {
+    private static class Solution {
 
         private int multipleNum(int a, int b) {
             return a * b;

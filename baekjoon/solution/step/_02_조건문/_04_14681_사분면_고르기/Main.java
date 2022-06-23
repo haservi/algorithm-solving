@@ -18,7 +18,7 @@ public class Main {
         System.out.println(result);
     }
 
-    public static class Solution {
+    private static class Solution {
 
         private int solution(int x, int y) {
             // 1: + +, 2: - +, 3: - -, 4: + -
