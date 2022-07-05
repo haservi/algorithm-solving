@@ -15,9 +15,11 @@ class Solution {
         System.out.println("result : " + result);
     }
 
+    @SuppressWarnings("unchecked")
     public int solution(int N, int number) {
         int answer = -1;
         int maxedN = 9;
+
         Set<Integer>[] setN = new Set[maxedN];
 
         // N만큼 값을 추가

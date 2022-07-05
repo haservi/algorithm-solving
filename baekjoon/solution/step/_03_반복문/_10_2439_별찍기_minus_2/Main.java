@@ -1,33 +1,35 @@
-package baekjoon.solution.step._10_브루트_포스._01_2798_블랙잭;
+package baekjoon.solution.step._03_반복문._10_2439_별찍기_minus_2;
 
 import java.util.*;
 import java.io.*;
 
 /**
- * https://www.acmicpc.net/problem/2798
+ * https://www.acmicpc.net/problem/2439
  */
 public class Main {
-    public static void main(String[] args) {
-        FastReader rd = new FastReader();
+    public static void main(String[] args) throws NumberFormatException, IOException {
+        FastReader br = new FastReader();
 
-        int a = rd.nextInt();
+        int count = br.nextInt();
 
-        Solution solution = new Solution();
-        int result = solution.solution();
-        System.out.println(result);
-    }
-
-    public static class Solution {
-
-        private int solution() {
-
-            return 0;
-
+        int index = count;
+        for (int i = 1; i <= count; i++) {
+            for (int j = 1; j <= count; j++) {
+                if (index <= j) {
+                    System.out.print("*");
+                } else {
+                    System.out.print(" ");
+                }
+            }
+            System.out.println();
+            index--;
         }
 
+        br.close();
+
     }
 
-    static class FastReader {
+    public static class FastReader {
         BufferedReader br;
         StringTokenizer st;
 
@@ -66,6 +68,10 @@ public class Main {
                 e.printStackTrace();
             }
             return str;
+        }
+
+        void close() throws IOException {
+            br.close();
         }
     }
 }

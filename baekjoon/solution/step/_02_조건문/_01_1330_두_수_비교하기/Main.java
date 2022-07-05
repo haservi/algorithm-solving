@@ -11,6 +11,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
+        sc.close();
 
         if (a > b)
             System.out.println(">");
@@ -18,5 +19,6 @@ public class Main {
             System.out.println("<");
         else if (a == b)
             System.out.println("==");
+
     }
 }
