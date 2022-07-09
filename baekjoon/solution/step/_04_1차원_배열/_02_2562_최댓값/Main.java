@@ -1,16 +1,16 @@
-package baekjoon.solution.step._04_1차원_배열._01_10818_최소_최대;
+package baekjoon.solution.step._04_1차원_배열._02_2562_최댓값;
 
 import java.util.*;
 import java.io.*;
 
 /**
- * https://www.acmicpc.net/problem/10818
+ * https://www.acmicpc.net/problem/2562
  */
 public class Main {
     public static void main(String[] args) throws NumberFormatException, IOException {
         FastReader br = new FastReader();
 
-        int count = br.nextInt();
+        int count = 9;
         int[] numbers = new int[count];
 
         for (int i = 0; i < count; i++) {
@@ -18,42 +18,24 @@ public class Main {
         }
 
         Solution solution = new Solution();
-        String result = solution.solution(count, numbers);
-        // String result = solution.solution2(numbers);
-        System.out.println(result);
+        solution.solution(numbers);
 
     }
 
     public static class Solution {
-        public String solution(int count, int[] numbers) {
+        public void solution(int[] numbers) {
 
-            int min = 1000000;
-            int max = -1000000;
+            int index = 0;
+            int maxTemp = 0;
 
-            for (int i = 0; i < count; i++) {
-                int temp = numbers[i];
-
-                if (max < temp) {
-                    max = temp;
+            for (int i = 0; i < numbers.length; i++) {
+                if (maxTemp < numbers[i]) {
+                    maxTemp = numbers[i];
+                    index = (i + 1);
                 }
-                if (temp < min) {
-                    min = temp;
-                }
-
             }
-            String result = min + " " + max;
-            return result;
-        }
-
-        /**
-         * java.util 함수를 이용하여 해결할 수도 있다.
-         * 
-         * @param numbers 숫자 배열
-         * @return 결과값
-         */
-        public String solution2(int[] numbers) {
-            Arrays.sort(numbers);
-            return numbers[0] + " " + numbers[numbers.length - 1];
+            System.out.println(maxTemp);
+            System.out.println(index);
         }
     }
 
