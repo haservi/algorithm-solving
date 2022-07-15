@@ -1,48 +1,47 @@
-package baekjoon.solution.step._04_1차원_배열._05_1546_평균;
+package baekjoon.solution.step._04_1차원_배열._06_8958_OX_퀴즈;
 
 import java.util.*;
 import java.io.*;
 
 /**
- * https://www.acmicpc.net/problem/1546
+ * https://www.acmicpc.net/problem/8958
  */
 public class Main {
     public static void main(String[] args) throws NumberFormatException, IOException {
         FastReader br = new FastReader();
 
         int count = br.nextInt();
-        int[] numbers = new int[count];
+        String[] quizzes = new String[count];
 
         for (int i = 0; i < count; i++) {
-            numbers[i] = br.nextInt();
+            quizzes[i] = br.nextLine();
         }
 
         Solution solution = new Solution();
-        solution.solution(numbers);
+        solution.solution(quizzes);
 
     }
 
     public static class Solution {
-        public void solution(int[] scores) {
+        public void solution(String[] quizzes) {
 
-            Arrays.sort(scores);
-
-            // 최대 점수
-            int maxScore = scores[scores.length - 1];
-            float sumScore = 0;
-
-            for (int score : scores) {
-                sumScore += convertScore(score, maxScore);
+            for (String quiz : quizzes) {
+                int totalScore = 0;
+                char[] quizSplit = quiz.toCharArray();
+                int score = 0;
+                for (char quizChar : quizSplit) {
+                    if (quizChar == 'O') {
+                        score++;
+                        totalScore += score;
+                    } else {
+                        score = 0;
+                    }
+                }
+                System.out.println(totalScore);
             }
 
-            double result = sumScore / (scores.length);
-            System.out.println(result);
         }
 
-        private double convertScore(double score, double maxScore) {
-            // System.out.println((float) (score / maxScore) * 100);
-            return (double) (score / maxScore) * 100;
-        }
     }
 
     public static class FastReader {
