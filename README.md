@@ -12,40 +12,23 @@
 ### 폴더 구조
 
 ```bash
-|   README.md
-+---baekjoon(알고리즘 사이트)
-|   |   README.md
-|   +---solution(문제풀이)
-|   |   |   READEME.md
-|   |   +---step(유형)
-|   |       +---문제명(문제이름)
-|   |       |       Main.java
-|   |       |
-|
-+---programmers(알고리즘 사이트)
-    |   README.md
-    +---Level1(레벨별)
-    |   |   README.md
-    |   +---solution(문제풀이)
-    |       +---문제이름(문제이름)
-    |       |       Solution.java
-    +---Level2
-    |   |   README.md
-    |   +---solution
++---baekjoon
+|   |  README.md
+|   \---step
+|       +---유형 세분화
+|       |  README.md
+|       |   \---solution(풀이)
+\---programmers
+    +---Level1
+    | README.md
+    |   \---solution(풀이)
+
 ```
 
-### 프로그래머스([문제풀이](./programmers/README.md))
+### 문제 풀이
 
-국내 기업들이 자주 사용하는 코딩 플랫폼입니다. 특히 카카오 코딩테스트에 출제된 문제도 있기 때문에 어떠한 유형이 나오는지 확인 할 수 있습니다.  
-문제들이 주로 레벨별로 분류되어 있으며, 해당 사이트에서 추천하는 문제 유형들을 모아놓은 링크도 제공하고 있습니다.
-
-국내 기업들의 코딩테스트를 준비하거나 실제로 코딩테스트의 문제 유형이 어떻게 나오는지 알 수 있습니다.
-
-### 백준([문제풀이](./baekjoon/README.md))
-
-많은 문제들을 풀 수 있습니다.
-
-개인적으로 제출 후 문제가 틀린 경우 어떠한 점 때문에 틀린지 상세하게 나오지 않는 점이 조금 불편한 것 같습니다.
+- 프로그래머스([문제풀이](./programmers/README.md))
+- 백준([문제풀이](./baekjoon/README.md))
 
 #### 국내 알고리즘 사이트 리스트
 
