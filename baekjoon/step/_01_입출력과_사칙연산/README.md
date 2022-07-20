@@ -15,4 +15,4 @@
 | 11 |                    | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | [Java](./solution/_11_18108_1998년생인_내가_태국에서는_2541년생/Main.java) |
 | 12 |                    | [나머지](https://www.acmicpc.net/problem/10430)                                | [Java](./solution/_12_10430_나머지/Main.java) |
 | 13 |                    | [곱셈](https://www.acmicpc.net/problem/2588)                                   | [Java](./solution/_13_2588_곱셈/Main.java) |
-| 14 |                    | [새싹](https://www.acmicpc.net/problem/25083)                                 | [Java](./solution/_14_25083_새싹/Main.java) |
+| 14 |                    | [새싹](https://www.acmicpc.net/problem/25083)                                  | [Java](./solution/_14_25083_새싹/Main.java) |
