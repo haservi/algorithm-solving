@@ -20,7 +20,7 @@ class Solution {
 
     }
 
-    public int[] solution(String[] id_list, String[] report, int k) {
+    public int[] solution(String[] idList, String[] report, int k) {
         int[] answer = {};
         return answer;
     }

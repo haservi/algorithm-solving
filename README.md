@@ -15,9 +15,7 @@
 +---baekjoon
 |   |  README.md
 |   \---step
-|       +---유형 세분화
-|       |  README.md
-|       |   \---solution(풀이)
+|   |   \---solution(풀이)
 \---programmers
     +---Level1
     | README.md
