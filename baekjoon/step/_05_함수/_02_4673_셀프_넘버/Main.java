@@ -1,8 +1,5 @@
 package baekjoon.step._05_함수._02_4673_셀프_넘버;
 
-import java.util.*;
-import java.io.*;
-
 /**
  * https://www.acmicpc.net/problem/4673
  */

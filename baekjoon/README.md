@@ -91,4 +91,11 @@
 | 02 | :white_check_mark: | [셀프 넘버](https://www.acmicpc.net/problem/4673)      | [Java](./step/_05_함수/_02_4673_셀프_넘버/Main.java) |
 | 03 |                    | [한수](https://www.acmicpc.net/problem/1065)           | [Java](./step/_05_함수/_03_1065_한수/Main.java) |
 
+### 문자열
+
+| 번호 | 체크 | 문제 | 풀이 |
+| :-: | :-- | :-- | :-- |
+| 01 |                    | [아스키 코드](https://www.acmicpc.net/problem/11654) | [Java](./step/_06_문자열/_01_11654_아스키_코드/Main.java) |
+| 02 |                    | [숫자의 합](https://www.acmicpc.net/problem/11720) | [Java](./step/_06_문자열/_02_11720_숫자의_합/Main.java) |
+
 [🔝 목차로 돌아가기](#table-of-contents)
