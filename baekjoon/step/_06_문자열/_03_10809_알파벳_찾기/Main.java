@@ -1,25 +1,35 @@
-package baekjoon.step._06_문자열._02_11720_숫자의_합;
+package baekjoon.step._06_문자열._03_10809_알파벳_찾기;
 
 import java.util.*;
 import java.io.*;
 
 /**
- * https://www.acmicpc.net/problem/11720
+ * https://www.acmicpc.net/problem/10809
  */
 class Main {
     public static void main(String[] args) throws NumberFormatException, IOException {
         FastReader br = new FastReader();
 
-        int numberLength = br.nextInt();
-        String numbers = br.nextLine();
+        String word = br.nextLine();
 
-        int result = 0;
-        for (int i = 0; i < numberLength; i++) {
-            
-            result += numbers.charAt(i) - '0';
+        int[] alphabets = new int[26];
+        for (int i = 0; i < alphabets.length; i++) {
+            alphabets[i] = -1;
         }
 
-        System.out.println(result);
+        for (int i = 0; i < word.length(); i++) {
+
+            // 소문자만 들어옴
+            char wordChar = word.charAt(i);
+
+            if (alphabets[wordChar - 'a'] == -1) {
+                alphabets[wordChar - 'a'] = i;
+            }
+        }
+
+        for (int value : alphabets) {
+            System.out.print(value + " ");
+        }
 
     }
 
