@@ -99,5 +99,6 @@
 | 01 |                    | [아스키 코드](https://www.acmicpc.net/problem/11654) | [Java](./step/_06_문자열/_01_11654_아스키_코드/Main.java) |
 | 02 |                    | [숫자의 합](https://www.acmicpc.net/problem/11720) | [Java](./step/_06_문자열/_02_11720_숫자의_합/Main.java) |
 | 03 |                    | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [Java](./step/_06_문자열/_03_10809_알파벳_찾기/Main.java) |
+| 04 |                    | [문자열 반복](https://www.acmicpc.net/problem/2675) | [Java](./step/_06_문자열/_04_2675_문자열_반복/Main.java) |
 
 [🔝 목차로 돌아가기](#table-of-contents)
