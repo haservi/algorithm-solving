@@ -96,10 +96,11 @@
 
 | 번호 | 체크 | 문제 | 풀이 |
 | :-: | :-- | :-- | :-- |
-| 01 |                    | [아스키 코드](https://www.acmicpc.net/problem/11654) | [Java](./step/_06_문자열/_01_11654_아스키_코드/Main.java) |
-| 02 |                    | [숫자의 합](https://www.acmicpc.net/problem/11720)   | [Java](./step/_06_문자열/_02_11720_숫자의_합/Main.java) |
-| 03 |                    | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [Java](./step/_06_문자열/_03_10809_알파벳_찾기/Main.java) |
-| 04 |                    | [문자열 반복](https://www.acmicpc.net/problem/2675)  | [Java](./step/_06_문자열/_04_2675_문자열_반복/Main.java) |
-| 05 | :white_check_mark: | [단어공부](https://www.acmicpc.net/problem/1157)     | [Java](./step/_06_문자열/_05_1157_단어공부/Main.java) |
+| 01 |                    | [아스키 코드](https://www.acmicpc.net/problem/11654)      | [Java](./step/_06_문자열/_01_11654_아스키_코드/Main.java) |
+| 02 |                    | [숫자의 합](https://www.acmicpc.net/problem/11720)        | [Java](./step/_06_문자열/_02_11720_숫자의_합/Main.java) |
+| 03 |                    | [알파벳 찾기](https://www.acmicpc.net/problem/10809)      | [Java](./step/_06_문자열/_03_10809_알파벳_찾기/Main.java) |
+| 04 |                    | [문자열 반복](https://www.acmicpc.net/problem/2675)       | [Java](./step/_06_문자열/_04_2675_문자열_반복/Main.java) |
+| 05 | :white_check_mark: | [단어공부](https://www.acmicpc.net/problem/1157)          | [Java](./step/_06_문자열/_05_1157_단어공부/Main.java) |
+| 06 |                    | [단어의 개수](https://www.acmicpc.net/problem/1152)       | [Java](./step/_06_문자열/_06_1152_단어의_개수/Main.java) |
 
 [🔝 목차로 돌아가기](#table-of-contents)
