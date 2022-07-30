@@ -102,5 +102,6 @@
 | 04 |                    | [문자열 반복](https://www.acmicpc.net/problem/2675)       | [Java](./step/_06_문자열/_04_2675_문자열_반복/Main.java) |
 | 05 | :white_check_mark: | [단어공부](https://www.acmicpc.net/problem/1157)          | [Java](./step/_06_문자열/_05_1157_단어공부/Main.java) |
 | 06 |                    | [단어의 개수](https://www.acmicpc.net/problem/1152)       | [Java](./step/_06_문자열/_06_1152_단어의_개수/Main.java) |
+| 07 |                    | [상수](https://www.acmicpc.net/problem/2908)              | [Java](./step/_06_문자열/_07_2908_상수/Main.java) |
 
 [🔝 목차로 돌아가기](#table-of-contents)
