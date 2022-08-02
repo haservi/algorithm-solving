@@ -104,5 +104,6 @@
 | 06 |                    | [단어의 개수](https://www.acmicpc.net/problem/1152)       | [Java](./step/_06_문자열/_06_1152_단어의_개수/Main.java) |
 | 07 |                    | [상수](https://www.acmicpc.net/problem/2908)              | [Java](./step/_06_문자열/_07_2908_상수/Main.java) |
 | 08 |                    | [다이얼](https://www.acmicpc.net/problem/5622)            | [Java](./step/_06_문자열/_08_5622_다이얼/Main.java) |
+| 09 |                    | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [Java](./step/_06_문자열/_09_2941_크로아티아_알파벳/Main.java) |
 
 [🔝 목차로 돌아가기](#table-of-contents)
