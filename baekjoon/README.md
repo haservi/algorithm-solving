@@ -32,6 +32,7 @@
 | 12 |                    | [나머지](https://www.acmicpc.net/problem/10430)                                | [Java](./step/_01_입출력과_사칙연산/_12_10430_나머지/Main.java) |
 | 13 |                    | [곱셈](https://www.acmicpc.net/problem/2588)                                   | [Java](./step/_01_입출력과_사칙연산/_13_2588_곱셈/Main.java) |
 | 14 |                    | [새싹](https://www.acmicpc.net/problem/25083)                                  | [Java](./step/_01_입출력과_사칙연산/_14_25083_새싹/Main.java) |
+| 15 |                    | [킹퀸룩비숍나이트폰](https://www.acmicpc.net/problem/3003)                     | [Java](./step/_01_입출력과_사칙연산/_15_킹퀸룩비숍나이트폰/Main.java) |
 
 [🔝 목차로 돌아가기](#table-of-contents)
 
