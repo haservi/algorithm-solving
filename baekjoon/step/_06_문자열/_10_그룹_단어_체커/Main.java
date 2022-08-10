@@ -14,32 +14,42 @@ class Main {
         int inputCount = br.nextInt();
 
         for (int i = 0; i < inputCount; i++) {
-            String input = br.nextLine();
-            boolean[] checked = new boolean[26];
-            boolean passed = false;
-            for (int j = 0; j < input.length(); j++) {
-                // 처음은 무조건 통과
-                if (j == 0) {
-                    checked[input.charAt(j) - 'a'] = true;
-                    passed = true;
-                    continue;
-                }
-                // 중복되는 알파벳은 통과 처리
-                if (input.charAt(j - 1) == input.charAt(j))
-                    continue;
-
-                // 이미 체크된 알파벳이 있는 경우 탈락
-                if (checked[input.charAt(j) - 'a']) {
-                    passed = false;
-                    break;
-                }
-            }
-            // 통과 여부에 따라 카운팅
-            if (passed)
+            if (isGroupNumber(br.next())) {
                 result++;
+            }
         }
         System.out.println(result);
 
+    }
+
+    /**
+     * Group Number Check
+     * 
+     * @param input
+     * @return
+     */
+    public static boolean isGroupNumber(String input) {
+
+        boolean[] checked = new boolean[26];
+        int prev = 0;
+        for (int j = 0; j < input.length(); j++) {
+            int now = input.charAt(j);
+            // 이전 알파벳과 10진수 비교
+            if (prev != now) {
+                // 중복 여부 확인
+                if (checked[now - 'a'] == false) {
+                    checked[now - 'a'] = true;
+                    prev = now;
+                } else {
+                    return false;
+                }
+
+            } else { // 10진수 같은 경우 계속 진행
+                continue;
+            }
+        }
+
+        return true;
     }
 
     public static class FastReader {
