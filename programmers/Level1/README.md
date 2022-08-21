@@ -48,7 +48,7 @@
 | 41 |                    | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [Java](./solution/_41_모의고사/Solution.java) |
 | 42 | :white_check_mark: | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [Java](./solution/_42_신고_결과_받기/Solution.java) |
 | 43 |                    | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) | [Java](./solution/_43_나머지가_1이_되는_수_찾기/Solution.java) |
-| 00 | :roll_eyes:        | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [Java](./solution/_44_없는_숫자_더하기/Solution.java) |
+| 44 |                    | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [Java](./solution/_44_없는_숫자_더하기/Solution.java) |
 | 00 | :roll_eyes:        | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | [Java](./solution/_45_최소직사각형/Solution.java) |
 
 ## SQL
