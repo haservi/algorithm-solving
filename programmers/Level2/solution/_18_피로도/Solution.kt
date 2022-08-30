@@ -1,7 +1,13 @@
+/*
+ * https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=kotlin
+ */
 fun main() {
     var k = 80
-    val dungeons: Array<IntArray> =
-        arrayOf(intArrayOf(80, 20), intArrayOf(50, 40), intArrayOf(30, 10))
+    val dungeons: Array<IntArray> = arrayOf(
+        intArrayOf(80, 20),
+        intArrayOf(50, 40),
+        intArrayOf(30, 10)
+    )
 
     var result = solution(k, dungeons)
     print("result: " + result)
