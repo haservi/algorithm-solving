@@ -54,6 +54,7 @@
 | 02 |                    | Level2 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [Java](./Level2/solution/_07_프린터/Solution.java) |
 | 03 | :white_check_mark: | Level2 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [Java](./Level2/solution/_08_다리를_지나는_트럭/Solution.java) |
 | 04 |                    | Level2 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [Java](./Level2/solution/_17_주식가격/Solution.java) |
+| 05 |                    | Level2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [Java](./Level2/solution/_19_올바른_괄호/Solution.java), [Kotlin](./Level2/solution/_19_올바른_괄호/Solution.kt) |
 
 [🔝 목차로 돌아가기](#table-of-contents)
 

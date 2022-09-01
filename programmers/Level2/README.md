@@ -22,6 +22,7 @@
 | 16 | :white_check_mark: | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [Java](./solution/_16_타겟_넘버/Solution.java) |
 | 17 |                    | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [Java](./solution/_17_주식가격/Solution.java) |
 | 18 |                    | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [Java](./solution/_18_피로도/Solution.java), [Kotlin](./solution/_18_피로도/Solution.kt) |
+| 19 |                    | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [Java](./solution/_19_올바른_괄호/Solution.java), [Kotlin](./solution/_19_올바른_괄호/Solution.kt) |
 
 ## SQL
 
