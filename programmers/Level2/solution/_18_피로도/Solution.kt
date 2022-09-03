@@ -1,3 +1,5 @@
+package programmers.Level2.solution._18_피로도;
+
 /*
  * https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=kotlin
  */

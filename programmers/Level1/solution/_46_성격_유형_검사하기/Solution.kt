@@ -1,3 +1,5 @@
+package programmers.Level1.solution._46_성격_유형_검사하기;
+
 /*
  * https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=kotlin
  */
