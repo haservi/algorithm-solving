@@ -52,6 +52,7 @@
 | 45 |                    | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | [Java](./solution/_45_최소직사각형/Solution.java), [Kotlin](./solution/_45_최소직사각형/Solution.kt) |
 | 46 | :white_check_mark: | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [Java](./solution/_46_성격_유형_검사하기/Solution.java), [Kotlin](./solution/_46_성격_유형_검사하기/Solution.kt) |
 | 47 |                    | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | [Java](./solution/_47_같은_숫자는_싫어/Solution.java), [Javascript](./solution/_47_같은_숫자는_싫어/solution.js) |
+| 48 |                    | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | [Java](./solution/_48_핸드폰_번호_가리기/Solution.java), [Kotlin](./solution/_48_핸드폰_번호_가리기/solution.kt) |
 
 ## SQL
 
