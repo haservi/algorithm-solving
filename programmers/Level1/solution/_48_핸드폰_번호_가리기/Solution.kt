@@ -8,7 +8,7 @@ fun main() {
 
 fun solution(phone_number: String): String {
     var answer = StringBuilder()
-    
+
     for (i in phone_number.indices) {
         if (i < phone_number.length - 4) {
             answer.append('*')
