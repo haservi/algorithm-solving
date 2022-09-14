@@ -96,7 +96,7 @@
 | 02 |                    | Level2 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [Java](./Level2/solution/_13_조이스틱/Solution.java) |
 | 03 |                    | Level2 | [큰수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [Java](./Level2/solution/_14_큰수_만들기/Solution.java) |
 | 04 |                    | Level2 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [Java](./Level2/solution/_15_구명보트/Solution.java) |
-| 05 | :roll_eyes:        | Level3 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | [-](./Level3/solution/섬_연결하기/Solution.java) |
+| 05 | :white_check_mark: | Level3 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | [Java](./Level3/solution/_11_섬_연결하기/Solution.java) |
 | 06 | :roll_eyes:        | Level3 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | [-](./Level3/solution/단속카메라/Solution.java) |
 
 [🔝 목차로 돌아가기](#table-of-contents)
