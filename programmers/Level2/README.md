@@ -28,4 +28,10 @@
 
 | 번호 | 체크 | 문제 | 풀이 |
 | :-: | :-: | :-- | :-- |
-| 01 |                    | [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) | [MySQL](./solution/01_고양이와_개는_몇_마리_있을까/Solution_mysql.sql), Oracle |
+| 01 |                    | [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) | [MySQL](./solution/01_고양이와_개는_몇_마리_있을까/Solution_mysql.sql) |
+| 02 |                    | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406) | [MySQL](./solution/02_동물_수_구하기/Solution_mysql.sql) |
+| 03 |                    | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408) | [MySQL](./solution/03_중복_제거하기/Solution_mysql.sql) |
+| 04 |                    | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038) | [MySQL](./solution/04_최솟값_구하기/Solution_mysql.sql) |
+| 05 |                    | [이름에 dl이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047) | [MySQL](./solution/05_이름에_el이_들어가는_동물_찾기/Solution_mysql.sql) |
+| 06 |                    | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) | [MySQL](./solution/06_동명_동물_수_찾기/Solution_mysql.sql) |
+| 07 |                    | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | [MySQL](./solution/07_NULL_처리하기/Solution_mysql.sql) |
