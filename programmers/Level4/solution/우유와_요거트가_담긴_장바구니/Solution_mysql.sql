@@ -1,3 +1,8 @@
+-- https://programmers.co.kr/learn/courses/30/lessons/62284
+/*
+INNER JOIN을 이용하여 해당 조건을 나눈 다음 CART_ID와 일치하는 값을 매칭 시켰다.
+*/
+
 SELECT
   cp_a.CART_ID
 FROM CART_PRODUCTS AS cp_a
