@@ -37,3 +37,4 @@
 | 07 |                    | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | [MySQL](./solution/07_NULL_처리하기/Solution_mysql.sql) |
 | 08 |                    | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414) | [MySQL](./solution/08_DATETIME에서_DATE로_형_변환/Solution_mysql.sql) |
 | 09 |                    | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) | [MySQL](./solution/09_중성화_여부_파악하기/Solution_mysql.sql) |
+| 10 |                    | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | [MySQL](./solution/10_입양_시각_구하기_1/Solution_mysql.sql) |
