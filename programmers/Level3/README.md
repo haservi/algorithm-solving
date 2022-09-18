@@ -23,3 +23,4 @@
 | 01 |                    | [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042) | [MySql](./solution/01_없어진_기록_찾기/Solution_mysql.sql) |
 | 02 |                    | [있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043) | [MySql](./solution/02_있었는데요_없었습니다/Solution_mysql.sql) |
 | 03 |                    | [오랜 기간 보호한 동물1](https://programmers.co.kr/learn/courses/30/lessons/59044) | [MySql](./solution/03_오랜_기간_보호한_동물_1/Solution_mysql.sql) |
+| 04 |                    | [오랜 기간 보호한 동물2](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [MySql](./solution/04_오랜_기간_보호한_동물_2/Solution_mysql.sql) |
