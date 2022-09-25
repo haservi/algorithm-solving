@@ -24,3 +24,4 @@
 | 02 |                    | [있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043) | [MySql](./solution/02_있었는데요_없었습니다/Solution_mysql.sql) |
 | 03 |                    | [오랜 기간 보호한 동물1](https://programmers.co.kr/learn/courses/30/lessons/59044) | [MySql](./solution/03_오랜_기간_보호한_동물_1/Solution_mysql.sql) |
 | 04 |                    | [오랜 기간 보호한 동물2](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [MySql](./solution/04_오랜_기간_보호한_동물_2/Solution_mysql.sql) |
+| 05 |                    | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | [MySql](./solution/05_헤비_유저가_소유한_장소/Solution_mysql.sql) |

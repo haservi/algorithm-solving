@@ -24,6 +24,8 @@
 | 18 |                    | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [Java](./solution/_18_피로도/Solution.java), [Kotlin](./solution/_18_피로도/Solution.kt) |
 | 19 |                    | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [Java](./solution/_19_올바른_괄호/Solution.java), [Kotlin](./solution/_19_올바른_괄호/Solution.kt) |
 | 20 |                    | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [Java](./solution/_20_JadenCase_문자열_만들기/Solution.java) |
+| 21 |                    | [이진 변환 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [Java](./solution/_21_이진_변환_반환하기/Solution.java) |
+| 22 |                    | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [Java](./solution/_22_최솟값_만들기/Solution.java) |
 
 ## SQL
 
