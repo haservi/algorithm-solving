@@ -117,6 +117,7 @@
 | 번호 | 체크 | 문제 | 풀이 |
 | :-: | :-- | :-- | :-- |
 | 01 |                    | [손익분기점](https://www.acmicpc.net/problem/1712) | [Java](./step/_07_기본_수학1/_01_1712_손익분기점/Main.java) |
-| 02 |                    | [벌집](https://www.acmicpc.net/problem/2292)      | [Java](./step/_07_기본_수학1/_02_2292_벌집/Main.java) |
+| 02 |                    | [벌집](https://www.acmicpc.net/problem/2292)  [Java](./step/_07_기본_수학1/_02_2292_벌집/Main.java) |
+| 03 | :white_check_mark: | [분수찾기](https://www.acmicpc.net/problem/1193) [Java](./step/_07_기본_수학1/_03_1193_분수찾기/Main.java) |
 
 [🔝 목차로 돌아가기](#table-of-contents)
