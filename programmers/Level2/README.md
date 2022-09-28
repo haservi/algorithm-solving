@@ -26,6 +26,7 @@
 | 20 |                    | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [Java](./solution/_20_JadenCase_문자열_만들기/Solution.java) |
 | 21 |                    | [이진 변환 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [Java](./solution/_21_이진_변환_반환하기/Solution.java) |
 | 22 |                    | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [Java](./solution/_22_최솟값_만들기/Solution.java) |
+| 23 |                    | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [Java](./solution/_23_숫자의_표현/Solution.java) |
 
 ## SQL
 
