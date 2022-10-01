@@ -24,6 +24,7 @@
 
 프로그래머스가 정의한 레벨별 문제 풀이를 저장한 경로입니다.
 
+- Level0 문제 풀이[Link](./Level0/README.md)
 - Level1 문제 풀이[Link](./Level1/README.md)
 - Level2 문제 풀이[Link](./Level2/README.md)
 - Level3 문제 풀이[Link](./Level3/README.md)
@@ -72,7 +73,7 @@
 
 | 번호 | 체크 | 레벨 | 문제 | 풀이 |
 | :-: | :-: | :-- | :-: | :-- |
-| 01 |           | Level1 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [Java](./Level1/solution/_08_K번째수/Solution.java) |
+| 01 |           | Level1 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [Java](./Level1/solution/_08_K번째수/Solution.java) |
 | 02 |           | Level2 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [Java](./Level2/solution/_10_가장_큰_수/Solution.java) |
 | 03 |           | Level2 | [H INDEX](https://programmers.co.kr/learn/courses/30/lessons/42747) | [Java](./Level2/solution/_11_H_INDEX/Solution.java) |
 

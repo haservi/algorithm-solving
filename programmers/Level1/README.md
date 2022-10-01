@@ -5,16 +5,16 @@
 
 | 번호 | 체크 | 문제 | 풀이 |
 | :-: | :-: | :-- | :-- |
-| 01 |                    | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/77484) | [Java](./solution/_01_완주하지_못한_선수/Solution.java) |
-| 02 |                    | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [Java](./solution/_02_로또의_최고_순위와_최저_순위/Solution.java) |
+| 01 |                    | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [Java](./solution/_01_완주하지_못한_선수/Solution.java) |
+| 02 |                    | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [Java](./solution/_02_로또의_최고_순위와_최저_순위/Solution.java) |
 | 03 |                    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [Java](./solution/_03_신규_아이디_추천/Solution.java) |
 | 04 | :white_check_mark: | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [Java](./solution/_04_체육복/Solution.java) |
-| 05 |                    | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | [Java](./solution/_05_내적/Solution.java) |
-| 06 |                    | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [Java](./solution/_06_폰켓몬/Solution.java) |
-| 07 |                    | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | [Java](./solution/_07_음양_더하기/Solution.java) |
-| 08 |                    | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [Java](./solution/_08_K번째수/Solution.java) |
-| 09 |                    | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [Java](./solution/_09_키패드_누르기/Solution.java) |
-| 10 |                    | [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | [Java](./solution/_10_부족한_금액_계산하기/Solution.java) |
+| 05 |                    | [내적](1) | [Java](./solution/_05_내적/Solution.java) |
+| 06 |                    | [폰켓몬](1) | [Java](./solution/_06_폰켓몬/Solution.java) |
+| 07 |                    | [음양 더하기](1) | [Java](./solution/_07_음양_더하기/Solution.java) |
+| 08 |                    | [K번째수](1) | [Java](./solution/_08_K번째수/Solution.java) |
+| 09 |                    | [키패드 누르기](1) | [Java](./solution/_09_키패드_누르기/Solution.java) |
+| 10 |                    | [부족한 금액 계산하기](1) | [Java](./solution/_10_부족한_금액_계산하기/Solution.java) |
 | 11 |                    | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [Java](./solution/_11_소수_만들기/Solution.java) |
 | 12 |                    | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | [Java](./solution/_12_약수의_개수와_덧셈/Solution.java) |
 | 13 |                    | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | [Java](./solution/_13_삼진법_뒤집기/Solution.java) |
