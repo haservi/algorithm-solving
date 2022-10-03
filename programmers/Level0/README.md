@@ -14,6 +14,14 @@
 | 07 |                    | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898) | [Java](./solution/_07_편지/Solution.java) |
 | 08 |                    | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [Java](./solution/_08_배열_원소의_길이/Solution.java) |
 | 09 |                    | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [Java](./solution/_09_짝수의_합/Solution.java) |
+| 10 |                    | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [Java](./solution/_10_두_수의_합/Solution.java) |
+| 11 |                    | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [Java](./solution/_11_숫자_비교하기/Solution.java) |
+| 12 |                    | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [Java](./solution/_12_나이_출력/Solution.java) |
+| 13 |                    | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [Java](./solution/_13_배열의_평균값/Solution.java) |
+| 14 |                    | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | [Java](./solution/_14_머쓱이보다_키_큰_사람/Solution.java) |
+| 15 |                    | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [Java](./solution/_15_양꼬치/Solution.java) |
+| 16 |                    | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [Java](./solution/_16_짝수는_싫어요/Solution.java) |
+| 17 |                    | []() | [Java](./solution//Solution.java) |
 
 ## SQL
 

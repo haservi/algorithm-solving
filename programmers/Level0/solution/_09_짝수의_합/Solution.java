@@ -6,7 +6,6 @@ package programmers.Level0.solution._09_짝수의_합;
 public class Solution {
 
     public static void main(String[] args) {
-        
         int n = 10;
 
         Solution solution = new Solution();
