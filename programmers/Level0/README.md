@@ -24,7 +24,10 @@
 | 17 |                    | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [Java](./solution/_17_중복된_숫자_개수/Solution.java) |
 | 18 |                    | [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [Java](./solution/_18_최댓값_만들기_1/Solution.java) |
 | 19 |                    | [옷 가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [Java](./solution/_19_옷_가게_할인_받기/Solution.java) |
-| 20 |                    | []() | [Java](./solution//Solution.java) |
+| 20 |                    | [배열 두배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [Java](./solution/_20_배열_두배_만들기/Solution.java), [Kotlin](./solution/_20_배열_두배_만들기/Solution.kt)|
+| 21 |                    | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [Java](./solution/_21_세균_증식/Solution.java) |
+| 22 |                    | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [Java](./solution/_22_문자열_뒤집기/Solution.java) |
+| 23 |                    | []() | [Java](./solution//Solution.java) |
 
 ## SQL
 
