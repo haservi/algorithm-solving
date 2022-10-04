@@ -21,7 +21,10 @@
 | 14 |                    | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | [Java](./solution/_14_머쓱이보다_키_큰_사람/Solution.java) |
 | 15 |                    | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [Java](./solution/_15_양꼬치/Solution.java) |
 | 16 |                    | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [Java](./solution/_16_짝수는_싫어요/Solution.java) |
-| 17 |                    | []() | [Java](./solution//Solution.java) |
+| 17 |                    | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [Java](./solution/_17_중복된_숫자_개수/Solution.java) |
+| 18 |                    | [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [Java](./solution/_18_최댓값_만들기_1/Solution.java) |
+| 19 |                    | [옷 가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [Java](./solution/_19_옷_가게_할인_받기/Solution.java) |
+| 20 |                    | []() | [Java](./solution//Solution.java) |
 
 ## SQL
 
