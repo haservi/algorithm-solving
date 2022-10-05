@@ -27,7 +27,8 @@
 | 20 |                    | [배열 두배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [Java](./solution/_20_배열_두배_만들기/Solution.java), [Kotlin](./solution/_20_배열_두배_만들기/Solution.kt)|
 | 21 |                    | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [Java](./solution/_21_세균_증식/Solution.java) |
 | 22 |                    | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [Java](./solution/_22_문자열_뒤집기/Solution.java) |
-| 23 |                    | []() | [Java](./solution//Solution.java) |
+| 23 |                    | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [Java](./solution/_23_각도기/Solution.java), [Kotlin](./solution/_23_각도기/Solution.kt) |
+| 24 |                    | []() | [Java](./solution/Solution.java), [Kotlin](./solution/Solution.kt)|
 
 ## SQL
 
