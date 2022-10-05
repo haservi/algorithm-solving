@@ -28,7 +28,8 @@
 | 21 |                    | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [Java](./solution/_21_세균_증식/Solution.java) |
 | 22 |                    | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [Java](./solution/_22_문자열_뒤집기/Solution.java) |
 | 23 |                    | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [Java](./solution/_23_각도기/Solution.java), [Kotlin](./solution/_23_각도기/Solution.kt) |
-| 24 |                    | []() | [Java](./solution/Solution.java), [Kotlin](./solution/Solution.kt)|
+| 24 |                    | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | [Java](./solution/_25_문자열안에_문자열/Solution.java), [Kotlin](./solution/_25_문자열안에_문자열/Solution.kt)|
+| 25 |                    | []() | [Java](./solution/Solution.java), [Kotlin](./solution/Solution.kt)|
 
 ## SQL
 
