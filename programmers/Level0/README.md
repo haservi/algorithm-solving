@@ -30,7 +30,8 @@
 | 23 |                    | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [Java](./solution/_23_각도기/Solution.java), [Kotlin](./solution/_23_각도기/Solution.kt) |
 | 24 |                    | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | [Java](./solution/_25_문자열안에_문자열/Solution.java), [Kotlin](./solution/_25_문자열안에_문자열/Solution.kt)|
 | 25 |                    | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [Java](./solution/_26_점의_위치_구하기/Solution.java), [Kotlin](./solution/_26_점의_위치_구하기/Solution.kt)|
-| 25 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
+| 26 |                    | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [Java](./solution/_26_직각삼각형_출력하기/Solution.java), [Kotlin](./solution/_26_직각삼각형_출력하기/Solution.kt)|
+| 27 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
 
 ## SQL
 

@@ -4,7 +4,7 @@ package programmers.Level0.solution._26_점의_위치_구하기
 https://school.programmers.co.kr/learn/courses/30/lessons/120841
  */
 fun main() {
-    val dot: IntArray = intArrayOf(2, 4)
+    val dot = intArrayOf(2, 4)
     var result = solution(dot)
     print("result: " + result)
 }
