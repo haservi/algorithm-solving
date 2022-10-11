@@ -1,0 +1,11 @@
+-- https://school.programmers.co.kr/learn/courses/30/lessons/131114
+
+SELECT
+  fw.WAREHOUSE_ID,
+  fw.WAREHOUSE_NAME,
+  fw.ADDRESS,
+  CASE WHEN fw.FREEZER_YN IS NULL THEN 'N' ELSE fw.FREEZER_YN END AS FREEZER_YN
+FROM FOOD_WAREHOUSE AS fw
+WHERE 1 = 1
+  AND fw.ADDRESS LIKE '%경기도%'
+ORDER BY fw.WAREHOUSE_ID ASC;

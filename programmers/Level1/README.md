@@ -69,3 +69,5 @@
 | 08 |                    | [이름이 있는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59407) | [MySQL](./solution/08_이름이_있는_동물의_아이디/Solution_mysql.sql), Oracle |
 | 09 |                    | [역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035) | [MySQL](./solution/09_역순_정렬하기/Solution_mysql.sql) |
 | 10 |                    | [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403) | [MySQL](./solution/10_동물의_아이디와_이름/Solution_mysql.sql) |
+| 11 |                    | [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112) | [MySQL](./solution/11_강원도에_위치한_생산공장_목록_출력하기/Solution_mysql.sql) |
+| 12 |                    | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [MySQL](./solution/12_경기도에_위치한_식품창고_목록_출력하기/Solution_mysql.sql) |
