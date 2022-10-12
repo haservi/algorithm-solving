@@ -43,3 +43,4 @@
 | 09 |                    | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) | [MySQL](./solution/09_중성화_여부_파악하기/Solution_mysql.sql) |
 | 10 |                    | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | [MySQL](./solution/10_입양_시각_구하기_1/Solution_mysql.sql) |
 | 11 |                    | [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) | [MySQL](./solution/11_루시와_엘라_찾기/Solution_mysql.sql) |
+| 12 |                    | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | [MySQL](./solution/12_가격이_제일_비싼_식품의_정보_출력하기/Solution_mysql.sql) |
