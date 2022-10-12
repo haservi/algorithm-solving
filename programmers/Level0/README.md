@@ -32,7 +32,8 @@
 | 25 |                    | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [Java](./solution/_26_점의_위치_구하기/Solution.java), [Kotlin](./solution/_26_점의_위치_구하기/Solution.kt)|
 | 26 |                    | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [Java](./solution/_26_직각삼각형_출력하기/Solution.java), [Kotlin](./solution/_26_직각삼각형_출력하기/Solution.kt)|
 | 27 | :white_check_mark: | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [Java](./solution/_27_배열_자르기/Solution.java), [Kotlin](./solution/_27_배열_자르기/Solution.kt)|
-| 28 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
+| 28 |                    | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [Java](./solution/_28_배열_뒤집기/Solution.java), [Kotlin](./solution/_28_배열_뒤집기/Solution.kt)|
+| 29 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
 
 ## SQL
 
