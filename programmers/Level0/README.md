@@ -34,7 +34,8 @@
 | 27 | :white_check_mark: | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [Java](./solution/_27_배열_자르기/Solution.java), [Kotlin](./solution/_27_배열_자르기/Solution.kt)|
 | 28 |                    | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [Java](./solution/_28_배열_뒤집기/Solution.java), [Kotlin](./solution/_28_배열_뒤집기/Solution.kt)|
 | 29 |                    | [피자 나눠 먹기 1](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [Java](./solution/_29_피자_나눠_먹기/Solution.java), [Kotlin](./solution/_29_피자_나눠_먹기/Solution.kt)|
-| 30 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
+| 30 |                    | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [Java](./solution/_30_세균_증식/Solution.java), [Kotlin](./solution/_30_세균_증식/Solution.kt)|
+| 31 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
 
 ## SQL
 
