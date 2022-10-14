@@ -74,3 +74,4 @@
 | 11 |                    | [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112) | [MySQL](./solution/11_강원도에_위치한_생산공장_목록_출력하기/Solution_mysql.sql) |
 | 12 |                    | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [MySQL](./solution/12_경기도에_위치한_식품창고_목록_출력하기/Solution_mysql.sql) |
 | 13 |                    | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [MySQL](./solution/13_나이_정보가_없는_회원_수_구하기/Solution_mysql.sql) |
+| 14 |                    | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535) | [MySQL](./solution/14_조건에_맞는_회원수_구하기/Solution_mysql.sql) |
