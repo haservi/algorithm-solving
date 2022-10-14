@@ -55,6 +55,7 @@
 | 48 |                    | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | [Java](./solution/_48_핸드폰_번호_가리기/Solution.java), [Kotlin](./solution/_48_핸드폰_번호_가리기/solution.kt) |
 | 49 |                    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [Java](./solution/_49_x만큼_간격이_있는_n개의_숫자/Solution.java), [Kotlin](./solution/_49_x만큼_간격이_있는_n개의_숫자/solution.kt) |
 | 50 | :white_check_mark: | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [Java](./solution/_50_숫자_짝꿍/Solution.java) |
+| 51 |                    | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [Java](./solution/_51_삼총사/Solution.java), [Kotlin](./solution/_51_삼총사/solution.kt) |
 
 ## SQL
 
