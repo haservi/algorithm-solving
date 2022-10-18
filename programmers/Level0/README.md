@@ -28,17 +28,18 @@
 | 21 |                    | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [Java](./solution/_21_세균_증식/Solution.java) |
 | 22 |                    | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [Java](./solution/_22_문자열_뒤집기/Solution.java) |
 | 23 |                    | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [Java](./solution/_23_각도기/Solution.java), [Kotlin](./solution/_23_각도기/Solution.kt) |
-| 24 |                    | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | [Java](./solution/_25_문자열안에_문자열/Solution.java), [Kotlin](./solution/_25_문자열안에_문자열/Solution.kt)|
-| 25 |                    | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [Java](./solution/_26_점의_위치_구하기/Solution.java), [Kotlin](./solution/_26_점의_위치_구하기/Solution.kt)|
-| 26 |                    | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [Java](./solution/_26_직각삼각형_출력하기/Solution.java), [Kotlin](./solution/_26_직각삼각형_출력하기/Solution.kt)|
-| 27 | :white_check_mark: | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [Java](./solution/_27_배열_자르기/Solution.java), [Kotlin](./solution/_27_배열_자르기/Solution.kt)|
-| 28 |                    | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [Java](./solution/_28_배열_뒤집기/Solution.java), [Kotlin](./solution/_28_배열_뒤집기/Solution.kt)|
-| 29 |                    | [피자 나눠 먹기 1](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [Java](./solution/_29_피자_나눠_먹기/Solution.java), [Kotlin](./solution/_29_피자_나눠_먹기/Solution.kt)|
-| 30 |                    | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [Java](./solution/_30_세균_증식/Solution.java), [Kotlin](./solution/_30_세균_증식/Solution.kt)|
-| 31 |                    | [피자 나눠 먹기 3](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [Java](./solution/_31_피자_나눠_먹기_3/Solution.java), [Kotlin](./solution/_31_피자_나눠_먹기_3/Solution.kt)|
+| 24 |                    | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | [Java](./solution/_25_문자열안에_문자열/Solution.java), [Kotlin](./solution/_25_문자열안에_문자열/Solution.kt) |
+| 25 |                    | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [Java](./solution/_26_점의_위치_구하기/Solution.java), [Kotlin](./solution/_26_점의_위치_구하기/Solution.kt) |
+| 26 |                    | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [Java](./solution/_26_직각삼각형_출력하기/Solution.java), [Kotlin](./solution/_26_직각삼각형_출력하기/Solution.kt) |
+| 27 | :white_check_mark: | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [Java](./solution/_27_배열_자르기/Solution.java), [Kotlin](./solution/_27_배열_자르기/Solution.kt) |
+| 28 |                    | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [Java](./solution/_28_배열_뒤집기/Solution.java), [Kotlin](./solution/_28_배열_뒤집기/Solution.kt) |
+| 29 |                    | [피자 나눠 먹기 1](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [Java](./solution/_29_피자_나눠_먹기/Solution.java), [Kotlin](./solution/_29_피자_나눠_먹기/Solution.kt) |
+| 30 |                    | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [Java](./solution/_30_세균_증식/Solution.java), [Kotlin](./solution/_30_세균_증식/Solution.kt) |
+| 31 |                    | [피자 나눠 먹기 3](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [Java](./solution/_31_피자_나눠_먹기_3/Solution.java), [Kotlin](./solution/_31_피자_나눠_먹기_3/Solution.kt) |
 | 32 | :white_check_mark: | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808?language=java) | [Java](./solution/_32_분수의_덧셈/Solution.java) |
-| 33 |                    | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [Java](./solution/_33_아이스_아메리카노/Solution.java), [Kotlin](./solution/_33_아이스_아메리카노/Solution.kt)|
-| 34 |                    | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [Java](./solution/_34_중앙값_구하기/Solution.java), [Kotlin](./solution/_34_중앙값_구하기/Solution.kt)|
+| 33 |                    | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [Java](./solution/_33_아이스_아메리카노/Solution.java), [Kotlin](./solution/_33_아이스_아메리카노/Solution.kt) |
+| 34 |                    | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [Java](./solution/_34_중앙값_구하기/Solution.java), [Kotlin](./solution/_34_중앙값_구하기/Solution.kt) |
+| 35 |                    | [삼각형의 완성조건 1](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [Java](./solution/_35_삼각형의_완성조건_1/Solution.java) |
 | 35 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
 
 ## SQL
