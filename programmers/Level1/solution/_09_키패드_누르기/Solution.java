@@ -5,13 +5,13 @@ package programmers.Level1.solution._09_키패드_누르기;
  * 1. 이전 번호의 숫자를 누른 손가락의 위치와 왼손잡이인지 오른손잡이인지에 따른 좌표를 표현한다.
  * 2. 휴대폰의 위치에 따라 정해진 좌표값이 있으니 그에 맞게 값을 출력하면 된다.
  */
-public class Soulution {
+public class Solution {
 
     public static void main(String[] args) {
         int[] testNumber = { 1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5 };
         String testHand = "right";
 
-        Soulution soulution = new Soulution();
+        Solution soulution = new Solution();
         String result = soulution.solution(testNumber, testHand);
 
         System.out.println("결과: " + result);
