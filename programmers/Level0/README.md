@@ -38,7 +38,8 @@
 | 31 |                    | [피자 나눠 먹기 3](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [Java](./solution/_31_피자_나눠_먹기_3/Solution.java), [Kotlin](./solution/_31_피자_나눠_먹기_3/Solution.kt)|
 | 32 | :white_check_mark: | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808?language=java) | [Java](./solution/_32_분수의_덧셈/Solution.java) |
 | 33 |                    | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [Java](./solution/_33_아이스_아메리카노/Solution.java), [Kotlin](./solution/_33_아이스_아메리카노/Solution.kt)|
-| 34 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
+| 34 |                    | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [Java](./solution/_34_중앙값_구하기/Solution.java), [Kotlin](./solution/_34_중앙값_구하기/Solution.kt)|
+| 35 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
 
 ## SQL
 
