@@ -36,7 +36,7 @@ public class Solution {
     }
 
     /**
-     * 최대 공배수
+     * 최소 공배수
      */
     private int lcm(int num1, int num2) {
         return num1 * num2 / gdc(num1, num2);
