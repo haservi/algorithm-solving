@@ -40,7 +40,8 @@
 | 33 |                    | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [Java](./solution/_33_아이스_아메리카노/Solution.java), [Kotlin](./solution/_33_아이스_아메리카노/Solution.kt) |
 | 34 |                    | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [Java](./solution/_34_중앙값_구하기/Solution.java), [Kotlin](./solution/_34_중앙값_구하기/Solution.kt) |
 | 35 |                    | [삼각형의 완성조건 1](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [Java](./solution/_35_삼각형의_완성조건_1/Solution.java) |
-| 35 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt)|
+| 36 |                    | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [Java](./solution/_36_최빈값_구하기/Solution.java) |
+| 37 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt) |
 
 ## SQL
 
