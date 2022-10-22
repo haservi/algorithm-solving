@@ -1,7 +1,7 @@
 package programmers.Level0.solution._37_피자_나눠_먹기_2
 
 /*
-https://school.programmers.co.kr/learn/courses/30/lessons/120815
+https://school.programmers.co.kr/learn/courses/30/lessons/120815?language=kotlin
 */
 fun main() {
     val n = 10
