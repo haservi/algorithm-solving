@@ -41,7 +41,7 @@
 | 34 |                    | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [Java](./solution/_34_중앙값_구하기/Solution.java), [Kotlin](./solution/_34_중앙값_구하기/Solution.kt) |
 | 35 |                    | [삼각형의 완성조건 1](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [Java](./solution/_35_삼각형의_완성조건_1/Solution.java) |
 | 36 |                    | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [Java](./solution/_36_최빈값_구하기/Solution.java) |
-| 37 | :white_check_mark: | [피자 나눠 먹기 2](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [Java](./solution/_37_피자_나눠_먹기_2/Solution.java) |
+| 37 | :white_check_mark: | [피자 나눠 먹기 2](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [Java](./solution/_37_피자_나눠_먹기_2/Solution.java), [Kotlin](./solution/_37_피자_나눠_먹기_2/Solution.kt) |
 | 38 |                    | []() | [Java](./solution//Solution.java), [Kotlin](./solution//Solution.kt) |
 
 ## SQL
