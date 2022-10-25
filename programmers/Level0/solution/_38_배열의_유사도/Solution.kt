@@ -7,7 +7,7 @@ fun main() {
     val s1 = arrayOf("a", "b", "c")
     val s2 = arrayOf("com", "b", "d", "p", "c")
     var result = solution(s1, s2)
-    print("result: " + result)
+    print("result: $result")
 }
 
 fun solution(s1: Array<String>, s2: Array<String>): Int {
