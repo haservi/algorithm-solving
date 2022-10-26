@@ -44,6 +44,8 @@
 | 37 | :white_check_mark: | [피자 나눠 먹기 2](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [Java](./solution/_37_피자_나눠_먹기_2/Solution.java), [Kotlin](./solution/_37_피자_나눠_먹기_2/Solution.kt) |
 | 38 |                    | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903) | [Java](./solution/_38_배열의_유사도/Solution.java), [Kotlin](./solution/_38_배열의_유사도/Solution.kt) |
 | 39 |                    | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [Java](./solution/_39_짝수_홀수_개수/Solution.java), [Kotlin](./solution/_39_짝수_홀수_개수/Solution.kt) |
+| 40 | :white_check_mark: | [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | [Java](./solution/_40_문자_반복_출력하기/Solution.java), [Kotlin](./solution/_40_문자_반복_출력하기/Solution.kt) |
+| 41 |                    | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | [Java](./solution/_41_특정_문자_제거하기/Solution.java), [Kotlin](./solution/_41_특정_문자_제거하기/Solution.kt) |
 
 ## SQL
 
