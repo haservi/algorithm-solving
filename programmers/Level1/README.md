@@ -76,3 +76,4 @@
 | 13 |                    | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [MySQL](./solution/13_나이_정보가_없는_회원_수_구하기/Solution_mysql.sql) |
 | 14 |                    | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535) | [MySQL](./solution/14_조건에_맞는_회원수_구하기/Solution_mysql.sql) |
 | 15 |                    | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697) | [MySQL](./solution/15_가장_비싼_상품_구하기/Solution_mysql.sql) |
+| 16 |                    | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) | [MySQL](./solution/16_흉부외과_또는_일반외과_의사_목록_출력하기/Solution_mysql.sql) |
