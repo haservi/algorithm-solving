@@ -56,6 +56,7 @@
 | 49 |                    | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [Java](./solution/_49_x만큼_간격이_있는_n개의_숫자/Solution.java) |
 | 50 | :white_check_mark: | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [Java](./solution/_50_숫자_짝꿍/Solution.java) |
 | 51 |                    | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [Java](./solution/_51_삼총사/Solution.java), [Kotlin](./solution/_51_삼총사/Solution.kt) |
+| 52 | :white_check_mark: | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | [Java](./solution/_52_콜라_문제/Solution.java), [Kotlin](./solution/_52_콜라_문제/Solution.kt) |
 
 ## SQL
 
