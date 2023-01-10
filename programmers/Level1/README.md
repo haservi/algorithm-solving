@@ -57,6 +57,7 @@
 | 50 | :white_check_mark: | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [Java](./solution/_50_숫자_짝꿍/Solution.java) |
 | 51 |                    | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [Java](./solution/_51_삼총사/Solution.java), [Kotlin](./solution/_51_삼총사/Solution.kt) |
 | 52 | :white_check_mark: | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | [Java](./solution/_52_콜라_문제/Solution.java), [Kotlin](./solution/_52_콜라_문제/Solution.kt) |
+| 53 |                    | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=java) | [Java](./solution/_53_크기가_작은_부분_문자열/Solution.java) |
 
 ## SQL
 
