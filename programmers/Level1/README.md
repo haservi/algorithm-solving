@@ -82,3 +82,4 @@
 | 17 |                    | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201) | [MySQL](./solution/17_12세_이하인_여자_환자_목록_출력하기/Solution_mysql.sql) |
 | 18 |                    | [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | [MySQL](./solution/18_과일로_만든_아이스크림_고르기/Solution_mysql.sql) |
 | 19 |                    | [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024) | [MySQL](./solution/19_인기있는_아이스크림/Solution_mysql.sql) |
+| 20 |                    | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/133024) | [MySQL](./solution/20_특정_옵션이_포함된_자동차_리스트_구하기/Solution_mysql.sql) |
