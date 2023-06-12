@@ -62,6 +62,7 @@
 | 55 |                    | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | [Java](./solution/_55_카드_뭉치/Solution.java) |
 | 56 |                    | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | [Java](./solution/_56_대충_만든_자판/Solution.java) |
 | 57 |                    | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [Java](./solution/_57_바탕화면_정리/Solution.java) |
+| 57 |                    | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | [Java](./solution/_58_달리기_경주/Solution.java) |
 
 ## SQL
 
