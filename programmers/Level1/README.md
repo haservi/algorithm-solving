@@ -62,7 +62,7 @@
 | 55 |                    | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | [Java](./solution/_55_카드_뭉치/Solution.java) |
 | 56 |                    | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | [Java](./solution/_56_대충_만든_자판/Solution.java) |
 | 57 |                    | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [Java](./solution/_57_바탕화면_정리/Solution.java) |
-| 57 |                    | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | [Java](./solution/_58_달리기_경주/Solution.java) |
+| 58 |                    | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | [Java](./solution/_58_달리기_경주/Solution.java) |
 
 ## SQL
 
@@ -90,3 +90,4 @@
 | 20 |                    | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343) | [MySQL](./solution/20_특정_옵션이_포함된_자동차_리스트_구하기/Solution_mysql.sql) |
 | 21 |                    | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | [MySQL](./solution/21_자동차_대여_기록에서_장기_단기_대여_구분하기/Solution_mysql.sql) |
 | 22 |                    | [조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853) | [MySQL](./solution/22_조건에_맞는_도서_리스트_출력하기/Solution_mysql.sql) |
+| 23 |                    | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136) | [MySQL](./solution/23_평균_일일_대여_요금_구하기/Solution_mysql.sql) |

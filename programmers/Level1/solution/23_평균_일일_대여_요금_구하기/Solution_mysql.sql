@@ -1,0 +1,8 @@
+SELECT
+  ROUND
+  (
+    SUM(crca.DAILY_FEE) / COUNT(*),
+    0
+  ) AS AVERAGE_FEE
+FROM CAR_RENTAL_COMPANY_CAR AS crca
+WHERE crca.CAR_TYPE = 'SUV'
