@@ -91,3 +91,4 @@
 | 21 |                    | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | [MySQL](./solution/21_자동차_대여_기록에서_장기_단기_대여_구분하기/Solution_mysql.sql) |
 | 22 |                    | [조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853) | [MySQL](./solution/22_조건에_맞는_도서_리스트_출력하기/Solution_mysql.sql) |
 | 23 |                    | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136) | [MySQL](./solution/23_평균_일일_대여_요금_구하기/Solution_mysql.sql) |
+| 24 |                    | [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673) | [MySQL](./solution/24_조건에_부합하는_중고거래_댓글_조회하기/Solution_mysql.sql) |
