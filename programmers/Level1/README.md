@@ -65,7 +65,7 @@
 | 58 |                    | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | [Java](./solution/_58_달리기_경주/Solution.java) |
 | 59 |                    | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | [Java](./solution/_59_추억_점수/Solution.java) |
 | 60 |                    | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [Java](./solution/_60_과일_장수/Solution.java) |
-| 61 |                    | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [Java](./solution/_61_가장_가까운_같은_글자/Solution.java) |
+| 61 |                    | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [Java](./solution/_61_가장_가까운_같은_글자/Solution.java), [Kotlin](./solution/_61_가장_가까운_같은_글자/Solution.kt) |
 
 ## SQL
 
