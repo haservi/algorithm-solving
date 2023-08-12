@@ -66,7 +66,8 @@
 | 59 |                    | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | [Java](./solution/_59_추억_점수/Solution.java) |
 | 60 |                    | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [Java](./solution/_60_과일_장수/Solution.java) |
 | 61 |                    | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [Java](./solution/_61_가장_가까운_같은_글자/Solution.java), [Kotlin](./solution/_61_가장_가까운_같은_글자/Solution.kt) |
-| 62 |                    | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [Java](./solution/_62_공원_산책/Solution.java), [Kotlin](./solution/_62_공원_산책/Solution.kt) |
+| 62 |                    | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [Java](./solution/_62_공원_산책/Solution.java) |
+| 63 | :white_check_mark: | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [Java](./solution/_63기사단원의_무기/Solution.java) |
 
 ## SQL
 
