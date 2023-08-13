@@ -1,4 +1,4 @@
-package programmers.Level1.solution._63기사단원의_무기;
+package programmers.Level1.solution._63_기사단원의_무기;
 
 public class Solution {
 
