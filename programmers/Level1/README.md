@@ -70,6 +70,7 @@
 | 63 | :white_check_mark: | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [Java](./solution/_63_기사단원의_무기/Solution.java) |
 | 64 |                    | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | [Java](./solution/_64_덧칠하기/Solution.java) |
 | 65 |                    | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [Java](./solution/_65_둘만의_암호/Solution.java) |
+| 66 |                    | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [Java](./solution/_66_문자열_나누기/Solution.java) |
 
 ## SQL
 
