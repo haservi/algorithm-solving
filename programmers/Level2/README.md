@@ -49,3 +49,4 @@
 | 13 |                    | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) | [MySQL](./solution/13_카테고리_별_상품_개수_구하기/Solution_mysql.sql) |
 | 14 |                    | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | [MySQL](./solution/14_상품_별_오프라인_매출_구하기/Solution_mysql.sql) |
 | 15 |                    | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | [MySQL](./solution/15_조건에_부합하는_중고거래_상태_조회하기/Solution_mysql.sql) |
+| 16 |                    | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | [MySQL](./solution/16_자동차_평균_대여_기간_구하기/Solution_mysql.sql) |
