@@ -72,6 +72,7 @@
 | 65 |                    | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [Java](./solution/_65_둘만의_암호/Solution.java) |
 | 66 |                    | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [Java](./solution/_66_문자열_나누기/Solution.java) |
 | 67 |                    | [옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | [Java](./solution/_67_옹알이/Solution.java) |
+| 68 |                    | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [Java](./solution/_68_햄버기_만들기/Solution.java) |
 
 ## SQL
 
