@@ -25,3 +25,4 @@
 | 03 |                    | [오랜 기간 보호한 동물1](https://programmers.co.kr/learn/courses/30/lessons/59044) | [MySql](./solution/03_오랜_기간_보호한_동물_1/Solution_mysql.sql) |
 | 04 |                    | [오랜 기간 보호한 동물2](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [MySql](./solution/04_오랜_기간_보호한_동물_2/Solution_mysql.sql) |
 | 05 |                    | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | [MySql](./solution/05_헤비_유저가_소유한_장소/Solution_mysql.sql) |
+| 06 |                    | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) | [MySql](./solution/06_조건에_맞는_사용자와_총_거래금액_조회하기/Solution_mysql.sql) |
