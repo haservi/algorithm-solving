@@ -29,6 +29,7 @@
 | 23 |                    | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [Java](./solution/_23_숫자의_표현/Solution.java) |
 | 24 |                    | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | [Java](./solution/_24_혼자_놀기의_달인/Solution.java) |
 | 25 |                    | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | [Java](./solution/_25_요격_시스템/Solution.java) |
+| 26 |                    | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [Java](./solution/_26_숫자_변환하기/Solution.java) |
 
 ## SQL
 
