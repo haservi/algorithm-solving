@@ -27,3 +27,4 @@
 | 05 |                    | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | [MySql](./solution/05_헤비_유저가_소유한_장소/Solution_mysql.sql) |
 | 06 |                    | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) | [MySql](./solution/06_조건에_맞는_사용자와_총_거래금액_조회하기/Solution_mysql.sql) |
 | 07 |                    | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670) | [MySql](./solution/07_조건에_맞는_사용자_정보_조회하기/Solution_mysql.sql) |
+| 08 |                    | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | [MySql](./solution/08_조회수가_가장_많은_중고거래_게시판의_첨부파일_조회하기/Solution_mysql.sql) |
