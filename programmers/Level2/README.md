@@ -30,6 +30,7 @@
 | 24 |                    | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | [Java](./solution/_24_혼자_놀기의_달인/Solution.java) |
 | 25 |                    | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | [Java](./solution/_25_요격_시스템/Solution.java) |
 | 26 |                    | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [Java](./solution/_26_숫자_변환하기/Solution.java) |
+| 27 |                    | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [Java](./solution/_27_연속된_부분_수열의_합/Solution.java) |
 
 ## SQL
 
