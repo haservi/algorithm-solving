@@ -14,7 +14,7 @@
 | 08 |                    | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [Java](./solution/_08_단어_변환/Solution.java) |
 | 09 |                    | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [Java](./solution/_09_정수_삼각형/Solution.java) |
 | 10 | :white_check_mark: | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [Java](./solution/_10_여행경로/Solution.java), [Kotlin](./solution/_10_여행경로/Solution.kt) |
-| 10 | :white_check_mark: | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [Java](./solution/_11_섬_연결하기/Solution.java) |
+| 11 | :white_check_mark: | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [Java](./solution/_11_섬_연결하기/Solution.java) |
 
 ## SQL
 
@@ -29,3 +29,4 @@
 | 07 |                    | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670) | [MySql](./solution/07_조건에_맞는_사용자_정보_조회하기/Solution_mysql.sql) |
 | 08 |                    | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | [MySql](./solution/08_조회수가_가장_많은_중고거래_게시판의_첨부파일_조회하기/Solution_mysql.sql) |
 | 09 |                    | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | [MySql](./solution/09_대여_기록이_존재하는_자동차_리스트_구하기/Solution_mysql.sql) |
+| 10 | :white_check_mark: | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139) | [MySql](./solution/10_대여_횟수가_많은_자동차들의_월별_대여_횟수_구하기/Solution_mysql.sql) |
