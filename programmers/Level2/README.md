@@ -52,4 +52,5 @@
 | 14 |                    | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | [MySQL](./solution/14_상품_별_오프라인_매출_구하기/Solution_mysql.sql) |
 | 15 |                    | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | [MySQL](./solution/15_조건에_부합하는_중고거래_상태_조회하기/Solution_mysql.sql) |
 | 16 |                    | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | [MySQL](./solution/16_자동차_평균_대여_기간_구하기/Solution_mysql.sql) |
-| 16 |                    | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | [MySQL](./solution/17_자동차_종류_별_특정_옵션이_포함된_자동차_수_구하기/Solution_mysql.sql) |
+| 17 |                    | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | [MySQL](./solution/17_자동차_종류_별_특정_옵션이_포함된_자동차_수_구하기/Solution_mysql.sql) |
+| 18 |                    | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [MySQL](./solution/18_진료과별_총_예약_횟수_출력하기/Solution_mysql.sql) |
