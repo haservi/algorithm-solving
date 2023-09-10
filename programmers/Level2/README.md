@@ -54,3 +54,4 @@
 | 16 |                    | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | [MySQL](./solution/16_자동차_평균_대여_기간_구하기/Solution_mysql.sql) |
 | 17 |                    | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | [MySQL](./solution/17_자동차_종류_별_특정_옵션이_포함된_자동차_수_구하기/Solution_mysql.sql) |
 | 18 |                    | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [MySQL](./solution/18_진료과별_총_예약_횟수_출력하기/Solution_mysql.sql) |
+| 19 |                    | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | [MySQL](./solution/19_가격대_별_상품_개수_구하기/Solution_mysql.sql) |
