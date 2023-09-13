@@ -32,6 +32,7 @@
 | 26 |                    | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [Java](./solution/_26_숫자_변환하기/Solution.java) |
 | 27 |                    | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [Java](./solution/_27_연속된_부분_수열의_합/Solution.java) |
 | 28 | :white_check_mark: | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [Java](./solution/_28_교점에_별_만들기/Solution.java) |
+| 29 | :white_check_mark: | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [Java](./solution/_29_삼각_달팽이/Solution.java) |
 
 ## SQL
 
