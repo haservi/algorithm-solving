@@ -58,3 +58,4 @@
 | 18 |                    | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [MySQL](./solution/18_진료과별_총_예약_횟수_출력하기/Solution_mysql.sql) |
 | 19 |                    | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | [MySQL](./solution/19_가격대_별_상품_개수_구하기/Solution_mysql.sql) |
 | 20 |                    | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | [MySQL](./solution/20_성분으로_구분한_아이스크림_총_주문량/Solution_mysql.sql) |
+| 21 |                    | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | [MySQL](./solution/21_재구매가_일어난_상품과_회원_리스트_구하기/Solution_mysql.sql) |
