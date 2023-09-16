@@ -31,3 +31,4 @@
 | 09 |                    | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | [MySql](./solution/09_대여_기록이_존재하는_자동차_리스트_구하기/Solution_mysql.sql) |
 | 10 | :white_check_mark: | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139) | [MySql](./solution/10_대여_횟수가_많은_자동차들의_월별_대여_횟수_구하기/Solution_mysql.sql) |
 | 11 |                    | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | [MySql](./solution/11_카테고리_별_도서_판매량_집계하기/Solution_mysql.sql) |
+| 12 |                    | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340) | [MySql](./solution/12_자동차_대여_기록에서_대여중_대여_가능_여부_구분하기/Solution_mysql.sql) |
