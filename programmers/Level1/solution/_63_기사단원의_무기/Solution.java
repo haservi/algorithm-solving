@@ -42,12 +42,12 @@ public class Solution {
     }
 
     // 하나하나 구하면 속도가 느려서 통과를 못함
-    private int getDivisorSum(int number) {
-        int count = 0;
-        for (int i = 1; i <= number; i++) {
-            if (number % i == 0)
-                count++;
-        }
-        return count;
-    }
+    // private int getDivisorSum(int number) {
+    //     int count = 0;
+    //     for (int i = 1; i <= number; i++) {
+    //         if (number % i == 0)
+    //             count++;
+    //     }
+    //     return count;
+    // }
 }
