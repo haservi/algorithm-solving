@@ -34,7 +34,8 @@
 | 28 | :white_check_mark: | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [Java](./solution/_28_교점에_별_만들기/Solution.java) |
 | 29 | :white_check_mark: | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [Java](./solution/_29_삼각_달팽이/Solution.java) |
 | 30 | :white_check_mark: | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [Java](./solution/_30_광물_캐기/Solution.java) |
-| 30 | :white_check_mark: | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [Java](./solution/_31_거리두기_확인하기/Solution.java) |
+| 31 | :white_check_mark: | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [Java](./solution/_31_거리두기_확인하기/Solution.java) |
+| 32 | :white_check_mark: | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [Java](./solution/_32_리코쳇_로봇/Solution.java) |
 
 ## SQL
 
