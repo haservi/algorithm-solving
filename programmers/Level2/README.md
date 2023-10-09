@@ -36,6 +36,7 @@
 | 30 | :white_check_mark: | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [Java](./solution/_30_광물_캐기/Solution.java) |
 | 31 | :white_check_mark: | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [Java](./solution/_31_거리두기_확인하기/Solution.java) |
 | 32 | :white_check_mark: | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [Java](./solution/_32_리코쳇_로봇/Solution.java) |
+| 33 |                    | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [Java](./solution/_33_행렬의_곱셈/Solution.java) |
 
 ## SQL
 
