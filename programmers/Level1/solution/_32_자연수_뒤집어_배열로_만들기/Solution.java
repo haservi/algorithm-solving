@@ -5,17 +5,18 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Stack;
 
-/**
- * https://programmers.co.kr/learn/courses/30/lessons/12932
- */
 class Solution {
     public static void main(String[] args) {
+        long s = 12345;
+        int[] expected = { 5, 4, 3, 2, 1 };
+
         Solution solution = new Solution();
-
-        long s = 812345;
-
         int[] result = solution.solution(s);
-        System.out.println("결과 : " + Arrays.toString(result));
+        if (Arrays.equals(result, expected)) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fass");
+        }
     }
 
     public int[] solution(long n) {
@@ -36,7 +37,18 @@ class Solution {
             answer[i] = longList.get(count - i - 1).intValue();
         }
 
-        System.out.println(longList);
+        return answer;
+    }
+
+    public int[] solution2(long n) {
+        String str = Long.toString(n);
+        String reversed = new StringBuilder(str).reverse().toString();
+        char[] charArray = reversed.toCharArray();
+
+        int[] answer = new int[charArray.length];
+        for (int i = 0; i < answer.length; i++) {
+            answer[i] = charArray[i] - '0';
+        }
         return answer;
     }
 }
