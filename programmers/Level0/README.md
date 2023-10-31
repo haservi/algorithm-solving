@@ -49,6 +49,7 @@
 | 42 |                    | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [Java](./solution/_42_가장_큰_수_찾기/Solution.java), [Kotlin](./solution/_42_가장_큰_수_찾기/Solution.kt) |
 | 43 |                    | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [Java](./solution/_43_마지막_두_원소/Solution.java) |
 | 44 |                    | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | [Java](./solution/_44_문자열_출력하기/Solution.java) |
+| 45 |                    | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [Java](./solution/_45_대소문자_바꿔서_출력하기/Solution.java) |
 
 ## SQL
 
