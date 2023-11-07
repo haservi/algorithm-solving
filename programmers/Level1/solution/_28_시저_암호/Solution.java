@@ -11,9 +11,14 @@ class Solution {
 
         String s = "a B z";
         int n = 4;
+        String expectedResult = "e F d";
 
-        String result = solution.solution(s, n);
-        System.out.println("결과 : " + result);
+        String result = solution.solution2(s, n);
+        if (expectedResult.equals(result)) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public String solution(String s, int n) {
@@ -43,4 +48,21 @@ class Solution {
         }
         return answer;
     }
+
+    public String solution2(String s, int n) {
+        StringBuilder answer = new StringBuilder();
+        for (char c : s.toCharArray()) {
+            if (!Character.isAlphabetic(c)) {
+                answer.append(c);
+            } else {
+                int offset = Character.isUpperCase(c) ? 'A' : 'a';
+                int position = c - offset;
+                // 알파벳이 넘어갈 수 도 있어서 나머지 연산 추가
+                position = (position + n) % ('Z' - 'A' + 1);
+                answer.append((char) (offset + position));
+            }
+        }
+        return answer.toString();
+    }
+
 }
