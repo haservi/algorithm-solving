@@ -1,5 +1,8 @@
 package programmers.Level2.solution._03_문자열_압축;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * https://programmers.co.kr/learn/courses/30/lessons/60057
  * 1. 문자열의 절반까지 계속하여 문자를 나누어 가장 짧게 압축되는 값을 리턴한다.
@@ -9,10 +12,16 @@ package programmers.Level2.solution._03_문자열_압축;
 public class Solution {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        String test = "abcabct";
+        String test = "abcabcabcabcdededededede";
+        int expectedResult = 14;
 
-        int result = solution.solution(test);
-        System.out.println("결과 값: " + result);
+        int result = solution.solution2(test);
+        if (expectedResult == result) {
+
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public int solution(String s) {
@@ -36,10 +45,8 @@ public class Solution {
             if (i >= stringLength) {
                 nowString = "";
             } else if (stringLength < (i + interval)) {
-                // System.out.println(s.substring(i));
                 nowString = s.substring(i);
             } else {
-                // System.out.println(s.substring(i, i + interval));
                 nowString = s.substring(i, i + interval);
             }
 
@@ -57,7 +64,56 @@ public class Solution {
             pattern = nowString;
 
         }
-        // System.out.println(compString);
         return compString.length();
     }
+
+    // ---------------------------------------------------------------
+    public int solution2(String s) {
+        int min = Integer.MAX_VALUE;
+        for (int length = 1; length <= s.length(); length++) {
+            int compressed = compress(s, length);
+            if (compressed < min) {
+                min = compressed;
+            }
+        }
+        return min;
+    }
+
+    private int compress(String s, int length) {
+        StringBuilder builder = new StringBuilder();
+
+        String last = "";
+        int count = 0;
+        for (String token : split(s, length)) {
+            if (token.equals(last)) {
+                count++;
+            } else {
+                if (1 < count) {
+                    builder.append(count);
+                }
+                builder.append(last);
+                last = token;
+                count = 1;
+            }
+        }
+        if (1 < count) {
+            builder.append(count);
+        }
+        builder.append(last);
+        return builder.length();
+    }
+
+    private List<String> split(String s, int length) {
+        List<String> tokens = new ArrayList<>();
+
+        for (int startIndex = 0; startIndex < s.length(); startIndex += length) {
+            int endIndex = startIndex + length;
+            if (s.length() < endIndex) {
+                endIndex = s.length();
+            }
+            tokens.add(s.substring(startIndex, endIndex));
+        }
+        return tokens;
+    }
+
 }
