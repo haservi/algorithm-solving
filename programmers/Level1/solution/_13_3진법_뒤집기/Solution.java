@@ -7,9 +7,17 @@ package programmers.Level1.solution._13_3진법_뒤집기;
 class Solution {
 
     public static void main(String[] args) {
+        int n = 125;
+        int expectedResult = 229;
+
         Solution solution = new Solution();
-        int result = solution.solution(125);
-        System.out.println("결과 : " + result);
+        int result = solution.solution2(n);
+
+        if (expectedResult == result) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public int solution(int number) {
@@ -38,5 +46,11 @@ class Solution {
             result = result * 3 + (nums[i] - '0');
         }
         return result;
+    }
+
+    public int solution2(int n) {
+        String str = Integer.toString(n, 3);
+        String reversed = new StringBuilder(str).reverse().toString();
+        return Integer.valueOf(reversed, 3);
     }
 }
