@@ -1,4 +1,4 @@
-package programmers.Level2.solution._21_이진_변환_반환하기;
+package programmers.Level2.solution._21_이진_변환_반복하기;
 
 import java.util.Arrays;
 
