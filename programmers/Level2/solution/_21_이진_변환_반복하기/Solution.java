@@ -10,9 +10,15 @@ public class Solution {
     public static void main(String[] args) {
 
         String s = "110010101001";
+        int[] expectedResult = { 3, 8 };
+
         Solution solution = new Solution();
         int[] result = solution.solution(s);
-        System.out.println("result: " + Arrays.toString(result));
+        if (Arrays.equals(expectedResult, result)) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public int[] solution(String s) {
@@ -46,5 +52,32 @@ public class Solution {
             result.append(binary[i]);
         }
         return result.toString();
+    }
+
+    public int[] solution2(String s) {
+        int loop = 0;
+        int removed = 0;
+
+        while (!s.equals("1")) {
+            int zeros = countZeros(s);
+            loop += 1;
+            removed += zeros;
+
+            // 길이 값을 다시 2진수로 변경
+            int ones = s.length() - zeros;
+            s = Integer.toString(ones, 2);
+        }
+
+        return new int[] { loop, removed };
+    }
+
+    private int countZeros(String s) {
+        int zeros = 0;
+        for (char c : s.toCharArray()) {
+            if (c == '0') {
+                zeros++;
+            }
+        }
+        return zeros;
     }
 }
