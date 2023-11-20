@@ -2,21 +2,24 @@ package programmers.Level1.solution._23_문자열_내_p와_y의_개수;
 
 /**
  * https://programmers.co.kr/learn/courses/30/lessons/12916
- * 1. 문자열의 y값인 경우 count 증가, p인 경우 count 감소한다.
- * 2. count가 같은 경우는 개수가 같거나 아무것도 일치하지 않은 경우이다.
- * 3. 그렇지 않은 경우는 false를 반환한다.
  */
 class Solution {
     public static void main(String[] args) {
-        Solution solution = new Solution();
 
         String s = "Pyy";
+        boolean expectedResult = false;
 
+        Solution solution = new Solution();
         boolean result = solution.solution(s);
-        System.out.println("결과 : " + result);
+
+        if (expectedResult == result) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
-    boolean solution(String s) {
+    public boolean solution(String s) {
         boolean answer = true;
 
         char[] sCharArray = s.toCharArray();
@@ -43,5 +46,36 @@ class Solution {
         }
 
         return answer;
+    }
+
+    public boolean solution2(String s) {
+        int ps = 0;
+        int ys = 0;
+
+        for (char c : s.toCharArray()) {
+            switch (c) {
+                case 'p', 'P' -> {
+                    ps++;
+                }
+                case 'y', 'Y' -> {
+                    ys++;
+                }
+            }
+        }
+        return ps == ys;
+    }
+
+    /**
+     * 아래와 같이 작성해도 시간복잡도는 O(n) + O(n) + O(n) = O(n) 이므로 변화가 없다.
+     * @param s
+     * @return
+     */
+    public boolean solution3(String s) {
+        s = s.toLowerCase();
+
+        int ps = s.length() - s.replace("p", "").length();
+        int ys = s.length() - s.replace("y", "").length();
+
+        return ps == ys;
     }
 }
