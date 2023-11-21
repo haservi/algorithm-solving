@@ -2,14 +2,19 @@ package programmers.Level1.solution._15_숫자_문자열과_영단어;
 
 /**
  * https://programmers.co.kr/learn/courses/30/lessons/81301
- * 1. 숫자인 경우 그대로 값을 추가하고, 문자열인 경우 반복적으로 체크하여 문자를 숫자로 변환했다.
  */
 class Solution {
     public static void main(String[] args) {
         Solution solution = new Solution();
 
-        int result = solution.solution("one4seveneight"); // 1478
-        System.out.println("결과 : " + result);
+        int result = solution.solution3("one4seveneightonezerozero");
+        int expectedResult = 1478100;
+
+        if (expectedResult == result) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public int solution(String s) {
@@ -67,7 +72,7 @@ class Solution {
         }
     }
 
-    public int sampleSolution(String s) {
+    public int solution2(String s) {
         String[] digits = { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" };
         String[] alphabets = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
 
@@ -75,6 +80,20 @@ class Solution {
             s = s.replaceAll(alphabets[i], digits[i]);
         }
 
+        return Integer.parseInt(s);
+    }
+
+    /**
+     * replaceAll의 경우 정규식으로도 활용할 수 있다.
+     */
+    public int solution3(String s) {
+        String[] words = {
+             "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" 
+        };
+
+        for (int i = 0; i < words.length; i++) {
+            s = s.replace(words[i], Integer.toString(i));
+        }
         return Integer.parseInt(s);
     }
 }
