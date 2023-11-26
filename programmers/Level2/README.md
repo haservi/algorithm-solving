@@ -38,6 +38,7 @@
 | 32 | :white_check_mark: | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [Java](./solution/_32_리코쳇_로봇/Solution.java) |
 | 33 |                    | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [Java](./solution/_33_행렬의_곱셈/Solution.java) |
 | 34 |                    | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | [Java](./solution/_34_쿼드압축_후_개수_세기/Solution.java) |
+| 35 |                    | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [Java](./solution/_35_하노이의_탑/Solution.java) |
 
 ## SQL
 
