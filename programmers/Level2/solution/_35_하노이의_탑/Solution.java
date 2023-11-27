@@ -10,11 +10,11 @@ import java.util.List;
 public class Solution {
 
     public static void main(String[] args) {
-        int n = 7;
+        int n = 2;
         int[][] expectedResult = { { 1, 2 }, { 1, 3 }, { 2, 3 } };
 
         Solution solution = new Solution();
-        int[][] result = solution.solution2(n);
+        int[][] result = solution.solution(n);
 
         if (Arrays.deepEquals(expectedResult, result)) {
             System.out.println("Pass");
@@ -48,6 +48,7 @@ public class Solution {
     }
 
     private void hanoi(int n, int from, int to, List<int[]> process) {
+        // 재귀의 종료 조건은 n이 1인 경우
         if (n == 1) {
             process.add(new int[] { from, to });
             return;
