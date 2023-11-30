@@ -3,16 +3,22 @@ package programmers.Level2.solution._12_카펫;
 import java.util.Arrays;
 
 /**
- * 1. 최소 세로길이 3부터 순차적으로 돌면서 내부 사각형의 격자의 개수와 일치하는지 확인하면 된다.
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42842
  */
 public class Solution {
     public static void main(String[] args) {
-        Solution solution = new Solution();
-
         int brown = 24;
         int yellow = 24;
+        int[] expectedResult = { 8, 6 };
+
+        Solution solution = new Solution();
         int[] result = solution.solution(brown, yellow);
-        System.out.println("결과: " + Arrays.toString(result));
+
+        if (Arrays.equals(expectedResult, result)) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public int[] solution(int brown, int yellow) {
@@ -38,6 +44,20 @@ public class Solution {
             }
         }
         return answer;
+    }
+
+    public int[] solution2(int brown, int yellow) {
+        for (int width = 3; width <= 5000; width++) {
+            for (int height = 3; height <= width; height++) {
+                int boundary = (width + height - 2) * 2;
+                int center = width * height - boundary;
+                // 계속해서 탐색하면서 매개변수의 값과 일치하면 값을 return
+                if (brown == boundary && yellow == center) {
+                    return new int[] { width, height };
+                }
+            }
+        }
+        return null;
     }
 
 }
