@@ -40,6 +40,7 @@
 | 34 |                    | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | [Java](./solution/_34_쿼드압축_후_개수_세기/Solution.java) |
 | 35 |                    | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [Java](./solution/_35_하노이의_탑/Solution.java) |
 | 36 |                    | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [Java](./solution/_36_모음사전/Solution.java) |
+| 36 |                    | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [Java](./solution/_37_수식_최대화/Solution.java) |
 
 ## SQL
 
