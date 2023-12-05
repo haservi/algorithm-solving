@@ -15,6 +15,7 @@
 | 09 |                    | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [Java](./solution/_09_정수_삼각형/Solution.java) |
 | 10 | :white_check_mark: | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [Java](./solution/_10_여행경로/Solution.java), [Kotlin](./solution/_10_여행경로/Solution.kt) |
 | 11 | :white_check_mark: | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [Java](./solution/_11_섬_연결하기/Solution.java) |
+| 12 |                    | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | [Java](./solution/_12_불량_사용자/Solution.java) |
 
 ## SQL
 
