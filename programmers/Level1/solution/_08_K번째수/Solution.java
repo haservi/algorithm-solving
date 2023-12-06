@@ -8,12 +8,18 @@ import java.util.Arrays;
 class Solution {
 
     public static void main(String[] args) {
-        System.out.println("");
-        Solution solution = new Solution();
         int[] array = { 1, 5, 2, 6, 3, 7, 4 };
         int[][] commands = { { 2, 5, 3 }, { 4, 4, 1 }, { 1, 7, 3 } };
+        int[] expectedResult = { 5, 6, 3 };
+
+        Solution solution = new Solution();
         int[] result = solution.solution(array, commands);
-        System.out.println("결과 값 : " + Arrays.toString(result));
+
+        if (Arrays.equals(expectedResult, result)) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public int[] solution(int[] array, int[][] commands) {
@@ -52,5 +58,21 @@ class Solution {
             }
         }
         return arr;
+    }
+
+    public int[] solution2(int[] array, int[][] commands) {
+        int[] answer = new int[commands.length];
+
+        for (int i = 0; i < answer.length; i++) {
+            int[] command = commands[i];
+            int from = command[0] - 1;
+            int to = command[1];
+            int k = command[2] - 1;
+
+            int[] sub = Arrays.copyOfRange(array, from, to);
+            Arrays.sort(sub);
+            answer[i] = sub[k];
+        }
+        return answer;
     }
 }
