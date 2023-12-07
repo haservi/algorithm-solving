@@ -14,7 +14,7 @@
 | 08 |                    | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [Java](./solution/_08_다리를_지나는_트럭/Solution.java) |
 | 09 |                    | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [Java](./solution/_09_더_맵게/Solution.java) |
 | 10 | :white_check_mark: | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [Java](./solution/_10_가장_큰_수/Solution.java) |
-| 11 |                    | [H INDEX](https://programmers.co.kr/learn/courses/30/lessons/42747) | [Java](./solution/_11_H_INDEX/Solution.java) |
+| 11 |                    | [H-INDEX](https://programmers.co.kr/learn/courses/30/lessons/42747) | [Java](./solution/_11_H_INDEX/Solution.java) |
 | 12 |                    | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [Java](./solution/_12_카펫/Solution.java) |
 | 13 | :white_check_mark: | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [Java](./solution/_13_조이스틱/Solution.java) |
 | 14 |                    | [큰수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [Java](./solution/_14_큰수_만들기/Solution.java) |

@@ -3,17 +3,26 @@ package programmers.Level1.solution._17_두_개_뽑아서_더하기;
 import java.util.*;
 
 /**
- * 1. TreeSet에 값을 넣은 뒤에 해당 메서드 리턴타입에 맞게 변경한다.
+ * https://programmers.co.kr/learn/courses/30/lessons/68644
  */
 class Solution {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        int[] test = { 2, 1, 3, 4, 1 };
+        int[] expectedResult = { 2, 3, 4, 5, 6, 7 };
 
-        int[] test = { 18, 1, 3, 4, 1 };
+        Solution solution = new Solution();
         int[] result = solution.solution(test);
-        System.out.println("결과 : " + Arrays.toString(result));
+
+        if (Arrays.equals(expectedResult, result)) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
+    /**
+     * TreeSet에 값을 넣은 뒤에 해당 메서드 리턴타입에 맞게 변경
+     */
     public int[] solution(int[] numbers) {
         int count = numbers.length;
         Set<Integer> addArraySet = new TreeSet<Integer>();
@@ -36,5 +45,17 @@ class Solution {
         }
 
         return result;
+    }
+
+    public int[] solution2(int[] numbers) {
+        Set<Integer> set = new HashSet<>();
+
+        for (int i = 0; i < numbers.length; i++) {
+            for (int j = i + 1; j < numbers.length; j++) {
+                set.add(numbers[i] + numbers[j]);
+            }
+        }
+
+        return set.stream().mapToInt(Integer::intValue).sorted().toArray();
     }
 }
