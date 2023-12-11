@@ -4,18 +4,26 @@ import java.util.Arrays;
 
 /**
  * https://programmers.co.kr/learn/courses/30/lessons/12915
- * 1. 정렬 함수를 이용하여 정렬 후 해당 char값에 맞게 정렬한다.
  */
 class Solution {
     public static void main(String[] args) {
-        Solution solution = new Solution();
-
         String[] strings = { "sun", "bed", "car" };
         int n = 1;
-        String[] result = solution.solution(strings, n);
-        System.out.println("결과 : " + Arrays.toString(result));
+        String[] expectedResult = { "car", "bed", "sun" };
+
+        Solution solution = new Solution();
+        String[] result = solution.solution2(strings, n);
+
+        if (Arrays.equals(expectedResult, result)) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
+    /**
+     * 정렬 함수를 이용하여 정렬 후 해당 char값에 맞게 정렬
+     */
     public String[] solution(String[] strings, int n) {
         String[] answer = new String[strings.length];
         int count = strings.length;
@@ -39,6 +47,16 @@ class Solution {
         }
 
         return answer;
+    }
+
+    public String[] solution2(String[] strings, int n) {
+        Arrays.sort(strings, (s1, s2) -> {
+            if (s1.charAt(n) != s2.charAt(n)) {
+                return s1.charAt(n) - s2.charAt(n);
+            }
+            return s1.compareTo(s2);
+        });
+        return strings;
     }
 
 }
