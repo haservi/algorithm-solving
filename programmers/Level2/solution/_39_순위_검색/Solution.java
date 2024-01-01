@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Consumer;
+import java.util.stream.Stream;
 
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/72412
@@ -46,16 +47,20 @@ public class Solution {
     public int[] solution(String[] info, String[] query) {
         Map<String, List<Integer>> scoresMap = buildScoresMap(info);
 
-        int[] answer = new int[query.length];
-        for (int i = 0; i < answer.length; i++) {
-            answer[i] = count(query[i], scoresMap);
-        }
+        return Stream.of(query)
+                .mapToInt(item -> count(item, scoresMap))
+                .toArray();
 
-        return answer;
+        // int[] answer = new int[query.length];
+        // for (int i = 0; i < answer.length; i++) {
+        // answer[i] = count(query[i], scoresMap);
+        // }
+
+        // return answer;
     }
 
     /**
-     * info에 대한 경우의
+     * info에 대한 모든 경우의 수
      */
     private Map<String, List<Integer>> buildScoresMap(String[] info) {
         Map<String, List<Integer>> scoresMap = new HashMap<>();
