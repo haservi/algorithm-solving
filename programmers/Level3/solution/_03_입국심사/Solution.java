@@ -4,13 +4,18 @@ import java.util.Arrays;
 
 class Solution {
     public static void main(String[] args) {
-        Solution solution = new Solution();
-
-        int n = 10;
+        int n = 6;
         int[] times = { 7, 10 };
+        long expectedResult = 28;
 
+        Solution solution = new Solution();
         long result = solution.solution(n, times);
-        System.out.println("결과 : " + result);
+
+        if (expectedResult == result) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public long solution(int n, int[] times) {
@@ -40,5 +45,30 @@ class Solution {
             }
         }
         return answer;
+    }
+
+    public long solution2(int n, int[] times) {
+        long start = 1;
+        long end = 1_000_000_000_000_000_000L;
+
+        while (start < end) {
+            long t = (start + end) / 2;
+
+            if (isValid(t, n, times)) {
+                end = t;
+            } else {
+                start = t + 1;
+            }
+        }
+
+        return start;
+    }
+
+    private boolean isValid(long t, int n, int[] times) {
+        long c = 0;
+        for (int time : times) {
+            c += t / time;
+        }
+        return n <= c;
     }
 }
