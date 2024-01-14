@@ -2,6 +2,10 @@
 
 ## 알고리즘
 
+| 번호 | 체크 | 문제 | 풀이 |
+| :-: | :-: | :-- | :-- |
+| 01 |                    | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | [Java](./solution/_01_징검다리/Solution.java) |
+
 ## SQL
 
 | 번호 | 체크 | 문제 | 풀이 |
