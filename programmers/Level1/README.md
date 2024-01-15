@@ -76,6 +76,7 @@
 | 69 |                    | [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [Java](./solution/_69_명예의_전당/Solution.java) |
 | 70 |                    | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [Java](./solution/_70_개인정보_수집_유효기간/Solution.java) |
 | 71 |                    | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [Java](./solution/_71_문자열_내림차순으로_배치하기/Solution.java) |
+| 72 |                    | [붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | [Java](./solution/_72_붕대_감기/Solution.java) |
 
 ## SQL
 
