@@ -50,6 +50,7 @@
 | 43 |                    | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [Java](./solution/_43_마지막_두_원소/Solution.java) |
 | 44 |                    | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | [Java](./solution/_44_문자열_출력하기/Solution.java) |
 | 45 |                    | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [Java](./solution/_45_대소문자_바꿔서_출력하기/Solution.java) |
+| 46 |                    | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [Java](./solution/_46_평행/Solution.java) |
 
 ## SQL
 
