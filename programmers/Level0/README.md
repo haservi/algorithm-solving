@@ -52,6 +52,7 @@
 | 45 |                    | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [Java](./solution/_45_대소문자_바꿔서_출력하기/Solution.java) |
 | 46 | :white_check_mark: | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [Java](./solution/_46_평행/Solution.java) |
 | 47 |                    | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [Java](./solution/_47_중복된_문자_제거/Solution.java) |
+| 48 |                    | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [Java](./solution/_48_A로_B_만들기/Solution.java) |
 
 ## SQL
 
