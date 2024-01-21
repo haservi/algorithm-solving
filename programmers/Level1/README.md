@@ -5,8 +5,8 @@
 
 | 번호 | 체크 | 문제 | 풀이 |
 | :-: | :-: | :-- | :-- |
-| 01 |                    | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [Java](./solution/_01_완주하지_못한_선수/Solution.java) |
-| 02 |                    | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [Java](./solution/_02_로또의_최고_순위와_최저_순위/Solution.java) |
+| 01 |                    | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [Java](./solution/_01_완주하지_못한_선수/Solution.java) |
+| 02 |                    | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [Java](./solution/_02_로또의_최고_순위와_최저_순위/Solution.java) |
 | 03 |                    | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [Java](./solution/_03_신규_아이디_추천/Solution.java) |
 | 04 | :white_check_mark: | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [Java](./solution/_04_체육복/Solution.java) |
 | 05 |                    | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [Java](./solution/_05_내적/Solution.java) |

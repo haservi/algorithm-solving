@@ -2,15 +2,23 @@ package programmers.Level1.solution._01_완주하지_못한_선수;
 
 import java.util.*;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/120804
+ */
 class Solution {
     public static void main(String[] args) {
-        Solution solution = new Solution();
-
         String[] participant = { "leo", "kiki", "eden" };
         String[] completion = { "eden", "kiki" };
+        String expectedResult = "leo";
 
-        String result = solution.solution(participant, completion);
-        System.out.println("완주하지 못한 선수: " + result);
+        Solution solution = new Solution();
+        String result = solution.solution2(participant, completion);
+
+        if (expectedResult.equals(result)) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     /**
@@ -26,5 +34,24 @@ class Solution {
             }
         }
         return participant[i];
+    }
+
+    public String solution2(String[] participant, String[] completion) {
+        Map<String, Integer> count = new HashMap<>();
+
+        for (String name : participant) {
+            count.putIfAbsent(name, 0);
+            count.put(name, count.get(name) + 1);
+        }
+
+        for (String name : completion) {
+            int v = count.get(name) - 1;
+            count.put(name, v);
+            if (v == 0) {
+                count.remove(name);
+            }
+        }
+
+        return count.keySet().iterator().next();
     }
 }
