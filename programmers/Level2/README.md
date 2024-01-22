@@ -43,6 +43,7 @@
 | 37 |                    | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [Java](./solution/_37_수식_최대화/Solution.java) |
 | 38 | :white_check_mark: | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [Java](./solution/_38_메뉴_리뉴얼/Solution.java) |
 | 39 | :white_check_mark: | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [Java](./solution/_39_순위_검색/Solution.java) |
+| 40 |                    | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [Java](./solution/_40_피보나치_수/Solution.java) |
 
 ## SQL
 
