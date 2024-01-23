@@ -1,17 +1,29 @@
 package programmers.Level3.solution._09_정수_삼각형;
 
+import java.util.Arrays;
+
 public class Solution {
     public static void main(String[] args) {
+        int[][] triangle = {
+                { 7 },
+                { 3, 8 },
+                { 8, 1, 0 },
+                { 2, 7, 4, 4 },
+                { 4, 5, 2, 6, 5 }
+        };
+        int expectedResult = 30;
+
         Solution solution = new Solution();
-
-        int[][] triangle = { { 7 }, { 3, 8 }, { 8, 1, 0 }, { 2, 7, 4, 4 }, { 4, 5, 2, 6, 5 } };
-
         int result = solution.solution(triangle);
-        System.out.println("result : " + result);
+
+        if (expectedResult == result) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public int solution(int[][] triangle) {
-
         int triangleDeath = triangle.length;
         int[][] dp = new int[triangleDeath][triangleDeath];
 
@@ -40,4 +52,29 @@ public class Solution {
         int answer = max;
         return answer;
     }
+
+    public int solution2(int[][] triangle) {
+        for (int[] row : mem) {
+            Arrays.fill(row, -1);
+        }
+        return max(0, 0, triangle);
+    }
+
+    private final int[][] mem = new int[501][501];
+
+    private int max(int x, int y, int[][] triangle) {
+        if (y == triangle.length) {
+            return 0;
+        }
+        // 이미 거쳐간 경우 return
+        if (mem[x][y] != -1) {
+            return mem[x][y];
+        }
+
+        mem[x][y] = triangle[y][x]
+                + Math.max(max(x, y + 1, triangle), max(x + 1, y + 1, triangle));
+
+        return mem[x][y];
+    }
+
 }
