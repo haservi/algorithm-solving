@@ -54,6 +54,7 @@
 | 47 |                    | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [Java](./solution/_47_중복된_문자_제거/Solution.java) |
 | 48 |                    | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [Java](./solution/_48_A로_B_만들기/Solution.java) |
 | 49 |                    | [피타고라스의 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250132) | [Java](./solution/_49_피타고라스의_정리/Solution.java) |
+| 50 |                    | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [Java](./solution/_50_n의_배수/Solution.java) |
 
 ## SQL
 
