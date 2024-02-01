@@ -5,6 +5,7 @@
 | 번호 | 체크 | 문제 | 풀이 |
 | :-: | :-: | :-- | :-- |
 | 01 |                    | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | [Java](./solution/_01_징검다리/Solution.java) |
+| 02 | :white_check_mark: | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843) | [Java](./solution/_02_사칙연산/Solution.java) |
 
 ## SQL
 
