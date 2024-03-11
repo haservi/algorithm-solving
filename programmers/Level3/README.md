@@ -35,3 +35,4 @@
 | 11 |                    | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | [MySql](./solution/11_카테고리_별_도서_판매량_집계하기/Solution_mysql.sql) |
 | 12 |                    | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340) | [MySql](./solution/12_자동차_대여_기록에서_대여중_대여_가능_여부_구분하기/Solution_mysql.sql) |
 | 13 |                    | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113) | [MySql](./solution/13_조건별로_분류하여_주문상태_출력하기/Solution_mysql.sql) |
+| 14 |                    | [부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) | [MySql](./solution/14_부서별_평균_연봉_조회하기/Solution_mysql.sql) |
