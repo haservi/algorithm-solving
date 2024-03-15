@@ -106,3 +106,4 @@
 | 22 |                    | [조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853) | [MySQL](./solution/22_조건에_맞는_도서_리스트_출력하기/Solution_mysql.sql) |
 | 23 |                    | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136) | [MySQL](./solution/23_평균_일일_대여_요금_구하기/Solution_mysql.sql) |
 | 24 |                    | [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673) | [MySQL](./solution/24_조건에_부합하는_중고거래_댓글_조회하기/Solution_mysql.sql) |
+| 25 |                    | [잔챙이 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293258) | [MySQL](./solution/25_잔챙이_잡은_수_구하기/Solution_mysql.sql) |
