@@ -1,0 +1,9 @@
+-- https://school.programmers.co.kr/learn/courses/30/lessons/293257
+
+SELECT
+  COUNT(fi.ID) AS FISH_COUNT,
+  fni.FISH_NAME
+FROM FISH_NAME_INFO AS fni
+INNER JOIN FISH_INFO AS fi ON fni.FISH_TYPE = fi.FISH_TYPE
+GROUP BY fni.FISH_NAME
+ORDER BY FISH_COUNT DESC
