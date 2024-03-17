@@ -107,3 +107,4 @@
 | 23 |                    | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136) | [MySQL](./solution/23_평균_일일_대여_요금_구하기/Solution_mysql.sql) |
 | 24 |                    | [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673) | [MySQL](./solution/24_조건에_부합하는_중고거래_댓글_조회하기/Solution_mysql.sql) |
 | 25 |                    | [잔챙이 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293258) | [MySQL](./solution/25_잔챙이_잡은_수_구하기/Solution_mysql.sql) |
+| 26 |                    | [잡은 물고기의 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259) | [MySQL](./solution/26_잡은_물고기의_평균_길이_구하기/Solution_mysql.sql) |
