@@ -10,14 +10,19 @@ public class Solution {
     public static void main(String[] args) {
 
         String s = "(()(";
+        boolean expectedResult = false;
 
         Solution solution = new Solution();
         boolean result = solution.solution(s);
-        System.out.println("result: " + result);
+
+        if (expectedResult == result) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     public boolean solution(String s) {
-
         // 시작이 '('로 시작하지 않으면 실패
         if (s.charAt(0) != '(') {
             return false;
@@ -40,6 +45,23 @@ public class Solution {
             return false;
 
         return true;
+    }
+
+    public boolean solution1(String s) {
+        int counter = 0;
+
+        for (char c : s.toCharArray()) {
+            switch (c) {
+                case '(' -> counter++;
+                case ')' -> {
+                    if (counter-- == 0) {
+                        return false;
+                    }
+                }
+            }
+        }
+
+        return counter == 0;
     }
 
 }
