@@ -75,3 +75,4 @@
 | 24 |                    | [연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530) | [MySQL](./solution/24_연도_별_평균_미세먼지_농도_조회하기/Solution_mysql.sql) |
 | 25 |                    | [물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530) | [MySQL](./solution/25_물고기_종류_별_잡은_수_구하기/Solution_mysql.sql) |
 | 26 |                    | [월별 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293260) | [MySQL](./solution/26_월별_잡은_물고기_수_구하기/Solution_mysql.sql) |
+| 27 |                    | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261) | [MySQL](./solution/27_물고기_종류_별_대어_찾기/Solution_mysql.sql) |
