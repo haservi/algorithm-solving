@@ -76,3 +76,4 @@
 | 25 |                    | [물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530) | [MySQL](./solution/25_물고기_종류_별_잡은_수_구하기/Solution_mysql.sql) |
 | 26 |                    | [월별 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293260) | [MySQL](./solution/26_월별_잡은_물고기_수_구하기/Solution_mysql.sql) |
 | 27 |                    | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261) | [MySQL](./solution/27_물고기_종류_별_대어_찾기/Solution_mysql.sql) |
+| 28 |                    | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518) | [MySQL](./solution/28_특정_물고기를_잡은_총_수_구하기/Solution_mysql.sql) |
