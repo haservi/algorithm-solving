@@ -108,3 +108,4 @@
 | 24 |                    | [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673) | [MySQL](./solution/24_조건에_부합하는_중고거래_댓글_조회하기/Solution_mysql.sql) |
 | 25 |                    | [잔챙이 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293258) | [MySQL](./solution/25_잔챙이_잡은_수_구하기/Solution_mysql.sql) |
 | 26 |                    | [잡은 물고기의 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259) | [MySQL](./solution/26_잡은_물고기의_평균_길이_구하기/Solution_mysql.sql) |
+| 27 |                    | [가장 큰 물고기 10마리 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298517) | [MySQL](./solution/27_가장_큰_물고기_10마리_구하기/Solution_mysql.sql) |
