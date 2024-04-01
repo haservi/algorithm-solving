@@ -80,3 +80,4 @@
 | 28 |                    | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518) | [MySQL](./solution/28_특정_물고기를_잡은_총_수_구하기/Solution_mysql.sql) |
 | 29 |                    | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310) | [MySQL](./solution/29_연도별_대장균_크기의_편차_구하기/Solution_mysql.sql) |
 | 30 |                    | [분기별 분화된 대장균의 개체 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299308) | [MySQL](./solution/30_분기별_분화된_대장균의_개체_수_구하기/Solution_mysql.sql) |
+| 31 |                    | [조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527) | [MySQL](./solution/31_조건에_맞는_사원_정보_조회하기/Solution_mysql.sql) |
