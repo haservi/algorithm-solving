@@ -3,19 +3,22 @@ package programmers.Level2.solution._06_기능개발;
 import java.util.*;
 
 /**
- * 1. 가장 우선적인 기능이 완성되지 않으면 뒤의 기능이 이미 완성되어도 진행을 할 수 없다.
- * 2. 그렇기 때문에 Queue와 반복문을 활용하여 가장 먼저 들어온 기능이 완료되면 순서대로 체크해서 카운트하면 된다.
- * 3. 앞의 프린터 문제를 풀면서 Queue에 클래스 객체를 넣는 방식으로 코드를 수정하였다.
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42586
  */
 public class Solution {
     public static void main(String[] args) {
-        Solution solution = new Solution();
-
         int[] progresses = { 95, 90, 99, 99, 80, 99 };
         int[] speeds = { 1, 1, 1, 1, 1, 1 };
+        int[] expectedResult = { 1, 3, 2 };
 
+        Solution solution = new Solution();
         int[] result = solution.solution(progresses, speeds);
-        System.out.println("결과: " + Arrays.toString(result));
+
+        if (Arrays.equals(result, expectedResult)) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     class Task {
@@ -28,8 +31,11 @@ public class Solution {
         }
     }
 
+    /**
+     * 1. 가장 우선적인 기능이 완성되지 않으면 뒤의 기능이 이미 완성되어도 진행을 할 수 없음
+     * 2. 그렇기 때문에 Queue와 반복문을 활용하여 가장 먼저 들어온 기능이 완료되면 순서대로 체크해서 카운트
+     */
     public int[] solution(int[] progresses, int[] speeds) {
-
         Queue<Task> queue = new LinkedList<Task>();
 
         for (int i = 0; i < progresses.length; i++) {
@@ -60,5 +66,34 @@ public class Solution {
         }
         // System.out.println(completeList.toString());
         return completeList.stream().mapToInt(i -> i).toArray();
+    }
+
+    public int[] solution2(int[] progresses, int[] speeds) {
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < progresses.length; i++) {
+            queue.add(i);
+        }
+
+        List<Integer> result = new ArrayList<>();
+        int days = 0;
+        int count = 0;
+
+        while (!queue.isEmpty()) {
+            int index = queue.poll();
+            int expiration = (int) Math.ceil((double) (100 - progresses[index]) / speeds[index]);
+            // 다음 작업 순서가 이전보다 오래 걸린 경우 이전 항목은 count 처리
+            if (days < expiration) {
+                if (days != 0) {
+                    result.add(count);
+                    count = 0;
+                }
+                days = expiration;
+            }
+            count++;
+        }
+        result.add(count);
+        return result.stream()
+                .mapToInt(Integer::intValue)
+                .toArray();
     }
 }
