@@ -111,3 +111,4 @@
 | 27 |                    | [가장 큰 물고기 10마리 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298517) | [MySQL](./solution/27_가장_큰_물고기_10마리_구하기/Solution_mysql.sql) |
 | 28 |                    | [한 해에 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298516) | [MySQL](./solution/28_한_해에_잡은_물고기_수_구하기/Solution_mysql.sql) |
 | 29 |                    | [잡은 물고기 중 가장 큰 물고기의 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298515) | [MySQL](./solution/29_잡은_물고기_중_가장_큰_물고기의_길이_구하기/Solution_mysql.sql) |
+| 30 |                    | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) | [MySQL](./solution/30_Python_개발자_찾기/Solution_mysql.sql) |
