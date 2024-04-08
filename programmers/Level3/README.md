@@ -17,6 +17,7 @@
 | 11 | :white_check_mark: | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [Java](./solution/_11_섬_연결하기/Solution.java) |
 | 12 |                    | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | [Java](./solution/_12_불량_사용자/Solution.java) |
 | 13 |                    | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [Java](./solution/_13_등굣길/Solution.java) |
+| 14 |                    | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | [Java](./solution/_14_순위/Solution.java) |
 
 ## SQL
 
