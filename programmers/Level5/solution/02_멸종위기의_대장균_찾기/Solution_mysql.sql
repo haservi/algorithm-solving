@@ -1,0 +1,33 @@
+-- https://school.programmers.co.kr/learn/courses/30/lessons/301651
+
+-- 모든 데이터의 세대 확인
+WITH RECURSIVE GENERATION AS
+(
+  SELECT
+    ID,
+    PARENT_ID,
+    1 AS GENERATION
+  FROM ECOLI_DATA
+  WHERE PARENT_ID IS NULL
+
+  UNION ALL
+
+  SELECT
+    ed.ID,
+    ed.PARENT_ID,
+    g.GENERATION + 1 AS GENERATION
+  FROM
+    ECOLI_DATA AS ed
+  INNER JOIN GENERATION AS g ON ed.PARENT_ID = g.ID
+)
+
+-- 모든 세대 데이터와 같은 테이블의 부모 아이디를 LEFT JOIN 하여
+-- 부모가 없는 데이터를 세대별로 그룹화 한뒤 개수 세기
+SELECT
+  COUNT(g.ID) AS 'COUNT',
+  g.GENERATION AS 'GENERATION'
+FROM GENERATION AS g
+LEFT JOIN ECOLI_DATA AS ed ON g.ID = ed.PARENT_ID
+WHERE ed.PARENT_ID IS NULL
+GROUP BY GENERATION
+ORDER BY GENERATION;
