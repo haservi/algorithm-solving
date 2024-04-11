@@ -112,3 +112,4 @@
 | 28 |                    | [한 해에 잡은 물고기 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298516) | [MySQL](./solution/28_한_해에_잡은_물고기_수_구하기/Solution_mysql.sql) |
 | 29 |                    | [잡은 물고기 중 가장 큰 물고기의 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298515) | [MySQL](./solution/29_잡은_물고기_중_가장_큰_물고기의_길이_구하기/Solution_mysql.sql) |
 | 30 |                    | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013) | [MySQL](./solution/30_Python_개발자_찾기/Solution_mysql.sql) |
+| 31 |                    | [특정 형질을 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301646) | [MySQL](./solution/31_특정_형질을_가지는_대장균_찾기/Solution_mysql.sql) |
