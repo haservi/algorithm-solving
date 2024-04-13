@@ -40,3 +40,4 @@
 | 15 |                    | [대장균의 크기에 따라 분류하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/299307) | [MySql](./solution/15_대장균의_크기에_따라_분류하기_1/Solution_mysql.sql) |
 | 16 |                    | [특정 조건을 만족하는 물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519) | [MySql](./solution/16_특정_조건을_만족하는_물고기별_수와_최대_길이_구하기/Solution_mysql.sql) |
 | 17 |                    | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261) | [MySQL](./solution/17_물고기_종류_별_대어_찾기/Solution_mysql.sql) |
+| 18 |                    | [대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305) | [MySQL](./solution/18_대장균들의_자식의_수_구하기/Solution_mysql.sql) |
