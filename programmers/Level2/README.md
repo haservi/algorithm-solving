@@ -82,3 +82,4 @@
 | 30 |                    | [분기별 분화된 대장균의 개체 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299308) | [MySQL](./solution/30_분기별_분화된_대장균의_개체_수_구하기/Solution_mysql.sql) |
 | 31 |                    | [조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527) | [MySQL](./solution/31_조건에_맞는_사원_정보_조회하기/Solution_mysql.sql) |
 | 32 |                    | [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120) | [MySQL](./solution/32_3월에_태어난_여성_회원_목록_출력하기/Solution_mysql.sql) |
+| 33 |                    | [업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) | [MySQL](./solution/33_업그레이드_된_아이템_구하기/Solution_mysql.sql) |
