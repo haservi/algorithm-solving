@@ -56,6 +56,7 @@
 | 49 |                    | [피타고라스의 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250132) | [Java](./solution/_49_피타고라스의_정리/Solution.java) |
 | 50 |                    | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [Java](./solution/_50_n의_배수/Solution.java) |
 | 51 |                    | [나이 계산](https://school.programmers.co.kr/learn/courses/30/lessons/250131) | [Java](./solution/_51_나이_계산/Solution.java) |
+| 52 |                    | [가채점](https://school.programmers.co.kr/learn/courses/30/lessons/250128) | [Java](./solution/_52_가채점/Solution.java) |
 
 ## SQL
 
