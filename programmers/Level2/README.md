@@ -84,3 +84,4 @@
 | 32 |                    | [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120) | [MySQL](./solution/32_3월에_태어난_여성_회원_목록_출력하기/Solution_mysql.sql) |
 | 33 |                    | [업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) | [MySQL](./solution/33_업그레이드_된_아이템_구하기/Solution_mysql.sql) |
 | 34 |                    | [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | [MySQL](./solution/34_부모의_형질을_모두_가지는_대장균_찾기/Solution_mysql.sql) |
+| 35 |                    | [ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710) | [MySQL](./solution/35_ROOT_아이템_구하기/Solution_mysql.sql) |
