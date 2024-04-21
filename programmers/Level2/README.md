@@ -85,3 +85,4 @@
 | 33 |                    | [업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) | [MySQL](./solution/33_업그레이드_된_아이템_구하기/Solution_mysql.sql) |
 | 34 |                    | [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | [MySQL](./solution/34_부모의_형질을_모두_가지는_대장균_찾기/Solution_mysql.sql) |
 | 35 |                    | [ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710) | [MySQL](./solution/35_ROOT_아이템_구하기/Solution_mysql.sql) |
+| 36 |                    | [조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709) | [MySQL](./solution/36_조건에_맞는_아이템들의_가격의_총합_구하기/Solution_mysql.sql) |
