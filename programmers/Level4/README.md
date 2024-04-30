@@ -16,3 +16,4 @@
 | 03 |                    | [입양 시각 구하기2](https://programmers.co.kr/learn/courses/30/lessons/59413) | [MySQL](./solution/03_입양_시각_구하기_2/Solution_mysql.sql) |
 | 04 |                    | [연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528) | [MySQL](./solution/04_연간_평가점수에_해당하는_평가_등급_및_성과금_조회하기/Solution_mysql.sql) |
 | 05 |                    | [FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035) | [MySQL](./solution/05_FrontEnd_개발자_찾기/Solution_mysql.sql) |
+| 06 |                    | [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650) | [MySQL](./solution/06_특정_세대의_대장균_찾기/Solution_mysql.sql) |
