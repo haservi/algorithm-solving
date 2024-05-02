@@ -18,6 +18,7 @@
 | 12 |                    | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | [Java](./solution/_12_불량_사용자/Solution.java) |
 | 13 |                    | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [Java](./solution/_13_등굣길/Solution.java) |
 | 14 |                    | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | [Java](./solution/_14_순위/Solution.java) |
+| 15 |                    | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [Java](./solution/_15_길_찾기_게임/Solution.java) |
 
 ## SQL
 
