@@ -19,6 +19,7 @@
 | 13 |                    | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [Java](./solution/_13_등굣길/Solution.java) |
 | 14 |                    | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | [Java](./solution/_14_순위/Solution.java) |
 | 15 |                    | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [Java](./solution/_15_길_찾기_게임/Solution.java) |
+| 16 |                    | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [Java](./solution/_16_보석_쇼핑/Solution.java) |
 
 ## SQL
 
