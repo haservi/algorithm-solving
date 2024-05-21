@@ -1,17 +1,26 @@
 package programmers.Level3.solution._08_단어_변환;
 
+import java.util.*;
+
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java
+ */
 class Solution {
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
-
         String begin = "hit";
         String target = "cog";
-        // String[] words = { "hot", "dot", "dog", "lot", "log", "cog" };
         String[] words = { "hzt", "hot", "aot", "aog", "cog" };
+        int expectedResult = 4;
 
-        int result = solution.solution(begin, target, words);
-        System.out.println("result : " + result);
+        Solution solution = new Solution();
+        int result = solution.solution1(begin, target, words);
+
+        if (expectedResult == result) {
+            System.out.println("Pass");
+        } else {
+            System.out.println("Fail");
+        }
     }
 
     int answer;
@@ -57,4 +66,64 @@ class Solution {
             }
         }
     }
+
+    // ---------------------------------------------------------------
+    public int solution1(String begin, String target, String[] words) {
+        boolean[] isVisited = new boolean[words.length];
+
+        Queue<State> queue = new LinkedList<>();
+        queue.add(new State(begin, 0));
+
+        while (!queue.isEmpty()) {
+            State state = queue.poll();
+
+            if (state.word.equals(target)) {
+                return state.step;
+            }
+
+            for (int i = 0; i < words.length; i++) {
+                String next = words[i];
+
+                if (!isChangeWord(state.word, next)) {
+                    continue;
+                }
+
+                if (isVisited[i]) {
+                    continue;
+                }
+
+                isVisited[i] = true;
+                queue.add(new State(next, state.step + 1));
+            }
+        }
+
+        return 0;
+    }
+
+    private boolean isChangeWord(String src, String dst) {
+        char[] srcArray = src.toCharArray();
+        char[] dstArray = dst.toCharArray();
+
+        int diff = 0;
+        for (int i = 0; i < srcArray.length; i++) {
+            if (srcArray[i] != dstArray[i]) {
+                diff++;
+            }
+            if (2 <= diff) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    private static class State {
+        private final String word;
+        private final int step;
+
+        private State(String word, int step) {
+            this.word = word;
+            this.step = step;
+        }
+    }
+
 }
