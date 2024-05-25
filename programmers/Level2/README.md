@@ -47,6 +47,7 @@
 | 41 |                    | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [Java](./solution/_41_괄호_회전하기/Solution.java) |
 | 42 |                    | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [Java](./solution/_42_스킬트리/Solution.java) |
 | 43 |                    | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [Java](./solution/_43_게임_맵_최단거리/Solution.java) |
+| 44 |                    | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [Java](./solution/_44_k진수에서_소수_개수_구하기/Solution.java) |
 
 ## SQL
 
