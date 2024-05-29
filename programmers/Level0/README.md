@@ -58,6 +58,7 @@
 | 51 |                    | [나이 계산](https://school.programmers.co.kr/learn/courses/30/lessons/250131) | [Java](./solution/_51_나이_계산/Solution.java) |
 | 52 |                    | [가채점](https://school.programmers.co.kr/learn/courses/30/lessons/250128) | [Java](./solution/_52_가채점/Solution.java) |
 | 53 |                    | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=java) | [Java](./solution/_53_문자열_바꿔서_찾기/Solution.java) |
+| 54 |                    | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | [Java](./solution/_54_조건_문자열/Solution.java) |
 
 ## SQL
 
