@@ -79,6 +79,7 @@
 | 72 |                    | [붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | [Java](./solution/_72_붕대_감기/Solution.java) |
 | 73 |                    | [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) | [Java](./solution/_73_이웃한_칸/Solution.java) |
 | 74 |                    | [데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) | [Java](./solution/_74_데이터_분석/Solution.java) |
+| 74 |                    | [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) | [Java](./solution/_75_가장_많이_받은_선물/Solution.java) |
 
 ## SQL
 
