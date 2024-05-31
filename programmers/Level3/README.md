@@ -21,6 +21,7 @@
 | 15 |                    | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [Java](./solution/_15_길_찾기_게임/Solution.java) |
 | 16 |                    | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [Java](./solution/_16_보석_쇼핑/Solution.java) |
 | 17 |                    | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [Java](./solution/_17_단속_카메라/Solution.java) |
+| 18 | :white_check_mark: | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | [Java](./solution/_18_양과_늑대/Solution.java) |
 
 ## SQL
 
