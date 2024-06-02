@@ -23,6 +23,7 @@
 | 17 |                    | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [Java](./solution/_17_단속_카메라/Solution.java) |
 | 18 | :white_check_mark: | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | [Java](./solution/_18_양과_늑대/Solution.java) |
 | 19 | :white_check_mark: | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | [Java](./solution/_19_파괴되지_않은_건물/Solution.java) |
+| 20 | :white_check_mark: | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | [Java](./solution/_20_사라지는_발판/Solution.java) |
 
 ## SQL
 
