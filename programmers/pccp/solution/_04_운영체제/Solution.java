@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 public class Solution {
 
     public static void main(String[] args) {
-        int[][] program = {{2, 0, 10}, {1, 5, 5}, {3, 5, 3}, {3, 12, 2}}
+        int[][] program = { { 2, 0, 10 }, { 1, 5, 5 }, { 3, 5, 3 }, { 3, 12, 2 } };
         long[] expectedResult = { 20, 5, 0, 16, 0, 0, 0, 0, 0, 0, 0 };
 
         Solution solution = new Solution();
