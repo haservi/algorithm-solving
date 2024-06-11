@@ -11,3 +11,4 @@
 | 05 |                    | [실습용 로봇](https://school.programmers.co.kr/learn/courses/15009/lessons/121687) | [Java](./solution/_05_실습용_로봇/Solution.java) |
 | 06 |                    | [신입사원 교육](https://school.programmers.co.kr/learn/courses/15009/lessons/121688) | [Java](./solution/_06_신입사원_교육/Solution.java) |
 | 07 |                    | [카페 확장](https://school.programmers.co.kr/learn/courses/15009/lessons/121689) | [Java](./solution/_07_카페_확장/Solution.java) |
+| 08 | :white_check_mark: | [보물 지도](https://school.programmers.co.kr/learn/courses/15009/lessons/121690) | [Java](./solution/_08_보물_지도/Solution.java) |
