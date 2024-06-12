@@ -50,6 +50,7 @@
 | 44 |                    | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [Java](./solution/_44_k진수에서_소수_개수_구하기/Solution.java) |
 | 45 |                    | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [Java](./solution/_45_주차_요금_계산/Solution.java) |
 | 46 | :white_check_mark: | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [Java](./solution/_46_양궁대회/Solution.java) |
+| 47 | :white_check_mark: | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | [Java](./solution/_47_두_원_사이의_정수_쌍/Solution.java) |
 
 ## SQL
 
