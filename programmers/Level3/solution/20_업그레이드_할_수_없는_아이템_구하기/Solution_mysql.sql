@@ -1,0 +1,14 @@
+-- https://school.programmers.co.kr/learn/courses/30/lessons/273712
+
+SELECT
+  ii.ITEM_ID,
+  ii.ITEM_NAME,
+  ii.RARITY
+FROM ITEM_INFO AS ii
+WHERE NOT EXISTS
+(
+  SELECT PARENT_ITEM_ID
+  FROM ITEM_TREE
+  WHERE ii.ITEM_ID = PARENT_ITEM_ID
+)
+ORDER BY ii.ITEM_ID DESC;
