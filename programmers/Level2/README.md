@@ -52,6 +52,7 @@
 | 46 | :white_check_mark: | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [Java](./solution/_46_양궁대회/Solution.java) |
 | 47 | :white_check_mark: | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | [Java](./solution/_47_두_원_사이의_정수_쌍/Solution.java) |
 | 48 |                    | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [Java](./solution/_48_귤_고르기/Solution.java) |
+| 49 | :white_check_mark: | [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | [Java](./solution/_49_도넛과_막대_그래프/Solution.java) |
 
 ## SQL
 
