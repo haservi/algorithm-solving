@@ -56,6 +56,7 @@
 | 50 | :white_check_mark: | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [Java](./solution/_50_과제_진행하기/Solution.java) |
 | 51 |                    | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [Java](./solution/_51_다음_큰_숫자/Solution.java) |
 | 52 |                    | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | [Java](./solution/_52_시소_짝꿍/Solution.java) |
+| 53 |                    | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [Java](./solution/_53_호텔_대실/Solution.java) |
 
 ## SQL
 
