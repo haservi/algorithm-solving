@@ -13,3 +13,4 @@
 | 07 |                    | [카페 확장](https://school.programmers.co.kr/learn/courses/15009/lessons/121689) | [Java](./solution/_07_카페_확장/Solution.java) |
 | 08 | :white_check_mark: | [보물 지도](https://school.programmers.co.kr/learn/courses/15009/lessons/121690) | [Java](./solution/_08_보물_지도/Solution.java) |
 | 09 |                    | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [Java](./solution/_09_석유_시추/Solution.java) |
+| 10 | :white_check_mark: | [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [Java](./solution/_10_아날로그_시계/Solution.java) |
