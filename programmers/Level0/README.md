@@ -61,6 +61,7 @@
 | 54 |                    | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | [Java](./solution/_54_조건_문자열/Solution.java) |
 | 55 |                    | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [Java](./solution/_55_코드_처리하기/Solution.java) |
 | 56 |                    | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | [Java](./solution/_56_A_강조하기/Solution.java) |
+| 57 |                    | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | [Java](./solution/_57_등차수열의_특정한_항만_더하기/Solution.java) |
 
 ## SQL
 
