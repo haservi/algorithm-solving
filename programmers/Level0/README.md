@@ -60,6 +60,7 @@
 | 53 |                    | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864?language=java) | [Java](./solution/_53_문자열_바꿔서_찾기/Solution.java) |
 | 54 |                    | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | [Java](./solution/_54_조건_문자열/Solution.java) |
 | 55 |                    | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [Java](./solution/_55_코드_처리하기/Solution.java) |
+| 56 |                    | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | [Java](./solution/_56_A_강조하기/Solution.java) |
 
 ## SQL
 
