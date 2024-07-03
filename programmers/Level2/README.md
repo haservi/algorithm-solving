@@ -59,6 +59,7 @@
 | 53 |                    | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [Java](./solution/_53_호텔_대실/Solution.java) |
 | 54 |                    | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [Java](./solution/_54_미로_탈출/Solution.java) |
 | 55 |                    | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [Java](./solution/_55_뒤에_있는_큰_수_찾기/Solution.java) |
+| 56 |                    | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [Java](./solution/_56_무인도_여행/Solution.java) |
 
 ## SQL
 
