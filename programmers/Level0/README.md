@@ -63,6 +63,7 @@
 | 56 |                    | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | [Java](./solution/_56_A_강조하기/Solution.java) |
 | 57 |                    | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | [Java](./solution/_57_등차수열의_특정한_항만_더하기/Solution.java) |
 | 58 |                    | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [Java](./solution/_58_주사위_게임_2/Solution.java) |
+| 59 |                    | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | [Java](./solution/_59_이어_붙인_수/Solution.java) |
 
 ## SQL
 
