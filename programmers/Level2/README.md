@@ -62,6 +62,7 @@
 | 56 |                    | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [Java](./solution/_56_무인도_여행/Solution.java) |
 | 57 |                    | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [Java](./solution/_57_마법의_엘리베이터/Solution.java) |
 | 58 |                    | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | [Java](./solution/_58_테이블_해시_함수/Solution.java) |
+| 59 |                    | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [Java](./solution/_59_점_찍기/Solution.java) |
 
 ## SQL
 
