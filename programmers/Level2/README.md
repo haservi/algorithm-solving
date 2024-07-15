@@ -64,6 +64,7 @@
 | 58 |                    | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | [Java](./solution/_58_테이블_해시_함수/Solution.java) |
 | 59 |                    | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [Java](./solution/_59_점_찍기/Solution.java) |
 | 60 |                    | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [Java](./solution/_60_디펜스_게임/Solution.java) |
+| 61 |                    | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [Java](./solution/_61_혼자서_하는_틱택토/Solution.java) |
 
 ## SQL
 
