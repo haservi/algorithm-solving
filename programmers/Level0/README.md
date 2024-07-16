@@ -67,6 +67,7 @@
 | 60 |                    | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | [Java](./solution/_60_수_조작하기_1/Solution.java) |
 | 61 |                    | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | [Java](./solution/_61_수_조작하기_2/Solution.java) |
 | 62 |                    | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | [Java](./solution/_62_순서_바꾸기/Solution.java) |
+| 63 |                    | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | [Java](./solution/_63_약수_구하기/Solution.java) |
 
 ## SQL
 
