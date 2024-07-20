@@ -69,6 +69,7 @@
 | 62 |                    | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | [Java](./solution/_62_순서_바꾸기/Solution.java) |
 | 63 |                    | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | [Java](./solution/_63_약수_구하기/Solution.java) |
 | 64 |                    | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | [Java](./solution/_64_수열과_구간_쿼리_3/Solution.java) |
+| 65 |                    | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | [Java](./solution/_65_수열과_구간_쿼리_2/Solution.java) |
 
 ## SQL
 
