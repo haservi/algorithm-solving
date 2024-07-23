@@ -41,7 +41,3 @@
 - [LeetCode](https://leetcode.com/)
 - [CodeWars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/)
-
-### 프로그래밍 설정 관련
-
-- Java 문제 풀이의 경우 openjdk 21.0.2 2024-01-16 LTS로 문제를 풀이하고 있습니다.
