@@ -72,6 +72,7 @@
 | 65 |                    | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | [Java](./solution/_65_수열과_구간_쿼리_2/Solution.java) |
 | 66 |                    | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922) | [Java](./solution/_66_수열과_구간_쿼리_4/Solution.java) |
 | 67 |                    | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) | [Java](./solution/_67_배열_만들기_2/Solution.java) |
+| 68 |                    | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | [Java](./solution/_68_카운트_업/Solution.java) |
 
 ## SQL
 
