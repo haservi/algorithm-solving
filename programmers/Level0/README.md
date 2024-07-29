@@ -74,6 +74,7 @@
 | 67 |                    | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) | [Java](./solution/_67_배열_만들기_2/Solution.java) |
 | 68 |                    | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | [Java](./solution/_68_카운트_업/Solution.java) |
 | 69 |                    | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [Java](./solution/_69_콜라츠_수열_만들기/Solution.java) |
+| 70 |                    | [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | [Java](./solution/_70_배열_만들기_4/Solution.java) |
 
 ## SQL
 
