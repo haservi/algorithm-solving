@@ -13,7 +13,7 @@ public class Solution {
         int[] expectedResult = { 3, 5, 5, -1 };
 
         Solution solution = new Solution();
-        int[] result = solution.solution1(numbers);
+        int[] result = solution.solution(numbers);
 
         if (Arrays.equals(result, expectedResult)) {
             System.out.println("Pass");
