@@ -78,6 +78,7 @@
 | 71 |                    | [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917) | [Java](./solution/_71_간단한_논리_연산/Solution.java) |
 | 72 | :white_check_mark: | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) | [Java](./solution/_72_주사위_게임_3/Solution.java) |
 | 73 |                    | [글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915) | [Java](./solution/_73_글자_이어_붙여_문자열_만들기/Solution.java) |
+| 74 |                    | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | [Java](./solution/_74_9로_나눈_나머지/Solution.java) |
 
 ## SQL
 
