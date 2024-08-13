@@ -67,6 +67,7 @@
 | 61 |                    | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [Java](./solution/_61_혼자서_하는_틱택토/Solution.java) |
 | 62 |                    | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [Java](./solution/_62_롤케이크_자르기/Solution.java) |
 | 63 |                    | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | [Java](./solution/_63_124_나라의_숫자/Solution.java) |
+| 64 |                    | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [Java](./solution/_64_연속_부분_수열_합의_개수/Solution.java) |
 
 ## SQL
 
