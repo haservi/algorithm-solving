@@ -80,6 +80,7 @@
 | 73 |                    | [글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915) | [Java](./solution/_73_글자_이어_붙여_문자열_만들기/Solution.java) |
 | 74 |                    | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | [Java](./solution/_74_9로_나눈_나머지/Solution.java) |
 | 75 |                    | [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913) | [Java](./solution/_75_문자열_여러_번_뒤집기/Solution.java) |
+| 76 |                    | [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | [Java](./solution/_76_배열_만들기_5/Solution.java) |
 
 ## SQL
 
