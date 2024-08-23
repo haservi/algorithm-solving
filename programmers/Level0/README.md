@@ -82,6 +82,7 @@
 | 75 |                    | [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913) | [Java](./solution/_75_문자열_여러_번_뒤집기/Solution.java) |
 | 76 |                    | [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | [Java](./solution/_76_배열_만들기_5/Solution.java) |
 | 77 |                    | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [Java](./solution/_77_부분_문자열_이어_붙여_문자열_만들기/Solution.java) |
+| 78 |                    | [문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | [Java](./solution/_78_문자열의_뒤의_n글자/Solution.java) |
 
 ## SQL
 
