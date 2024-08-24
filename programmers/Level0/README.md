@@ -84,6 +84,7 @@
 | 77 |                    | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [Java](./solution/_77_부분_문자열_이어_붙여_문자열_만들기/Solution.java) |
 | 78 |                    | [문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | [Java](./solution/_78_문자열의_뒤의_n글자/Solution.java) |
 | 79 |                    | [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877) | [Java](./solution/_79_대문자로_바꾸기/Solution.java) |
+| 80 |                    | [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | [Java](./solution/_80_정수를_나선형으로_배치하기/Solution.java) |
 
 ## SQL
 
