@@ -86,6 +86,7 @@
 | 79 |                    | [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877) | [Java](./solution/_79_대문자로_바꾸기/Solution.java) |
 | 80 | :white_check_mark: | [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | [Java](./solution/_80_정수를_나선형으로_배치하기/Solution.java) |
 | 81 | :white_check_mark: | [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893) | [Java](./solution/_81_배열_조각하기/Solution.java) |
+| 82 |                    | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | [Java](./solution/_82_접미사_배열/Solution.java) |
 
 ## SQL
 
