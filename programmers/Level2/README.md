@@ -69,6 +69,7 @@
 | 63 |                    | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | [Java](./solution/_63_124_나라의_숫자/Solution.java) |
 | 64 |                    | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [Java](./solution/_64_연속_부분_수열_합의_개수/Solution.java) |
 | 65 |                    | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [Java](./solution/_65_방문_길이/Solution.java) |
+| 66 |                    | [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | [Java](./solution/_66_숫자_카드_나누기/Solution.java) |
 
 ## SQL
 
