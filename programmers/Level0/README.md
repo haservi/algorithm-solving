@@ -89,6 +89,7 @@
 | 82 |                    | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | [Java](./solution/_82_접미사_배열/Solution.java) |
 | 83 |                    | [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | [Java](./solution/_83_접미사인지_확인하기/Solution.java) |
 | 84 |                    | [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | [Java](./solution/_84_전국_대회_선발_고사/Solution.java) |
+| 85 |                    | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862) | [Java](./solution/_85_세_개의_구분자/Solution.java) |
 
 ## SQL
 
