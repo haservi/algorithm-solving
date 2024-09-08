@@ -14,3 +14,4 @@
 | 08 | :white_check_mark: | [보물 지도](https://school.programmers.co.kr/learn/courses/15009/lessons/121690) | [Java](./solution/_08_보물_지도/Solution.java) |
 | 09 |                    | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [Java](./solution/_09_석유_시추/Solution.java) |
 | 10 | :white_check_mark: | [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [Java](./solution/_10_아날로그_시계/Solution.java) |
+| 11 |                    | [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | [Java](./solution/_11_동영상_재생기/Solution.java) |
