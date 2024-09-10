@@ -91,6 +91,7 @@
 | 84 |                    | [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | [Java](./solution/_84_전국_대회_선발_고사/Solution.java) |
 | 85 |                    | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862) | [Java](./solution/_85_세_개의_구분자/Solution.java) |
 | 86 |                    | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907) | [Java](./solution/_86_문자열의_앞의_n글자/Solution.java) |
+| 87 |                    | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | [Java](./solution/_87_접두사인지_확인하기/Solution.java) |
 
 ## SQL
 
