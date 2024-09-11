@@ -1,6 +1,5 @@
 package programmers.Level1.solution._75_가장_많이_받은_선물;
 
-import java.util.Arrays;
 import java.util.HashMap;
 
 /**
@@ -13,7 +12,8 @@ public class Solution {
         String[] gifts = {
                 "muzi frodo", "muzi frodo", "ryan muzi",
                 "ryan muzi", "ryan muzi", "frodo muzi",
-                "frodo ryan", "neo muzi" };
+                "frodo ryan", "neo muzi"
+        };
         int expectedResult = 2;
 
         Solution solution = new Solution();
