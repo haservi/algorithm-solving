@@ -94,6 +94,7 @@
 | 87 |                    | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | [Java](./solution/_87_접두사인지_확인하기/Solution.java) |
 | 88 |                    | [n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889) | [Java](./solution/_88_n_번째_원소까지/Solution.java) |
 | 89 |                    | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904) | [Java](./solution/_89_세로_읽기/Solution.java) |
+| 90 |                    | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | [Java](./solution/_90_5명씩/Solution.java) |
 
 ## SQL
 
