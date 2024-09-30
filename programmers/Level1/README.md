@@ -81,6 +81,7 @@
 | 74 |                    | [데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) | [Java](./solution/_74_데이터_분석/Solution.java) |
 | 75 |                    | [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) | [Java](./solution/_75_가장_많이_받은_선물/Solution.java) |
 | 76 |                    | [지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) | [Java](./solution/_76_지폐_접기/Solution.java) |
+| 77 | :white_check_mark: | [공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198) | [Java](./solution/_77_공원/Solution.java) |
 
 ## SQL
 
