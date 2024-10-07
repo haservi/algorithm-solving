@@ -96,6 +96,7 @@
 | 89 |                    | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904) | [Java](./solution/_89_세로_읽기/Solution.java) |
 | 90 |                    | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | [Java](./solution/_90_5명씩/Solution.java) |
 | 91 |                    | [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890) | [Java](./solution/_91_왼쪽_오른쪽/Solution.java) |
+| 92 |                    | [물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202) | [Java](./solution/_92_물_부족/Solution.java) |
 
 ## SQL
 
