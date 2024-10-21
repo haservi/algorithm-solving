@@ -98,6 +98,7 @@
 | 91 |                    | [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890) | [Java](./solution/_91_왼쪽_오른쪽/Solution.java) |
 | 92 |                    | [물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202) | [Java](./solution/_92_물_부족/Solution.java) |
 | 93 |                    | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [Java](./solution/_93_외계행성의_나이/Solution.java) |
+| 94 |                    | [버스](https://school.programmers.co.kr/learn/courses/30/lessons/340201) | [Java](./solution/_94_버스/Solution.java) |
 
 ## SQL
 
