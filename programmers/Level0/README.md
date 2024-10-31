@@ -102,6 +102,7 @@
 | 95 |                    | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905) | [Java](./solution/_95_문자열_뒤집기/Solution.java) |
 | 96 |                    | [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [Java](./solution/_96_진료순서_정하기/Solution.java) |
 | 97 |                    | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [Java](./solution/_97_다항식_더하기/Solution.java) |
+| 98 |                    | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | [Java](./solution/_98_제곱수_판별하기/Solution.java) |
 
 ## SQL
 
