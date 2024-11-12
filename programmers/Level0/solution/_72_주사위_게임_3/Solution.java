@@ -60,10 +60,9 @@ class Solution {
         }
 
         if (frequency.size() == 3) {
-            int p = 0, q = 0;
+            int q = 0;
             for (Map.Entry<Integer, Integer> entry : frequency.entrySet()) {
                 if (entry.getValue() == 2) {
-                    p = entry.getKey();
                 } else if (q == 0) {
                     q = entry.getKey();
                 }
