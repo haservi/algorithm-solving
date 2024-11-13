@@ -105,6 +105,7 @@
 | 98 |                    | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | [Java](./solution/_98_제곱수_판별하기/Solution.java) |
 | 99 |                    | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | [Java](./solution/_99_할_일_목록/Solution.java) |
 | 100 |                    | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | [Java](./solution/_100_소인수분해/Solution.java) |
+| 101 |                    | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902) | [Java](./solution/_101_문자_개수_세기/Solution.java) |
 
 ## SQL
 
