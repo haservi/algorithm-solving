@@ -109,6 +109,7 @@
 | 102 |                    | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | [Java](./solution/_102_글자_지우기/Solution.java) |
 | 103 |                    | [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | [Java](./solution/_103_치킨_쿠폰/Solution.java) |
 | 104 |                    | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | [Java](./solution/_104_조건에_맞게_수열_변환하기_1/Solution.java) |
+| 105 |                    | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | [Java](./solution/_105_조건에_맞게_수열_변환하기_2/Solution.java) |
 
 ## SQL
 
