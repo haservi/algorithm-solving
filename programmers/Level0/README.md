@@ -111,6 +111,7 @@
 | 104 |                    | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | [Java](./solution/_104_조건에_맞게_수열_변환하기_1/Solution.java) |
 | 105 |                    | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | [Java](./solution/_105_조건에_맞게_수열_변환하기_2/Solution.java) |
 | 106 |                    | [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830) | [Java](./solution/_106_정사각형으로_만들기/Solution.java) |
+| 107 |                    | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897) | [Java](./solution/_107_리스트_자르기/Solution.java) |
 
 ## SQL
 
