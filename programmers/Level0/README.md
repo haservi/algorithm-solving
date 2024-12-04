@@ -114,6 +114,7 @@
 | 107 |                    | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897) | [Java](./solution/_107_리스트_자르기/Solution.java) |
 | 108 |                    | [닉네임 규칙](https://school.programmers.co.kr/learn/courses/30/lessons/340200) | [Java](./solution/_108_닉네임_규칙/Solution.java) |
 | 109 |                    | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903) | [Java](./solution/_109_qr_code/Solution.java) |
+| 110 |                    | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [Java](./solution/_110_배열_만들기_1/Solution.java) |
 
 ## SQL
 
