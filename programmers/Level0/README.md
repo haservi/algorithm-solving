@@ -117,6 +117,7 @@
 | 110 |                    | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [Java](./solution/_110_배열_만들기_1/Solution.java) |
 | 111 |                    | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | [Java](./solution/_111_카운트_다운/Solution.java) |
 | 112 |                    | [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | [Java](./solution/_112_가까운_1_찾기/Solution.java) |
+| 113 |                    | [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | [Java](./solution/_113_첫_번째로_나오는_음수/Solution.java) |
 
 ## SQL
 
