@@ -1,7 +1,5 @@
 package programmers.Level0.solution._108_닉네임_규칙;
 
-import java.util.Arrays;
-
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/340200?language=java
  */
