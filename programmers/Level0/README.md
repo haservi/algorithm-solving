@@ -121,6 +121,7 @@
 | 114 |                    | [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895) | [Java](./solution/_114_배열_만들기_3/Solution.java) |
 | 115 |                    | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | [Java](./solution/_115_2의_영역/Solution.java) |
 | 116 |                    | [n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892) | [Java](./solution/_116_n_번째_원소부터/Solution.java) |
+| 117 |                    | [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850) | [Java](./solution/_117_정수_부분/Solution.java) |
 
 ## SQL
 
