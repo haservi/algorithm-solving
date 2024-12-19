@@ -120,6 +120,7 @@
 | 113 |                    | [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | [Java](./solution/_113_첫_번째로_나오는_음수/Solution.java) |
 | 114 |                    | [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895) | [Java](./solution/_114_배열_만들기_3/Solution.java) |
 | 115 |                    | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | [Java](./solution/_115_2의_영역/Solution.java) |
+| 116 |                    | [n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892) | [Java](./solution/_116_n_번째_원소부터/Solution.java) |
 
 ## SQL
 
