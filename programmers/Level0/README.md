@@ -125,6 +125,7 @@
 | 118 |                    | [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | [Java](./solution/_118_n개_간격의_원소들/Solution.java) |
 | 119 |                    | [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887) | [Java](./solution/_119_홀수_vs_짝수/Solution.java) |
 | 120 |                    | [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | [Java](./solution/_120_n보다_커질_시간까지_더하기/Solution.java) |
+| 121 |                    | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | [Java](./solution/_121_수열과_구간_쿼리_1/Solution.java) |
 
 ## SQL
 
