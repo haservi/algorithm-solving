@@ -127,6 +127,7 @@
 | 120 |                    | [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | [Java](./solution/_120_n보다_커질_시간까지_더하기/Solution.java) |
 | 121 |                    | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | [Java](./solution/_121_수열과_구간_쿼리_1/Solution.java) |
 | 122 |                    | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [Java](./solution/_122_순서쌍의_개수/Solution.java) |
+| 123 |                    | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [Java](./solution/_123_개미_군단/Solution.java) |
 
 ## SQL
 
