@@ -128,6 +128,7 @@
 | 121 |                    | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | [Java](./solution/_121_수열과_구간_쿼리_1/Solution.java) |
 | 122 |                    | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [Java](./solution/_122_순서쌍의_개수/Solution.java) |
 | 123 |                    | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [Java](./solution/_123_개미_군단/Solution.java) |
+| 124 |                    | [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [Java](./solution/_124_모스부호_1/Solution.java) |
 
 ## SQL
 
