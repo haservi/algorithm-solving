@@ -129,6 +129,7 @@
 | 122 |                    | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [Java](./solution/_122_순서쌍의_개수/Solution.java) |
 | 123 |                    | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [Java](./solution/_123_개미_군단/Solution.java) |
 | 124 |                    | [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [Java](./solution/_124_모스부호_1/Solution.java) |
+| 125 |                    | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | [Java](./solution/_125_특정한_문자를_대문자로_바꾸기/Solution.java) |
 
 ## SQL
 
