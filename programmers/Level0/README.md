@@ -132,6 +132,7 @@
 | 125 |                    | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | [Java](./solution/_125_특정한_문자를_대문자로_바꾸기/Solution.java) |
 | 126 |                    | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | [Java](./solution/_126_특정_문자열로_끝나는_가장_긴_부분_문자열_찾기/Solution.java) |
 | 127 |                    | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | [Java](./solution/_127_가위_바위_보/Solution.java) |
+| 128 |                    | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | [Java](./solution/_128_모음_제거/Solution.java) |
 
 ## SQL
 
