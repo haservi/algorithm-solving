@@ -135,6 +135,7 @@
 | 128 |                    | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | [Java](./solution/_128_모음_제거/Solution.java) |
 | 129 |                    | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880) | [Java](./solution/_129_1로_만들기/Solution.java) |
 | 130 |                    | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | [Java](./solution/_130_길이에_따른_연산/Solution.java) |
+| 131 |                    | [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878) | [Java](./solution/_131_원하는_문자열_찾기/Solution.java) |
 
 ## SQL
 
