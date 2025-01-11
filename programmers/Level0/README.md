@@ -139,6 +139,7 @@
 | 132 |                    | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871) | [Java](./solution/_132_문자열이_몇_번_등장하는지_세기/Solution.java) |
 | 133 |                    | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865) | [Java](./solution/_133_간단한_식_계산하기/Solution.java) |
 | 134 |                    | [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856) | [Java](./solution/_134_배열_비교하기/Solution.java) |
+| 135 |                    | [문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848) | [Java](./solution/_135_문자열을_정수로_변환하기/Solution.java) |
 
 ## SQL
 
