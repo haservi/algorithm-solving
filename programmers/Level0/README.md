@@ -143,6 +143,7 @@
 | 136 |                    | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | [Java](./solution/_136_문자열_정수의_합/Solution.java) |
 | 137 |                    | [부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842) | [Java](./solution/_137_부분_문자열/Solution.java) |
 | 138 |                    | [날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838) | [Java](./solution/_138_날짜_비교하기/Solution.java) |
+| 139 |                    | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | [Java](./solution/_139_주사위의_개수/Solution.java) |
 
 ## SQL
 
