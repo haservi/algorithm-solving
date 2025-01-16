@@ -1,15 +1,21 @@
 # 백준 알고리즘
 
-## Table Of Contents
+- [백준 알고리즘](#백준-알고리즘)
+  - [문제 풀이](#문제-풀이)
+  - [단계별로 풀어보기](#단계별로-풀어보기)
+    - [입출력과 사칙연산](#입출력과-사칙연산)
+    - [조건문](#조건문)
+    - [반복문](#반복문)
+    - [1차원 배열](#1차원-배열)
+    - [함수](#함수)
+    - [문자열](#문자열)
+    - [기본 수학1](#기본-수학1)
 
-- [단계별로 풀어보기](#단계별로-풀어보기)
-  - [입출력과 사칙연산](#입출력과-사칙연산)
-  - [조건문](#조건문)
-  - [반복문](#반복문)
-  - [1차원 배열](#1차원-배열)
-  - [함수](#함수)
-  - [문자열](#문자열)
-  - [기본 수학1](#기본-수학1)
+## 문제 풀이
+
+| 번호 | 체크 | 문제 | 풀이 |
+| :-: | :-: | :-- | :-- |
+| 001 |                    | [대표 자연수](https://www.acmicpc.net/problem/2548) | [Java](./problem/_001_대표_자연수/Main.java) |
 
 ## 단계별로 풀어보기
 
@@ -35,7 +41,7 @@
 | 14 |                    | [새싹](https://www.acmicpc.net/problem/25083) | [Java](./step/_01_입출력과_사칙연산/_14_25083_새싹/Main.java) |
 | 15 |                    | [킹퀸룩비숍나이트폰](https://www.acmicpc.net/problem/3003) | [Java](./step/_01_입출력과_사칙연산/_15_킹퀸룩비숍나이트폰/Main.java) |
 
-[🔝 목차로 돌아가기](#table-of-contents)
+[🔝 목차로 돌아가기](#백준-알고리즘)
 
 ### 조건문
 
@@ -49,7 +55,7 @@
 | 06 |                    | [기찍 N](https://www.acmicpc.net/problem/2525) | [Java](./step/_02_조건문/_06_2525_오븐_시계/Main.java) |
 | 07 |                    | [A + B - 7](https://www.acmicpc.net/problem/2480) | [Java](./step/_02_조건문/_07_2480_주사위_세개/Main.java) |
 
-[🔝 목차로 돌아가기](#table-of-contents)
+[🔝 목차로 돌아가기](#백준-알고리즘)
 
 ### 반복문
 
@@ -71,7 +77,7 @@
 | 14 |                    | [더하기 사이클](https://www.acmicpc.net/problem/1110) | [Java](./step/_03_반복문/_14_1110_더하기_사이클/Main.java) |
 | 15 |                    | [영수증](https://www.acmicpc.net/problem/25304) | [Java](./step/_03_반복문/_15_25304_영수증/Main.java) |
 
-[🔝 목차로 돌아가기](#table-of-contents)
+[🔝 목차로 돌아가기](#백준-알고리즘)
 
 ### 1차원 배열
 
@@ -85,7 +91,7 @@
 | 06 |                    | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [Java](./step/_04_1차원_배열/_06_8958_OX_퀴즈/Main.java) |
 | 07 |                    | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [Java](./step/_04_1차원_배열/_07_4344_평균은_넘겠지/Main.java) |
 
-[🔝 목차로 돌아가기](#table-of-contents)
+[🔝 목차로 돌아가기](#백준-알고리즘)
 
 ### 함수
 
@@ -110,7 +116,7 @@
 | 09 |                    | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [Java](./step/_06_문자열/_09_2941_크로아티아_알파벳/Main.java) |
 | 10 | :white_check_mark: | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [Java](./step/_06_문자열/_10_그룹_단어_체커/Main.java) |
 
-[🔝 목차로 돌아가기](#table-of-contents)
+[🔝 목차로 돌아가기](#백준-알고리즘)
 
 ### 기본 수학1
 
@@ -120,4 +126,4 @@
 | 02 |                    | [벌집](https://www.acmicpc.net/problem/2292)  [Java](./step/_07_기본_수학1/_02_2292_벌집/Main.java) |
 | 03 | :white_check_mark: | [분수찾기](https://www.acmicpc.net/problem/1193) [Java](./step/_07_기본_수학1/_03_1193_분수찾기/Main.java) |
 
-[🔝 목차로 돌아가기](#table-of-contents)
+[🔝 목차로 돌아가기](#백준-알고리즘)
