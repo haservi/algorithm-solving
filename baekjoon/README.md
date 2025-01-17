@@ -16,6 +16,7 @@
 | 번호 | 체크 | 문제 | 풀이 |
 | :-: | :-: | :-- | :-- |
 | 001 |                    | [대표 자연수](https://www.acmicpc.net/problem/2548) | [Java](./problem/_001_대표_자연수/Main.java) |
+| 002 |                    | [ATM](https://www.acmicpc.net/problem/11399) | [Java](./problem/_002_ATM/Main.java) |
 
 ## 단계별로 풀어보기
 
