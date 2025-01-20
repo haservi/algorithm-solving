@@ -18,6 +18,7 @@
 | 001 |                    | [대표 자연수](https://www.acmicpc.net/problem/2548) | [Java](./problem/_001_대표_자연수/Main.java) |
 | 002 |                    | [ATM](https://www.acmicpc.net/problem/11399) | [Java](./problem/_002_ATM/Main.java) |
 | 003 |                    | [블랙 프라이데이](https://www.acmicpc.net/problem/18114) | [Java](./problem/_003_블랙_프라이데이/Main.java) |
+| 004 |                    | [단어 나누기](https://www.acmicpc.net/problem/1251) | [Java](./problem/_004_단어_나누기/Main.java) |
 
 ## 단계별로 풀어보기
 
