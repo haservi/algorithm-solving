@@ -20,6 +20,7 @@
 | 003 |                    | [블랙 프라이데이](https://www.acmicpc.net/problem/18114) | [Java](./problem/_003_블랙_프라이데이/Main.java) |
 | 004 |                    | [단어 나누기](https://www.acmicpc.net/problem/1251) | [Java](./problem/_004_단어_나누기/Main.java) |
 | 005 |                    | [회의실 배정](https://www.acmicpc.net/problem/1931) | [Java](./problem/_005_회의실_배정/Main.java) |
+| 006 |                    | [두 용액](https://www.acmicpc.net/problem/2470) | [Java](./problem/_006_두_용액/Main.java) |
 
 ## 단계별로 풀어보기
 
