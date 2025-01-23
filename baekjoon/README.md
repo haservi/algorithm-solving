@@ -21,6 +21,7 @@
 | 004 |                    | [단어 나누기](https://www.acmicpc.net/problem/1251) | [Java](./problem/_004_단어_나누기/Main.java) |
 | 005 |                    | [회의실 배정](https://www.acmicpc.net/problem/1931) | [Java](./problem/_005_회의실_배정/Main.java) |
 | 006 |                    | [두 용액](https://www.acmicpc.net/problem/2470) | [Java](./problem/_006_두_용액/Main.java) |
+| 007 |                    | [수리공 항승](https://www.acmicpc.net/problem/1449) | [Java](./problem/_007_수리공_항승/Main.java) |
 
 ## 단계별로 풀어보기
 
