@@ -146,6 +146,7 @@
 | 139 |                    | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | [Java](./solution/_139_주사위의_개수/Solution.java) |
 | 140 |                    | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | [Java](./solution/_140_컨트롤_제트/Solution.java) |
 | 141 |                    | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [Java](./solution/_141_구슬을_나누는_경우의_수/Solution.java) |
+| 142 |                    | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | [Java](./solution/_142_유한소수_판별하기/Solution.java) |
 
 ## SQL
 
