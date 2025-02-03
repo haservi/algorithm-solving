@@ -51,13 +51,6 @@ public class Main {
             }
         }
 
-        // 작은 값을 먼저 반환
-        if (number1 > number2) {
-            long temp = number1;
-            number1 = number2;
-            number2 = temp;
-        }
-
         return number1 + " " + number2;
     }
 
