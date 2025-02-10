@@ -23,6 +23,7 @@
 | 006 |                    | [두 용액](https://www.acmicpc.net/problem/2470) | [Java](./problem/_006_두_용액/Main.java) |
 | 007 |                    | [수리공 항승](https://www.acmicpc.net/problem/1449) | [Java](./problem/_007_수리공_항승/Main.java) |
 | 008 |                    | [스택](https://www.acmicpc.net/problem/10828) | [Java](./problem/_008_스택/Main.java) |
+| 009 |                    | [괄호](https://www.acmicpc.net/problem/9012) | [Java](./problem/_009_괄호/Main.java) |
 
 ## 단계별로 풀어보기
 
