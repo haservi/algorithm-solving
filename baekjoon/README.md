@@ -24,6 +24,7 @@
 | 007 |                    | [수리공 항승](https://www.acmicpc.net/problem/1449) | [Java](./problem/_007_수리공_항승/Main.java) |
 | 008 |                    | [스택](https://www.acmicpc.net/problem/10828) | [Java](./problem/_008_스택/Main.java) |
 | 009 |                    | [괄호](https://www.acmicpc.net/problem/9012) | [Java](./problem/_009_괄호/Main.java) |
+| 010 | :white_check_mark: | [프린터 큐](https://www.acmicpc.net/problem/1966) | [Java](./problem/_010_프린터_큐/Main.java) |
 
 ## 단계별로 풀어보기
 
