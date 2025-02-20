@@ -148,6 +148,7 @@
 | 141 |                    | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [Java](./solution/_141_구슬을_나누는_경우의_수/Solution.java) |
 | 142 |                    | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | [Java](./solution/_142_유한소수_판별하기/Solution.java) |
 | 143 | :white_check_mark: | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | [Java](./solution/_143_겹치는_선분의_길이/Solution.java) |
+| 144 |                    | [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | [Java](./solution/_144_저주의_숫자_3/Solution.java) |
 
 ## SQL
 
