@@ -27,6 +27,7 @@
 | 010 | :white_check_mark: | [프린터 큐](https://www.acmicpc.net/problem/1966) | [Java](./problem/_010_프린터_큐/Main.java) |
 | 011 |                    | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | [Java](./problem/_011_풍선_터뜨리기/Main.java) |
 | 012 |                    | [쇠막대기](https://www.acmicpc.net/problem/10799) | [Java](./problem/_012_쇠막대기/Main.java) |
+| 013 |                    | [괄호 제거](https://www.acmicpc.net/problem/2800) | [Java](./problem/_013_괄호_제거/Main.java) |
 
 ## 단계별로 풀어보기
 
