@@ -28,6 +28,7 @@
 | 011 |                    | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | [Java](./problem/_011_풍선_터뜨리기/Main.java) |
 | 012 |                    | [쇠막대기](https://www.acmicpc.net/problem/10799) | [Java](./problem/_012_쇠막대기/Main.java) |
 | 013 |                    | [괄호 제거](https://www.acmicpc.net/problem/2800) | [Java](./problem/_013_괄호_제거/Main.java) |
+| 014 |                    | [괄호의 값](https://www.acmicpc.net/problem/2504) | [Java](./problem/_014_괄호의_값/Main.java) |
 
 ## 단계별로 풀어보기
 
