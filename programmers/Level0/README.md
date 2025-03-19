@@ -151,6 +151,7 @@
 | 144 |                    | [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | [Java](./solution/_144_저주의_숫자_3/Solution.java) |
 | 145 |                    | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [Java](./solution/_145_외계어_사전/Solution.java) |
 | 146 |                    | [삼각형의 완성조건 2](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | [Java](./solution/_146_삼각형의_완성조건_2/Solution.java) |
+| 147 |                    | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [Java](./solution/_147_안전지대/Solution.java) |
 
 ## SQL
 
