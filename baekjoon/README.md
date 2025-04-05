@@ -37,6 +37,7 @@
 | 020 |                    | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) | [Java](./problem/_020_배열_돌리기_1/Main.java) |
 | 021 |                    | [ZOAC](https://www.acmicpc.net/problem/16719) | [Java](./problem/_021_ZOAC/Main.java) |
 | 022 |                    | [빙고](https://www.acmicpc.net/problem/2578) | [Java](./problem/_022_빙고/Main.java) |
+| 023 |                    | [ZOAC 3](https://www.acmicpc.net/problem/20436) | [Java](./problem/_023_ZOAC_3/Main.java) |
 
 ## 단계별로 풀어보기
 
