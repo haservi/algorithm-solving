@@ -38,6 +38,7 @@
 | 021 |                    | [ZOAC](https://www.acmicpc.net/problem/16719) | [Java](./problem/_021_ZOAC/Main.java) |
 | 022 |                    | [빙고](https://www.acmicpc.net/problem/2578) | [Java](./problem/_022_빙고/Main.java) |
 | 023 |                    | [ZOAC 3](https://www.acmicpc.net/problem/20436) | [Java](./problem/_023_ZOAC_3/Main.java) |
+| 024 |                    | [상어 초등학교](https://www.acmicpc.net/problem/21608) | [Java](./problem/_024_상어_초등학교/Main.java) |
 
 ## 단계별로 풀어보기
 
