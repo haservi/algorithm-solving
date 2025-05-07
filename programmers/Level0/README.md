@@ -154,6 +154,7 @@
 | 147 |                    | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [Java](./solution/_147_안전지대/Solution.java) |
 | 148 |                    | [숨어있는 숫자의 덧셈 2](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [Java](./solution/_148_숨어있는_숫자의_덧셈_2/Solution.java) |
 | 149 |                    | [최댓값 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | [Java](./solution/_149_최댓값_만들기_2/Solution.java) |
+| 150 |                    | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [Java](./solution/_150_직사각형_넓이_구하기/Solution.java) |
 
 ## SQL
 
