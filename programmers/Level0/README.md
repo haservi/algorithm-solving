@@ -155,6 +155,7 @@
 | 148 |                    | [숨어있는 숫자의 덧셈 2](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [Java](./solution/_148_숨어있는_숫자의_덧셈_2/Solution.java) |
 | 149 |                    | [최댓값 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | [Java](./solution/_149_최댓값_만들기_2/Solution.java) |
 | 150 |                    | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [Java](./solution/_150_직사각형_넓이_구하기/Solution.java) |
+| 151 |                    | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [Java](./solution/_151_팩토리얼/Solution.java) |
 
 ## SQL
 
