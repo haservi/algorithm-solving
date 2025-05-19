@@ -157,6 +157,7 @@
 | 150 |                    | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [Java](./solution/_150_직사각형_넓이_구하기/Solution.java) |
 | 151 |                    | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [Java](./solution/_151_팩토리얼/Solution.java) |
 | 152 |                    | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | [Java](./solution/_152_합성수_찾기/Solution.java) |
+| 153 |                    | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [Java](./solution/_153_공_던지기/Solution.java) |
 
 ## SQL
 
