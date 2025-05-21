@@ -158,6 +158,7 @@
 | 151 |                    | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [Java](./solution/_151_팩토리얼/Solution.java) |
 | 152 |                    | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | [Java](./solution/_152_합성수_찾기/Solution.java) |
 | 153 |                    | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [Java](./solution/_153_공_던지기/Solution.java) |
+| 154 |                    | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [Java](./solution/_154_2차원으로_만들기/Solution.java) |
 
 ## SQL
 
