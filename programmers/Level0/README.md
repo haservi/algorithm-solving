@@ -160,6 +160,7 @@
 | 153 |                    | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [Java](./solution/_153_공_던지기/Solution.java) |
 | 154 |                    | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [Java](./solution/_154_2차원으로_만들기/Solution.java) |
 | 155 |                    | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | [Java](./solution/_155_ad_제거하기/Solution.java) |
+| 156 |                    | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | [Java](./solution/_156_소문자로_바꾸기/Solution.java) |
 
 ## SQL
 
