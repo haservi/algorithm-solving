@@ -161,6 +161,7 @@
 | 154 |                    | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [Java](./solution/_154_2차원으로_만들기/Solution.java) |
 | 155 |                    | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | [Java](./solution/_155_ad_제거하기/Solution.java) |
 | 156 |                    | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | [Java](./solution/_156_소문자로_바꾸기/Solution.java) |
+| 157 |                    | [배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | [Java](./solution/_157_배열에서_문자열_대소문자_변환하기/Solution.java) |
 
 ## SQL
 
