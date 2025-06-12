@@ -163,6 +163,7 @@
 | 156 |                    | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | [Java](./solution/_156_소문자로_바꾸기/Solution.java) |
 | 157 |                    | [배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | [Java](./solution/_157_배열에서_문자열_대소문자_변환하기/Solution.java) |
 | 158 |                    | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | [Java](./solution/_158_공백으로_구분하기_1/Solution.java) |
+| 159 |                    | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | [Java](./solution/_159_공백으로_구분하기_2/Solution.java) |
 
 ## SQL
 
