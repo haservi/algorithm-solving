@@ -165,6 +165,7 @@
 | 158 |                    | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | [Java](./solution/_158_공백으로_구분하기_1/Solution.java) |
 | 159 |                    | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | [Java](./solution/_159_공백으로_구분하기_2/Solution.java) |
 | 160 |                    | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867) | [Java](./solution/_160_x_사이의_개수/Solution.java) |
+| 161 |                    | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866) | [Java](./solution/_161_문자열_잘라서_정렬하기/Solution.java) |
 
 ## SQL
 
