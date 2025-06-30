@@ -168,6 +168,7 @@
 | 161 |                    | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866) | [Java](./solution/_161_문자열_잘라서_정렬하기/Solution.java) |
 | 162 |                    | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | [Java](./solution/_162_뒤에서_5등까지/Solution.java) |
 | 163 |                    | [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836) | [Java](./solution/_163_그림_확대/Solution.java) |
+| 164 |                    | [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863) | [Java](./solution/_164_rny_string/Solution.java) |
 
 ## SQL
 
