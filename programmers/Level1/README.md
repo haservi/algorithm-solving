@@ -82,6 +82,7 @@
 | 75 |                    | [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) | [Java](./solution/_75_가장_많이_받은_선물/Solution.java) |
 | 76 |                    | [지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) | [Java](./solution/_76_지폐_접기/Solution.java) |
 | 77 | :white_check_mark: | [공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198) | [Java](./solution/_77_공원/Solution.java) |
+| 78 |                    | [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) | [Java](./solution/_78_택배_상자_꺼내기/Solution.java) |
 
 ## SQL
 
