@@ -170,6 +170,7 @@
 | 163 |                    | [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836) | [Java](./solution/_163_그림_확대/Solution.java) |
 | 164 |                    | [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863) | [Java](./solution/_164_rny_string/Solution.java) |
 | 165 |                    | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [Java](./solution/_165_배열의_원소만큼_추가하기/Solution.java) |
+| 166 |                    | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860) | [Java](./solution/_166_빈_배열에_추가_삭제하기/Solution.java) |
 
 ## SQL
 
