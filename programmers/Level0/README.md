@@ -171,6 +171,7 @@
 | 164 |                    | [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863) | [Java](./solution/_164_rny_string/Solution.java) |
 | 165 |                    | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [Java](./solution/_165_배열의_원소만큼_추가하기/Solution.java) |
 | 166 |                    | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860) | [Java](./solution/_166_빈_배열에_추가_삭제하기/Solution.java) |
+| 167 |                    | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859) | [Java](./solution/_167_배열_만들기_6/Solution.java) |
 
 ## SQL
 
