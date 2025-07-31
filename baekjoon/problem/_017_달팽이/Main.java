@@ -50,8 +50,10 @@ public class Main {
             step++;
         }
 
+        // 표 표시 및 타겟 위치 선정
         StringBuilder sb = new StringBuilder();
-        int tx = 0, ty = 0;
+        int tx = 0;
+        int ty = 0;
         for (int i = 0; i < boxSize; i++) {
             for (int j = 0; j < boxSize; j++) {
                 if (target == map[i][j]) {
@@ -66,6 +68,7 @@ public class Main {
         return sb.toString();
     }
 
+    @SuppressWarnings("unused")
     private static String solution2(int boxSize, int target) {
         int[][] map = new int[boxSize][boxSize];
         int value = 1;
