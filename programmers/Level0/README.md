@@ -173,6 +173,7 @@
 | 166 |                    | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860) | [Java](./solution/_166_빈_배열에_추가_삭제하기/Solution.java) |
 | 167 |                    | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859) | [Java](./solution/_167_배열_만들기_6/Solution.java) |
 | 168 |                    | [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858) | [Java](./solution/_168_무작위로_K개의_수_뽑기/Solution.java) |
+| 169 |                    | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855) | [Java](./solution/_169_문자열_묶기/Solution.java) |
 
 ## SQL
 
