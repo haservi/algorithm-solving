@@ -174,6 +174,7 @@
 | 167 |                    | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859) | [Java](./solution/_167_배열_만들기_6/Solution.java) |
 | 168 |                    | [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858) | [Java](./solution/_168_무작위로_K개의_수_뽑기/Solution.java) |
 | 169 |                    | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855) | [Java](./solution/_169_문자열_묶기/Solution.java) |
+| 170 |                    | [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | [Java](./solution/_170_부분_문자열인지_확인하기/Solution.java) |
 
 ## SQL
 
