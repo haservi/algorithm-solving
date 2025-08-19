@@ -177,6 +177,7 @@
 | 170 |                    | [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | [Java](./solution/_170_부분_문자열인지_확인하기/Solution.java) |
 | 171 |                    | [정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840) | [Java](./solution/_171_정수_찾기/Solution.java) |
 | 172 |                    | [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | [Java](./solution/_172_주사위_게임_1/Solution.java) |
+| 173 |                    | [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829) | [Java](./solution/_173_이차원_배열_대각선_순회하기/Solution.java) |
 
 ## SQL
 
