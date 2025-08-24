@@ -179,6 +179,7 @@
 | 172 |                    | [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | [Java](./solution/_172_주사위_게임_1/Solution.java) |
 | 173 |                    | [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829) | [Java](./solution/_173_이차원_배열_대각선_순회하기/Solution.java) |
 | 174 |                    | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [Java](./solution/_174_다음에_올_숫자/Solution.java) |
+| 175 |                    | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | [Java](./solution/_175_7의_개수/Solution.java) |
 
 ## SQL
 
