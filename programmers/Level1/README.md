@@ -83,6 +83,7 @@
 | 76 |                    | [지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) | [Java](./solution/_76_지폐_접기/Solution.java) |
 | 77 | :white_check_mark: | [공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198) | [Java](./solution/_77_공원/Solution.java) |
 | 78 |                    | [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) | [Java](./solution/_78_택배_상자_꺼내기/Solution.java) |
+| 79 |                    | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) | [Java](./solution/_79_유연근무제/Solution.java) |
 
 ## SQL
 
