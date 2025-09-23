@@ -23,6 +23,20 @@
 
 ```
 
+### 문제 템플릿 생성 스크립트
+
+- 프로그래머스 문제 추가 방법
+
+```bash
+python3 programmers.py --name "문제이름" --url "문제URL" --lang Java --level 0
+```
+
+- 백준 문제 추가 방법
+
+```bash
+python3 baekjoon.py --name "문제이름" --url "문제URL" --lang Python
+```
+
 ### 문제 풀이
 
 - 프로그래머스([문제풀이](./programmers/))
