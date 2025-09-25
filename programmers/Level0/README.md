@@ -181,6 +181,7 @@
 | 174 |                    | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [Java](./solution/_174_다음에_올_숫자/Solution.java) |
 | 175 |                    | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | [Java](./solution/_175_7의_개수/Solution.java) |
 | 176 |                    | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | [Java](./solution/_176_캐릭터의_좌표/Solution.java) |
+| 177 |                    | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | [Java](./solution/_177_가까운_수/Solution.java) |
 
 ## SQL
 
