@@ -184,6 +184,7 @@
 | 177 |                    | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | [Java](./solution/_177_가까운_수/Solution.java) |
 | 178 |                    | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846) | [Java](./solution/_178_두_수의_합/Solution.java) |
 | 179 |                    | [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904) | [Java](./solution/_179_숫자_찾기/Solution.java) |
+| 180 |                    | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | [Java](./solution/_180_등수_매기기/Solution.java) |
 
 ## SQL
 
