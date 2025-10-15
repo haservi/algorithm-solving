@@ -185,6 +185,7 @@
 | 178 |                    | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846) | [Java](./solution/_178_두_수의_합/Solution.java) |
 | 179 |                    | [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904) | [Java](./solution/_179_숫자_찾기/Solution.java) |
 | 180 |                    | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | [Java](./solution/_180_등수_매기기/Solution.java) |
+| 181 |                    | [배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857) | [Java](./solution/_181_배열의_길이를_2의_거듭제곱으로_만들기/Solution.java) |
 
 ## SQL
 
