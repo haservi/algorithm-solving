@@ -187,6 +187,7 @@
 | 180 |                    | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | [Java](./solution/_180_등수_매기기/Solution.java) |
 | 181 |                    | [배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857) | [Java](./solution/_181_배열의_길이를_2의_거듭제곱으로_만들기/Solution.java) |
 | 182 |                    | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854?language=java) | [Java](./solution/_182_배열의_길이에_따라_다른_연산하기/Solution.java) |
+| 183 |                    | [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | [Java](./solution/_183_뒤에서_5등_위로/Solution.java) |
 
 ## SQL
 
