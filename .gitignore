@@ -2,5 +2,7 @@
 !libs/**/*.jar
 
 .idea
+out/
+
 .vscode
 
