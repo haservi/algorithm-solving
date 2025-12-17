@@ -1,2 +1,6 @@
 *.jar
 !libs/**/*.jar
+
+.idea
+.vscode
+
