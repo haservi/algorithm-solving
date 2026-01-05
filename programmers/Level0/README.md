@@ -191,6 +191,7 @@
 | 184 |                    | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | [Java](./solution/_184_0_떼기/Solution.java), [Kotlin](./solution/_184_0_떼기/Solution.kt) |
 | 185 |                    | [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | [Java](./solution/_185_문자열로_변환/Solution.java) |
 | 186 |                    | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | [Java](./solution/_186_배열의_원소_삭제하기/Solution.java) |
+| 187 |                    | [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | [Java](./solution/_187_꼬리_문자열/Solution.java) |
 
 ## SQL
 
