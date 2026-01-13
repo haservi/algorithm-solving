@@ -192,6 +192,7 @@
 | 185 |                    | [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | [Java](./solution/_185_문자열로_변환/Solution.java) |
 | 186 |                    | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | [Java](./solution/_186_배열의_원소_삭제하기/Solution.java) |
 | 187 |                    | [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | [Java](./solution/_187_꼬리_문자열/Solution.java) |
+| 188 |                    | [조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | [Java](./solution/_188_조건에_맞게_수열_변환하기_3/Solution.java) |
 
 ## SQL
 
