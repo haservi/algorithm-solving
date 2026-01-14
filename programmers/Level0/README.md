@@ -195,6 +195,7 @@
 | 188 |                    | [조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | [Java](./solution/_188_조건에_맞게_수열_변환하기_3/Solution.java) |
 | 189 |                    | [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834) | [Java](./solution/_189_l로_만들기/Solution.java) |
 | 190 |                    | [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | [Java](./solution/_190_특별한_이차원_배열_1/Solution.java) |
+| 191 |                    | [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [Java](./solution/_191_특별한_이차원_배열_2/Solution.java) |
 
 ## SQL
 
