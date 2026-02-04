@@ -198,6 +198,7 @@
 | 191 |                    | [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [Java](./solution/_191_특별한_이차원_배열_2/Solution.java) |
 | 192 |                    | [옹알이 1](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | [Java](./solution/_192_옹알이_1/Solution.java) |
 | 193 |                    | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [Java](./solution/_193_연속된_수의_합/Solution.java) |
+| 194 |                    | [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) | [Java](./solution/_194_종이_자르기/Solution.java) |
 
 ## SQL
 
