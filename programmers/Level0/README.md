@@ -200,6 +200,7 @@
 | 193 |                    | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [Java](./solution/_193_연속된_수의_합/Solution.java) |
 | 194 |                    | [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) | [Java](./solution/_194_종이_자르기/Solution.java) |
 | 195 |                    | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [Java](./solution/_195_문자열_밀기/Solution.java) |
+| 196 |                    | [문자열 정렬하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | [Java](./solution/_196_문자열_정렬하기_2/Solution.java) |
 
 ## SQL
 
