@@ -199,6 +199,7 @@
 | 192 |                    | [옹알이 1](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | [Java](./solution/_192_옹알이_1/Solution.java) |
 | 193 |                    | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [Java](./solution/_193_연속된_수의_합/Solution.java) |
 | 194 |                    | [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) | [Java](./solution/_194_종이_자르기/Solution.java) |
+| 195 |                    | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [Java](./solution/_195_문자열_밀기/Solution.java) |
 
 ## SQL
 
