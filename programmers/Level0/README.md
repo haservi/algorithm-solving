@@ -203,6 +203,7 @@
 | 196 |                    | [문자열 정렬하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | [Java](./solution/_196_문자열_정렬하기_2/Solution.java) |
 | 197 |                    | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [Java](./solution/_197_OX퀴즈/Solution.java) |
 | 198 |                    | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) | [Java](./solution/_198_n의_배수_고르기/Solution.java) |
+| 199 |                    | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | [Java](./solution/_199_문자열_계산하기/Solution.java) |
 
 ## SQL
 
