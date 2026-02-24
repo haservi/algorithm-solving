@@ -204,6 +204,7 @@
 | 197 |                    | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [Java](./solution/_197_OX퀴즈/Solution.java) |
 | 198 |                    | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) | [Java](./solution/_198_n의_배수_고르기/Solution.java) |
 | 199 |                    | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | [Java](./solution/_199_문자열_계산하기/Solution.java) |
+| 200 |                    | [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | [Java](./solution/_200_한_번만_등장한_문자/Solution.java) |
 
 ## SQL
 
