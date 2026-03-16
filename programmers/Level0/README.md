@@ -207,6 +207,7 @@
 | 200 |                    | [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | [Java](./solution/_200_한_번만_등장한_문자/Solution.java) |
 | 201 |                    | [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913) | [Java](./solution/_201_잘라서_배열로_저장하기/Solution.java) |
 | 202 |                    | [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | [Java](./solution/_202_인덱스_바꾸기/Solution.java) |
+| 203 |                    | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | [Java](./solution/_203_영어가_싫어요/Solution.java) |
 
 ## SQL
 
