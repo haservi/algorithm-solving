@@ -208,6 +208,7 @@
 | 201 |                    | [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913) | [Java](./solution/_201_잘라서_배열로_저장하기/Solution.java) |
 | 202 |                    | [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | [Java](./solution/_202_인덱스_바꾸기/Solution.java) |
 | 203 |                    | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | [Java](./solution/_203_영어가_싫어요/Solution.java) |
+| 204 |                    | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | [Java](./solution/_204_대문자와_소문자/Solution.java) |
 
 ## SQL
 
