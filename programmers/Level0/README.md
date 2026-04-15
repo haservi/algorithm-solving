@@ -210,6 +210,7 @@
 | 203 |                    | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | [Java](./solution/_203_영어가_싫어요/Solution.java) |
 | 204 |                    | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | [Java](./solution/_204_대문자와_소문자/Solution.java) |
 | 205 |                    | [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | [Java](./solution/_205_암호_해독/Solution.java) |
+| 206 |                    | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [Java](./solution/_206_문자열_정렬하기_1/Solution.java) |
 | 207 |                    | [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | [Java](./solution/_207_369게임/Solution.java) |
 
 ## SQL
